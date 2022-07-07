@@ -212,6 +212,16 @@
         </li>
       
         
+        <li class="menu-item menu-item-study">
+          <a href="/categories/Study" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-graduation-cap"></i> <br />
+            
+            Study
+          </a>
+        </li>
+      
+        
         <li class="menu-item menu-item-books">
           <a href="/categories/Books" rel="section">
             
@@ -418,25 +428,20 @@
       
         <p>使用hexo下的NexT主题及其插件，个性化博客界面与添加功能。</p>
 <span id="more"></span>
-
 <h2 id="修改文章的永久链接"><a href="#修改文章的永久链接" class="headerlink" title="修改文章的永久链接"></a>修改文章的永久链接</h2><h3 id="安装模块"><a href="#安装模块" class="headerlink" title="安装模块"></a>安装模块</h3><p>在hexo项目文件夹当中打开git bash，使用<code>npm install hexo-abbrlink --save</code>安装命令安装插件</p>
 <h3 id="修改代码"><a href="#修改代码" class="headerlink" title="修改代码"></a>修改代码</h3><p>修改根目录的_config.yml文件，搜索permalink为以下代码，即可修改默认的permalink生成样式</p>
 <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># permalink: :year/:month/:day/:title/</span><br><span class="line"># permalink_defaults:</span><br><span class="line">permalink: post/:abbrlink.html</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32</span><br><span class="line">  rep: hex</span><br></pre></td></tr></table></figure>
-
 <h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p><a target="_blank" rel="noopener" href="https://lewky.cn/posts/hexo-2.1.html/">NexT主题美化与博客功能增强</a></p>
 <h2 id="侧边栏菜单添加页面导航-自定义小图标"><a href="#侧边栏菜单添加页面导航-自定义小图标" class="headerlink" title="侧边栏菜单添加页面导航+自定义小图标"></a>侧边栏菜单添加页面导航+自定义小图标</h2><h3 id="添加页面导航"><a href="#添加页面导航" class="headerlink" title="添加页面导航"></a>添加页面导航</h3><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">menu</span>:</span><br><span class="line">  item: /categories/subcategories|| icon-name</span><br></pre></td></tr></table></figure>
-
 <p>即可添加名为item的新页面导航。</p>
 <p>打开<code>/next/languages/zh-Hans.yml</code>文件，在<code>menu</code>中添加相关条目</p>
 <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">menu</span>:</span><br><span class="line">  home: 首页</span><br><span class="line">  archives: 归档</span><br><span class="line">  categories: 分类</span><br><span class="line">  tags: 标签</span><br><span class="line">  music: 音乐</span><br></pre></td></tr></table></figure>
-
 <h3 id="小图标"><a href="#小图标" class="headerlink" title="小图标"></a>小图标</h3><p>在<a target="_blank" rel="noopener" href="https://fontawesome.com/icons">图标库</a>当中查找想要的图标，确认该图标的名称，然后在<code>/themes/next/_config.yml</code>中进行修改</p>
 <ul>
 <li>在menu中条目的<code>||</code>后添加图标名称</li>
 <li>在menu_icons中将enable值改为true，然后用<code>item: icon-name</code>的格式添加自定义图标条目</li>
 </ul>
 <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">menu</span>:</span><br><span class="line">  home: /|| home</span><br><span class="line">  tags: /tags/|| tags</span><br><span class="line">  categories: /categories/|| th</span><br><span class="line">  archives: /archives/|| archive</span><br><span class="line">  music: /categories/Music|| music</span><br><span class="line"></span><br><span class="line"># Enable/Disable menu icons.</span><br><span class="line">menu_icons:</span><br><span class="line">  enable: true</span><br><span class="line">  music: music</span><br></pre></td></tr></table></figure>
-
 <h3 id="参考-1"><a href="#参考-1" class="headerlink" title="参考"></a>参考</h3><p><a target="_blank" rel="noopener" href="https://www.jianshu.com/p/7e30afa09fab">hexo侧边栏社交小图标设置</a></p>
 
       
@@ -559,7 +564,7 @@
               
                 <a href="/">
               
-                  <span class="site-state-item-count">6</span>
+                  <span class="site-state-item-count">7</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -570,7 +575,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">categories</span>
                 </a>
               </div>
@@ -581,7 +586,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-count">10</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -833,6 +838,8 @@
   
 
   
+  
+
 
   
 

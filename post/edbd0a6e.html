@@ -215,6 +215,16 @@
         </li>
       
         
+        <li class="menu-item menu-item-study">
+          <a href="/categories/Study" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-graduation-cap"></i> <br />
+            
+            Study
+          </a>
+        </li>
+      
+        
         <li class="menu-item menu-item-books">
           <a href="/categories/Books" rel="section">
             
@@ -421,7 +431,6 @@
       
         <p>解决使用hexo下的NexT主题搭建博客中的各种问题</p>
 <span id="more"></span>
-
 <h2 id="网页远程部署后无法显示css文件"><a href="#网页远程部署后无法显示css文件" class="headerlink" title="网页远程部署后无法显示css文件"></a>网页远程部署后无法显示css文件</h2><h3 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h3><p>在hexo项目中写完博客，使用<code>hexo s</code>查看静态页面一切正常，但使用<code>hexo d</code>部署到网页之后无法通过域名查看网页（跳转到goDaddy界面），或是只显示内容而不显示css样式。</p>
 <h3 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h3><ol>
 <li>清除网页缓存，使用<code>Ctrl + F5</code>进行刷新而不是<code>F5</code></li>
@@ -432,7 +441,6 @@
 <h2 id="修改语言设置不起作用"><a href="#修改语言设置不起作用" class="headerlink" title="修改语言设置不起作用"></a>修改语言设置不起作用</h2><h3 id="问题描述-1"><a href="#问题描述-1" class="headerlink" title="问题描述"></a>问题描述</h3><p>在_config.yml中将语言修改为zh-CN但界面部署仍然显示英文</p>
 <h3 id="解决-1"><a href="#解决-1" class="headerlink" title="解决"></a>解决</h3><p>next主题当中的简体中文名称为zh-Hans，而不是zh-CN。</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">├── next</span><br><span class="line">|	├──languages</span><br><span class="line">|   	├──zh-Hans.yml</span><br><span class="line">|   	└──zh-hk.yml</span><br><span class="line">|   	└──zh-tw.yml</span><br></pre></td></tr></table></figure>
-
 <p>将文件名称修改为zh-CN或将_config.yml中的语言设置栏修改为zh-Hans</p>
 <h2 id="使用GoDaddy购买的域名访问过慢或解析失败"><a href="#使用GoDaddy购买的域名访问过慢或解析失败" class="headerlink" title="使用GoDaddy购买的域名访问过慢或解析失败"></a>使用GoDaddy购买的域名访问过慢或解析失败</h2><h3 id="问题描述-2"><a href="#问题描述-2" class="headerlink" title="问题描述"></a>问题描述</h3><p>在浏览器中输入绑定个人博客的自定义域名之后无法加载博客首页，而跳转到域名服务商的界面，显示相关网站没有建立。主要问题是在GoDaddy购买的域名，默认的Nameserver在国外运营，且github网站也部署在国外，从国内访问极不稳定，时常出现无法访问的问题。</p>
 <h3 id="解决：使用vercel代理"><a href="#解决：使用vercel代理" class="headerlink" title="解决：使用vercel代理"></a>解决：使用vercel代理</h3><p>默认的域名服务器</p>
@@ -567,7 +575,7 @@
               
                 <a href="/">
               
-                  <span class="site-state-item-count">6</span>
+                  <span class="site-state-item-count">7</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -578,7 +586,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">7</span>
+                  <span class="site-state-item-count">8</span>
                   <span class="site-state-item-name">categories</span>
                 </a>
               </div>
@@ -589,7 +597,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">8</span>
+                  <span class="site-state-item-count">10</span>
                   <span class="site-state-item-name">tags</span>
                 </a>
               </div>
@@ -841,6 +849,8 @@
   
 
   
+  
+
 
   
 
