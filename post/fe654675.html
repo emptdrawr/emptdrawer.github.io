@@ -45,6 +45,32 @@
 
 
 
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="https://fonts.lug.ustc.edu.cn/css?family=Noto Serif SC:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
 
 
 
@@ -87,7 +113,7 @@
 <meta property="og:description" content="使用hexo下的NexT主题及其插件，个性化博客界面与添加功能。">
 <meta property="og:locale" content="en_US">
 <meta property="article:published_time" content="2022-07-06T10:36:46.000Z">
-<meta property="article:modified_time" content="2022-07-06T10:45:00.909Z">
+<meta property="article:modified_time" content="2022-10-11T16:02:10.751Z">
 <meta property="article:author" content="EmptDrawr">
 <meta property="article:tag" content="hexo">
 <meta property="article:tag" content="个人博客管理">
@@ -399,7 +425,7 @@
                   <span class="post-meta-item-text">Words count in article&#58;</span>
                 
                 <span title="Words count in article">
-                  314
+                  460
                 </span>
               
 
@@ -438,21 +464,35 @@
       
         <p>使用hexo下的NexT主题及其插件，个性化博客界面与添加功能。</p>
 <span id="more"></span>
-<h2 id="修改文章的永久链接"><a href="#修改文章的永久链接" class="headerlink" title="修改文章的永久链接"></a>修改文章的永久链接</h2><h3 id="安装模块"><a href="#安装模块" class="headerlink" title="安装模块"></a>安装模块</h3><p>在hexo项目文件夹当中打开git bash，使用<code>npm install hexo-abbrlink --save</code>安装命令安装插件</p>
-<h3 id="修改代码"><a href="#修改代码" class="headerlink" title="修改代码"></a>修改代码</h3><p>修改根目录的_config.yml文件，搜索permalink为以下代码，即可修改默认的permalink生成样式</p>
+<h2><span id="修改文章的永久链接">修改文章的永久链接</span></h2><h3><span id="安装模块">安装模块</span></h3><p>在hexo项目文件夹当中打开git bash，使用<code>npm install hexo-abbrlink --save</code>安装命令安装插件</p>
+<h3><span id="修改代码">修改代码</span></h3><p>修改根目录的_config.yml文件，搜索permalink为以下代码，即可修改默认的permalink生成样式</p>
 <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># permalink: :year/:month/:day/:title/</span><br><span class="line"># permalink_defaults:</span><br><span class="line">permalink: post/:abbrlink.html</span><br><span class="line">abbrlink:</span><br><span class="line">  alg: crc32</span><br><span class="line">  rep: hex</span><br></pre></td></tr></table></figure>
-<h3 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h3><p><a target="_blank" rel="noopener" href="https://lewky.cn/posts/hexo-2.1.html/">NexT主题美化与博客功能增强</a></p>
-<h2 id="侧边栏菜单添加页面导航自定义小图标"><a href="#侧边栏菜单添加页面导航-自定义小图标" class="headerlink" title="侧边栏菜单添加页面导航+自定义小图标"></a>侧边栏菜单添加页面导航+自定义小图标</h2><h3 id="添加页面导航"><a href="#添加页面导航" class="headerlink" title="添加页面导航"></a>添加页面导航</h3><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">menu</span>:</span><br><span class="line">  item: /categories/subcategories|| icon-name</span><br></pre></td></tr></table></figure>
+<h3><span id="参考">参考</span></h3><p><a target="_blank" rel="noopener" href="https://lewky.cn/posts/hexo-2.1.html/">NexT主题美化与博客功能增强</a></p>
+<h2><span id="侧边栏菜单添加页面导航自定义小图标">侧边栏菜单添加页面导航+自定义小图标</span></h2><h3><span id="添加页面导航">添加页面导航</span></h3><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">menu</span>:</span><br><span class="line">  item: /categories/subcategories|| icon-name</span><br></pre></td></tr></table></figure>
 <p>即可添加名为item的新页面导航。</p>
 <p>打开<code>/next/languages/zh-Hans.yml</code>文件，在<code>menu</code>中添加相关条目</p>
 <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">menu</span>:</span><br><span class="line">  home: 首页</span><br><span class="line">  archives: 归档</span><br><span class="line">  categories: 分类</span><br><span class="line">  tags: 标签</span><br><span class="line">  music: 音乐</span><br></pre></td></tr></table></figure>
-<h3 id="小图标"><a href="#小图标" class="headerlink" title="小图标"></a>小图标</h3><p>在<a target="_blank" rel="noopener" href="https://fontawesome.com/icons">图标库</a>当中查找想要的图标，确认该图标的名称，然后在<code>/themes/next/_config.yml</code>中进行修改</p>
+<h3><span id="小图标">小图标</span></h3><p>在<a target="_blank" rel="noopener" href="https://fontawesome.com/icons">图标库</a>当中查找想要的图标，确认该图标的名称，然后在<code>/themes/next/_config.yml</code>中进行修改</p>
 <ul>
 <li>在menu中条目的<code>||</code>后添加图标名称</li>
 <li>在menu_icons中将enable值改为true，然后用<code>item: icon-name</code>的格式添加自定义图标条目</li>
 </ul>
 <figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-tag">menu</span>:</span><br><span class="line">  home: /|| home</span><br><span class="line">  tags: /tags/|| tags</span><br><span class="line">  categories: /categories/|| th</span><br><span class="line">  archives: /archives/|| archive</span><br><span class="line">  music: /categories/Music|| music</span><br><span class="line"></span><br><span class="line"># Enable/Disable menu icons.</span><br><span class="line">menu_icons:</span><br><span class="line">  enable: true</span><br><span class="line">  music: music</span><br></pre></td></tr></table></figure>
-<h3 id="参考"><a href="#参考-1" class="headerlink" title="参考"></a>参考</h3><p><a target="_blank" rel="noopener" href="https://www.jianshu.com/p/7e30afa09fab">hexo侧边栏社交小图标设置</a></p>
+<h3><span id="参考">参考</span></h3><p><a target="_blank" rel="noopener" href="https://www.jianshu.com/p/7e30afa09fab">hexo侧边栏社交小图标设置</a></p>
+<h2><span id="全局自定义字体">全局自定义字体</span></h2><h3><span id="修改字体样式">修改字体样式</span></h3><p>找到博客文件夹中的<code>&gt;themes&gt;next&gt;_config.yml</code></p>
+<ul>
+<li>将font下的enable改为true</li>
+<li>将host修改为<code>https://fonts.lug.ustc.edu.cn</code></li>
+<li>将global下的external修改为true</li>
+<li>将global下的family修改为Noto Serif SC</li>
+</ul>
+<p>最终修改后代码如下：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">font:</span></span><br><span class="line">  <span class="attr">enable:</span> <span class="literal">true</span></span><br><span class="line"></span><br><span class="line">  <span class="comment"># Uri of fonts host. E.g. //fonts.googleapis.com (Default).</span></span><br><span class="line">  <span class="attr">host:</span> <span class="string">https://fonts.lug.ustc.edu.cn</span></span><br><span class="line"></span><br><span class="line">  <span class="attr">global:</span></span><br><span class="line">    <span class="attr">external:</span> <span class="literal">true</span></span><br><span class="line">    <span class="attr">family:</span> <span class="string">Noto</span> <span class="string">Serif</span> <span class="string">SC</span></span><br><span class="line">    <span class="attr">size:</span></span><br></pre></td></tr></table></figure>
+<h3><span id="修改字体大小">修改字体大小</span></h3><p>找到next文件夹下的<code>source&gt;css&gt;_variables&gt;base.styl</code></p>
+<ul>
+<li>搜索font size</li>
+<li>修改font-size-base即可。思源宋体搭配16-18px看起来会比较舒适</li>
+</ul>
 
       
     </div>
@@ -574,7 +614,7 @@
               
                 <a href="/">
               
-                  <span class="site-state-item-count">10</span>
+                  <span class="site-state-item-count">11</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
@@ -645,7 +685,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9%E6%96%87%E7%AB%A0%E7%9A%84%E6%B0%B8%E4%B9%85%E9%93%BE%E6%8E%A5"><span class="nav-number">1.</span> <span class="nav-text">修改文章的永久链接</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%AE%89%E8%A3%85%E6%A8%A1%E5%9D%97"><span class="nav-number">1.1.</span> <span class="nav-text">安装模块</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%BF%AE%E6%94%B9%E4%BB%A3%E7%A0%81"><span class="nav-number">1.2.</span> <span class="nav-text">修改代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%82%E8%80%83"><span class="nav-number">1.3.</span> <span class="nav-text">参考</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%BE%A7%E8%BE%B9%E6%A0%8F%E8%8F%9C%E5%8D%95%E6%B7%BB%E5%8A%A0%E9%A1%B5%E9%9D%A2%E5%AF%BC%E8%88%AA%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B0%8F%E5%9B%BE%E6%A0%87"><span class="nav-number">2.</span> <span class="nav-text">侧边栏菜单添加页面导航+自定义小图标</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%B7%BB%E5%8A%A0%E9%A1%B5%E9%9D%A2%E5%AF%BC%E8%88%AA"><span class="nav-number">2.1.</span> <span class="nav-text">添加页面导航</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%B0%8F%E5%9B%BE%E6%A0%87"><span class="nav-number">2.2.</span> <span class="nav-text">小图标</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8F%82%E8%80%83"><span class="nav-number">2.3.</span> <span class="nav-text">参考</span></a></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link"><span class="nav-number">1.</span> <span class="nav-text">修改文章的永久链接</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">1.1.</span> <span class="nav-text">安装模块</span></a></li><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">1.2.</span> <span class="nav-text">修改代码</span></a></li><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">1.3.</span> <span class="nav-text">参考</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link"><span class="nav-number">2.</span> <span class="nav-text">侧边栏菜单添加页面导航+自定义小图标</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">2.1.</span> <span class="nav-text">添加页面导航</span></a></li><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">2.2.</span> <span class="nav-text">小图标</span></a></li><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">2.3.</span> <span class="nav-text">参考</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link"><span class="nav-number">3.</span> <span class="nav-text">全局自定义字体</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">3.1.</span> <span class="nav-text">修改字体样式</span></a></li><li class="nav-item nav-level-3"><a class="nav-link"><span class="nav-number">3.2.</span> <span class="nav-text">修改字体大小</span></a></li></ol></li></ol></div>
             
 
           </div>
