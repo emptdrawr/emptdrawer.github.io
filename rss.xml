@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Empt the Drawr</title><link>https://emptdrawr.github.io/</link><description>读书,看电影,听专辑,打代码,随意写点</description><generator>Hugo 0.109.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>emptdrawr@gmail.com (EmptDrawr)</managingEditor><webMaster>emptdrawr@gmail.com (EmptDrawr)</webMaster><lastBuildDate>Thu, 12 Jan 2023 23:34:30 +0800</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://emptdrawr.github.io/rss.xml"/><item><title>个人博客 从hexo迁移到hugo</title><link>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</guid><pubDate>Thu, 12 Jan 2023 20:22:11 +0800</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Empt the Drawr</title><link>https://emptdrawr.github.io/</link><description>读书,看电影,听专辑,打代码,随意写点</description><generator>Hugo 0.109.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>emptdrawr@gmail.com (EmptDrawr)</managingEditor><webMaster>emptdrawr@gmail.com (EmptDrawr)</webMaster><lastBuildDate>Thu, 12 Jan 2023 23:49:20 +0800</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://emptdrawr.github.io/rss.xml"/><item><title>个人博客 从hexo迁移到hugo</title><link>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</guid><pubDate>Thu, 12 Jan 2023 20:22:11 +0800</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
 &lt;h2 id="安装-installation">安装 installation&lt;/h2>
 &lt;h3 id="git语言开发环境">Git语言开发环境&lt;/h3>
 &lt;p>因为之前已经安装所以不再赘述。&lt;/p>
@@ -158,12 +158,84 @@ tags:
 &lt;p>需要在static文件里创建一个CNAME文件，里面写入自己的域名。如下所示：&lt;/p>
 &lt;img src="https://emptdrawr.github.io/个人博客-从hexo迁移到hugo/image-20230112223750756.png" alt="image-20230112223750756" style="zoom:33%;" />
 &lt;h3 id="部署到github">部署到GitHub&lt;/h3>
-&lt;p>把blog中的文件push到&lt;code>&amp;lt;username&amp;gt;.git.io&lt;/code>库的&lt;code>gh-pages&lt;/code>分支，随后在设置中把默认分支改为gh-pages。&lt;/p>
-&lt;h2 id="参考">参考&lt;/h2>
+&lt;p>进入&lt;code>blog\public\&lt;/code>文件，将其中的文件push到&lt;code>&amp;lt;username&amp;gt;.git.io&lt;/code>库的&lt;code>gh-pages&lt;/code>分支，随后在设置中把默认分支改为gh-pages。&lt;/p>
+&lt;h3 id="自动部署脚本">自动部署脚本&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">#!/bin/bash
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>&lt;span class="c1"># Program:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 发布hugo生成文件到GitHub Pages&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># History:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 2020.05.05 GeekWho First release.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># If a command fails then the deploy stops&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">set&lt;/span> -e
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">printf&lt;/span> &lt;span class="s2">&amp;#34;\033[0;32mDeploying updates to GitHub...\033[0m\n&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Build the project.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo --minify &lt;span class="c1"># if using a theme, replace with `hugo -t &amp;lt;YOURTHEME&amp;gt;`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Go To Public folder&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> public
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 切换到gh-pages&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git checkout gh-pages
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Add changes to git.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git add .
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Commit changes.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">msg&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;Published on &lt;/span>&lt;span class="k">$(&lt;/span>date +&lt;span class="s1">&amp;#39;%Y-%m-%d %H:%M:%S&amp;#39;&lt;/span>&lt;span class="k">)&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> -n &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$*&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">msg&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$*&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit -m &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$msg&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git pull --rebase origin gh-pages
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Push source and build repos.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push -f origin gh-pages
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="参考">参考&lt;/h2>
 &lt;ul>
 &lt;li>少数派/海边不吃鱼: &lt;a href="https://sspai.com/post/59904">浅谈我为什么从 HEXO 迁移到 HUGO&lt;/a>&lt;/li>
 &lt;li>reuixiy: &lt;a href="https://io-oi.me/tech/powered-by-hugo/">Powered by Hugo&lt;/a>&lt;/li>
 &lt;li>Hugo: &lt;a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">Host on GitHub&lt;/a>&lt;/li>
+&lt;li>神秘极客: &lt;a href="https://xbc.me/hugo-deploy/">Hugo部署方案&lt;/a>&lt;/li>
 &lt;/ul></description><category domain="https://emptdrawr.github.io/categories/study/">Study</category><category domain="https://emptdrawr.github.io/categories/cs/">CS</category><category domain="https://emptdrawr.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category><category domain="https://emptdrawr.github.io/tags/hugo/">hugo</category><category domain="https://emptdrawr.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%AE%A1%E7%90%86/">个人博客管理</category></item><item><title>随笔-人的记忆是有限的，亲爱的不是吗</title><link>https://emptdrawr.github.io/posts/we-have-limited-memory/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/we-have-limited-memory/</guid><pubDate>Sat, 12 Nov 2022 15:44:35 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>我已经无话可说，全部的语言都已在我身体里干涸。“任何语言都需要可供分享的东西”，事到如今我们已经没什么好分享的了。&lt;strong>11:29了，走，走吧&lt;/strong>。&lt;/p>
 &lt;h2 id="没什么可说的了">没什么可说的了，&lt;/h2>
 &lt;p>看图吧。&lt;/p>
