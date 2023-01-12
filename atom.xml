@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-13T00:02:28+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客 从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-12T23:54:19+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-13T01:25:55+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T00:29:21+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
 &lt;h2 id="安装-installation">安装 installation&lt;/h2>
 &lt;h3 id="git语言开发环境">Git语言开发环境&lt;/h3>
 &lt;p>因为之前已经安装所以不再赘述。&lt;/p>
@@ -619,7 +619,7 @@ tags:
 &lt;p>需要注意的是，&lt;strong>任何网站如果有诸如下图的界面、让你点击Allow/允许通知，&lt;em>都请不要点击&lt;/em>，直接关闭该网页再次点击下载链接即可&lt;/strong>。&lt;/p>
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003140450982.png" alt="image-20221003140450982" style="zoom:33%;" />
 &lt;p>可以看到成功加载了刚刚下载的英文字幕，至此大功告成！&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies"/><category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源"/><category scheme="https://emptdrawr.github.io/tags/bt%E4%B8%8B%E8%BD%BD/" term="BT下载" label="BT下载"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%99%E7%A8%8B/" term="教程" label="教程"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/"/><id>https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/</id><updated>2022-07-07T18:13:08+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h1 id="导读作者导言">导读+作者导言&lt;/h1>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies"/><category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源"/><category scheme="https://emptdrawr.github.io/tags/bt%E4%B8%8B%E8%BD%BD/" term="BT下载" label="BT下载"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%99%E7%A8%8B/" term="教程" label="教程"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/"/><id>https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/</id><updated>2023-01-13T00:03:49+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h1 id="导读作者导言">导读+作者导言&lt;/h1>
 &lt;p>导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p>
 &lt;blockquote>
 &lt;p>“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p>
@@ -669,32 +669,8 @@ tags:
 &lt;ol>
 &lt;li>为何在文化产业空间被挤压的俄罗斯能喷涌出这么多运用春秋笔法的优秀文学作品？&lt;/li>
 &lt;li>俄罗斯民族对于欧洲的态度也是一条展现其文化内核与民族认同感的重要线索，而每个民族心中或许都拥有“欧洲于俄罗斯”这样&lt;code>借鉴/批判&lt;/code>同时存在的地方。&lt;/li>
-&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/categories/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/"/><id>https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/</id><updated>2023-01-13T00:00:57+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h1 id="论文的结构">论文的结构&lt;/h1>
-&lt;h2 id="论文的三段式结构">论文的三段式结构&lt;/h2>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Introduction&lt;/th>
-&lt;th>议论文→逻辑&lt;/th>
-&lt;th>为整篇论文定位：论证研究目标的合理&lt;/th>
-&lt;th>普遍→特定&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Objective Method Result&lt;/td>
-&lt;td>说明文→清晰&lt;/td>
-&lt;td>用科学的语言把研究方法和研究成果说清楚&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Discussion&amp;amp; Conclusion&lt;/td>
-&lt;td>议论文→逻辑&lt;/td>
-&lt;td>本篇论文是有价值的：论证研究目标的价值&lt;/td>
-&lt;td>特定→普遍&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>……</summary><content type="html">&lt;h1 id="论文的结构">论文的结构&lt;/h1>
+&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/categories/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/"/><id>https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/</id><updated>2023-01-13T00:16:51+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>文献综述写法总结&lt;/p>……</summary><content type="html">&lt;p>文献综述写法总结&lt;/p>
+&lt;h1 id="论文的结构">论文的结构&lt;/h1>
 &lt;h2 id="论文的三段式结构">论文的三段式结构&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -816,21 +792,22 @@ $$&lt;/p>
 &lt;p>由点到线&lt;/p>
 &lt;p>从现有证据中归纳&lt;/p>
 &lt;p>&lt;strong>新规律&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="A0A319D1-045D-4426-BE7B-9556990FDB7D.png" alt="/学习记录-如何写文献综述-论文结构/A0A319D1-045D-4426-BE7B-9556990FDB7D.png">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/A0A319D1-045D-4426-BE7B-9556990FDB7D.png" alt="A0A319D1-045D-4426-BE7B-9556990FDB7D.png">&lt;/p>
 &lt;h3 id="演绎-deductive">演绎 Deductive&lt;/h3>
 &lt;p>由线到点&lt;/p>
 &lt;p>&lt;em>大前提-小前提-结论&lt;/em>&lt;/p>
 &lt;p>&lt;strong>新证据&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="EE772A8D-C80F-4678-8E25-BDADD19F121B.png" alt="/学习记录-如何写文献综述-论文结构/EE772A8D-C80F-4678-8E25-BDADD19F121B.png">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/EE772A8D-C80F-4678-8E25-BDADD19F121B.png" alt="EE772A8D-C80F-4678-8E25-BDADD19F121B.png">&lt;/p>
 &lt;h3 id="溯因-abductive">溯因 Abductive&lt;/h3>
 &lt;p>由点到虚线&lt;/p>
 &lt;p>从一堆看似杂乱无章的证据当中找出逻辑&lt;/p>
 &lt;p>&lt;strong>新假说&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png" alt="/学习记录-如何写文献综述-论文结构/E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png" alt="E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png">&lt;/p>
 &lt;p>需要进一步的验证&lt;/p>
 &lt;h2 id="从文献推出自己的论点">从文献推出自己的论点&lt;/h2>
 &lt;p>$$
-分解问题\
+\begin{array}
+k分解问题\
 \quad\downarrow\
 \quad\boxed{正方观点}\
 \quad\downarrow\
@@ -839,25 +816,26 @@ $$&lt;/p>
 \quad\boxed{关键补充或提升}\
 \quad\downarrow\
 \quad结论
+\end{array}
 $$&lt;/p>
 &lt;h1 id="参考">参考&lt;/h1>
 &lt;ul>
 &lt;li>逻辑清晰，每个部分时长都较短的论文视频：&lt;a href="https://www.bilibili.com/video/BV1mJ411m7YQ?share_source=copy_web">论文写作：如何写论文系列讲座合集 (1-10) 论文结构|引言|选题|研究目标|文献综述&lt;/a>&lt;/li>
 &lt;li>一篇写得非常符合标准文献综述要求、论文结构的论文：&lt;a href="https://repository.globethics.net/bitstream/handle/20.500.12424/170212/Study_Unspoken_Rules_of_Industry.pdf?sequence=1">行业潜规则研究——中国奶业产业的案例研究&lt;/a>&lt;/li>
-&lt;/ul></content><category scheme="https://emptdrawr.github.io/categories/study/" term="Study" label="Study"/><category scheme="https://emptdrawr.github.io/categories/%E8%AE%BA%E6%96%87/" term="论文" label="论文"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0/" term="文献综述" label="文献综述"/><category scheme="https://emptdrawr.github.io/tags/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C/" term="论文写作" label="论文写作"/></entry><entry><title type="text">听听专辑-When the Pawn</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%90%AC%E5%90%AC%E4%B8%93%E8%BE%91-when-the-pawns/"/><id>https://emptdrawr.github.io/posts/%E5%90%AC%E5%90%AC%E4%B8%93%E8%BE%91-when-the-pawns/</id><updated>2022-07-06T18:10:50+08:00</updated><published>2022-03-08T20:38:04+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>全名《When the Pawn Hits the Conflicts He Thinks like a King What He Knows Throws the Blows When He Goes to the Fight And He'll Win the Whole Thing 'Fore He Enters the Ring There's No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold You》，来自Fiona Apple，由On the Bound开头，紧凑但不显腻的鼓点拉开整张专辑的序幕。&lt;/p>
+&lt;/ul></content><category scheme="https://emptdrawr.github.io/categories/study/" term="Study" label="Study"/><category scheme="https://emptdrawr.github.io/categories/%E8%AE%BA%E6%96%87/" term="论文" label="论文"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0/" term="文献综述" label="文献综述"/><category scheme="https://emptdrawr.github.io/tags/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C/" term="论文写作" label="论文写作"/></entry><entry><title type="text">听听专辑-When the Pawn</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%90%AC%E5%90%AC%E4%B8%93%E8%BE%91-when-the-pawns/"/><id>https://emptdrawr.github.io/posts/%E5%90%AC%E5%90%AC%E4%B8%93%E8%BE%91-when-the-pawns/</id><updated>2023-01-13T00:03:18+08:00</updated><published>2022-03-08T20:38:04+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>全名《When the Pawn Hits the Conflicts He Thinks like a King What He Knows Throws the Blows When He Goes to the Fight And He'll Win the Whole Thing 'Fore He Enters the Ring There's No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold You》，来自Fiona Apple，由On the Bound开头，紧凑但不显腻的鼓点拉开整张专辑的序幕。&lt;/p>
 &lt;p>Fiona Apple的唱法让人更觉得这是一张爵士专辑，在第二首曲子To Your Love当中，诡秘旋律和毫不费力的怒音一起谱写了独立音乐女王的叛逆：“The shame is manifest in my resistance to your love”——与曲名给人的第一印象不同，这并非一首甜蜜情歌，而是距离感与爱情中的痛苦宣泄。&lt;/p>……</summary><content type="html">&lt;p>全名《When the Pawn Hits the Conflicts He Thinks like a King What He Knows Throws the Blows When He Goes to the Fight And He'll Win the Whole Thing 'Fore He Enters the Ring There's No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold You》，来自Fiona Apple，由On the Bound开头，紧凑但不显腻的鼓点拉开整张专辑的序幕。&lt;/p>
 &lt;p>Fiona Apple的唱法让人更觉得这是一张爵士专辑，在第二首曲子To Your Love当中，诡秘旋律和毫不费力的怒音一起谱写了独立音乐女王的叛逆：“The shame is manifest in my resistance to your love”——与曲名给人的第一印象不同，这并非一首甜蜜情歌，而是距离感与爱情中的痛苦宣泄。&lt;/p>
 &lt;p>紧接着的第三首Limp，前奏一出就用“You wanna make me sick You wanna lick my wounds”延续了这种痛苦与隐秘的情感暴力。“你想要舔舐我的伤口，你想要将骄傲建立在我的羞耻之上，你想要用你的苦涩谎言击打我。你喂食我身体里的野兽，你按下我的扳机然后责罪我手握枪支，你挥舞红布如斗牛般让我疲惫奔跑——而我却从未将他们付诸于你，也从未将回忆时握紧的拳头落在你身上”。歌词描述的痛苦关系：被谎言虐待却无可奈何、被伤害又被责怪的独白，让人不禁想到Fiona与著名导演PTA（保罗·托马斯·安德森）的恋爱。在多年以后的采访中，Fiona才敢于说出她和PTA的关系，是一段“toxic and ugly relationship”，PTA在她侧旁不断地说她是一个糟糕的伴侣、冲她说恶毒冰冷的话，愿Fiona的音乐给她力量。&lt;/p>
 &lt;p>与采用大量错落鼓点制造紧张感、对峙感的前三首不同，第四首Love Ridden更加舒缓，钢琴配上Fiona拉长了的唱腔，也显得更加悲伤。“And in a little while, we'll only have to wave, No, not 'baby' anymore”，仿佛永别前的最后通牒，悲伤中带着决绝，又长舒了一口气。&lt;/p>
 &lt;p>而下一首Paper Bag从一开头就使用了更轻快的鼓点与旋律，似乎让人以为女主角已经走出了一段伤害大于温存的关系，紧接着却用“Hunger hurts, but I want him so bad, it kills”告诉你，制造出的快乐旋律只是一个纸做的假壳，因为女主角is gonna to make A Mistake，但很不凑巧，A Mistake这首歌并未惊艳到我。&lt;/p>
 &lt;p>Fast As You Can或许和首曲一样抓人，也或许是因为随着歌词推进，女主角又回到了对峙的状态、旋律又开始诡秘而紧张。“I may be soft in your palm but soon I'll grow hunger for a fight”，似乎这种拉扯的不健康关系已经成为了一个无法打破的循环。显然，女主角自己也深知这一点，Get Gone中的“How many times do I have to say to get away, get gone？”揭示了这种不断循环往复的争吵、对抗、脱离、回归、再争吵已经成为无法愈合的伤口，结痂又撕开、撕开又结痂，不断流血又不断贪恋痛苦。&lt;/p>
-&lt;p>尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/music/" term="Music" label="Music"/><category scheme="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/" term="乐评" label="乐评"/><category scheme="https://emptdrawr.github.io/tags/indie-music/" term="Indie Music" label="Indie Music"/></entry><entry><title type="text">随笔-爱情和其他不可示人的眼泪</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/"/><id>https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/</id><updated>2023-01-13T00:01:52+08:00</updated><published>2021-10-02T04:10:43+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>……</summary><content type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>
+&lt;p>尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/music/" term="Music" label="Music"/><category scheme="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/" term="乐评" label="乐评"/><category scheme="https://emptdrawr.github.io/tags/indie-music/" term="Indie Music" label="Indie Music"/></entry><entry><title type="text">随笔-爱情和其他不可示人的眼泪</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/love-and-other-tears/"/><id>https://emptdrawr.github.io/posts/love-and-other-tears/</id><updated>2023-01-13T00:10:40+08:00</updated><published>2021-10-02T04:10:43+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>……</summary><content type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>
 &lt;p>&lt;strong>我一直有把爱转换为痛苦的能力。&lt;/strong>&lt;/p>
 &lt;p>很大程度上我对于“爱”的痛苦来自于割裂：爱的传统意味与我的切身感受之间的割裂让我感到不适。人类编织的爱的窠臼俘获了每一个个体，一代又一代的后人口耳相传，语句被风捕获，他们说：&lt;/p>
 &lt;p>爱很美好。爱是四月春风，拂面而过，滋养精神。&lt;/p>
 &lt;p>我感到自己被热爱“爱”的种族抛弃。就像动物族群里拥有白色皮毛的那一只，人类称赞其为美丽，只有动物自己知道这是自杀之道。我想我的确一直在干慢性自杀的事情，像是总是让自己被难以消化的情感折磨，像是对自己的放任自流，像是摄入酒精，我活着的每一天都在为死亡铺垫。&lt;/p>
 &lt;p>会塔罗的朋友半夜和我打电话，她说她用塔罗给我算命。我的生命里有“2”这个数字，意味着二元对立，意味着我身上总是有两种截然不同的特性在打架。我想她应当是很会塔罗牌了，所以才能如此精准优美地概括我的精神、我的命运。也算是一种安慰，让我更能接受自己总是把爱和痛苦互相转换。&lt;/p>
-&lt;p>&lt;img src="image0%5B995%5D.jpeg" alt="/随笔-爱情和其他不可示人的眼泪/image0[995]">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/image0%5B995%5D.jpeg" alt="image0[995].jpeg">&lt;/p>
 &lt;p>看《百年孤独》的时候就觉得，马尔克斯笔下的人物也擅长把爱与痛苦杂糅。阿玛兰妲爱法国舶来的乐师，为没有回应的爱情发烧、把自己关在浴室里一封又一封地写信，爱得给他的未婚妻、自己的姐姐丽贝卡下毒，但当她终于与法国乐师一同漫步庭院朗读十四行诗时，当皮埃特罗对她说“我们下个月就结婚时”，阿玛兰妲只是继续做自己的活计。&lt;/p>
 &lt;blockquote>
 &lt;p>“别天真了，克里斯皮，”她微笑着，“我死也不会和你结婚的。”&lt;/p>
@@ -873,8 +851,8 @@ $$&lt;/p>
 &lt;p>&lt;strong>爱就是痛苦。&lt;/strong>&lt;/p>
 &lt;p>&lt;strong>爱是地狱冥犬。&lt;/strong>&lt;/p>
 &lt;p>之前从菲比的采访视频里了解到“天堂猎犬”的说法，关于清修养身、侍奉上帝和信仰的人被世俗之欲猎获。我想，和hound of heaven相对应，爱就是dog from hell，垃圾派诗人布考斯基用一句love is dog from hell戳破时空，刺痛为掩埋“爱就是痛苦”这一真相的男男女女。&lt;/p>
-&lt;p>![/随笔-爱情和其他不可示人的眼泪/hound from heaven](hound from heaven.jpg)&lt;/p>
-&lt;p>&lt;img src="fleabag.jpg" alt="/随笔-爱情和其他不可示人的眼泪/fleabag">&lt;/p>
+&lt;p>![hound from heaven](/随笔-爱情和其他不可示人的眼泪/hound from heaven.jpg)&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/fleabag.jpg" alt="/随笔-爱情和其他不可示人的眼泪/fleabag">&lt;/p>
 &lt;p>说起《伦敦生活》，爸爸对菲比的角色说，“你比我们任何人都更懂爱，所以才会觉得爱很痛苦”，看时泣不成声。&lt;/p>
 &lt;p>这是我不可示人的眼泪。&lt;/p>
 &lt;p>我记得自己时常戴耳机、面对屏幕、独自一人地蜷缩哭泣。也经常性地躺在被子之下平静地哭。黑暗之中只听得到呼吸声。&lt;/p>
@@ -884,7 +862,7 @@ $$&lt;/p>
 &lt;p>话是如此说，但我确信那时候我的痛苦是切肤入骨的。梦想做这片土地的骑士，捍卫每个人脆弱的权利，也捍卫过去的我脆弱的权利。此权利详述如下：&lt;/p>
 &lt;p>在半夜被捉住躲在厕所哭时，不被质问、而享有一个温暖拥抱的权利。&lt;/p>
 &lt;p>如果以后有一天人类发明出了时光机，我一定会跑回那个夜晚去拥抱她。开玩笑的，我已经记不清是哪一天了。但看了sex education的一篇影评之后，我学会想：&lt;strong>如果我是自己的小孩，我会怎样让自己过得更好；如果我是自己的父母，我会怎样让自己更加敢于爱人。&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="image0%5B996%5D.jpeg" alt="/随笔-爱情和其他不可示人的眼泪/image0[996]">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/image0%5B996%5D.jpeg" alt="image0[996]">&lt;/p>
 &lt;p>《春日序曲》开篇第七页就用以一种凄淡漠然的语气叙述母子关系：&lt;/p>
 &lt;blockquote>
 &lt;p>真正的伤害不是她但愿没说出口而我却永远忘不了的尖刻话语，真正的伤害是我们的亲情：它失去了温馨、自发性，而成为一种刻意的、有意识的、凄惨的亲情。我们一定也都体会到，这么容易放下只不过是因为亲情变得淡薄。&lt;/p>
@@ -893,4 +871,4 @@ $$&lt;/p>
 &lt;p>而将争吵、猜疑、不信任、决裂、眼泪、伤害、痛苦与爱——爱情、友情、亲情，和任何熟悉之人展开足以称之为“爱”的情感链系——自洽入“我”当中，让我能够平静地接受这些鸡飞狗跳。&lt;/p>
 &lt;p>看完《悉达多》，觉得黑塞的确写成长小说写得深刻刺骨，不管是《悉达多》还是《德米安》都有和谐统一、二元对立又相互兼容的思想，黑塞写爱情一面是天使，一面是魔鬼，是人性和兽性、至高的善和极大的恶融为一体。我想爱就是如此。爱是安慰。爱是痛苦。&lt;/p>
 &lt;p>我把亲情与爱情揉在一起乱写一通，因为人与人之间的情感系带总是具有共通性，爱总是有共通性，就如眼泪总有共通性。几十个小时过去，我还是不明白那天早上自己为何在盥洗间面对镜子哭得如此惨烈，但我想痛苦就是爱，即使心怀溢出容器的悲痛，我也随时打算去爱。借用黑塞的话，如下。&lt;/p>
-&lt;p>&lt;img src="IMG_1639%5B992%5D.JPG" alt="/随笔-爱情和其他不可示人的眼泪/IMG_1639[992]">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/articles/" term="Articles" label="Articles"/><category scheme="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔"/><category scheme="https://emptdrawr.github.io/tags/%E5%85%B3%E4%BA%8E%E7%88%B1%E4%B8%8E%E7%97%9B%E8%8B%A6/" term="关于爱与痛苦" label="关于爱与痛苦"/></entry></feed>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/IMG_1639%5B992%5D.JPG" alt="IMG_1639[992].JPG">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/articles/" term="Articles" label="Articles"/><category scheme="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔"/><category scheme="https://emptdrawr.github.io/tags/%E5%85%B3%E4%BA%8E%E7%88%B1%E4%B8%8E%E7%97%9B%E8%8B%A6/" term="关于爱与痛苦" label="关于爱与痛苦"/></entry></feed>
