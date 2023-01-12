@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-12T23:51:05+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客 从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-12T23:48:02+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-13T00:02:28+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客 从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-12T23:54:19+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
 &lt;h2 id="安装-installation">安装 installation&lt;/h2>
 &lt;h3 id="git语言开发环境">Git语言开发环境&lt;/h3>
 &lt;p>因为之前已经安装所以不再赘述。&lt;/p>
@@ -230,7 +230,9 @@ tags:
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push -f origin gh-pages
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
 &lt;/div>
-&lt;/div>&lt;h2 id="参考">参考&lt;/h2>
+&lt;/div>&lt;h2 id="注意">注意&lt;/h2>
+&lt;p>如果在重新部署以后发现css样式没有应用，那么应该使用&lt;code>Ctrl+F5&lt;/code>刷新页面，刷新之后即可发现网站可以正常显示。&lt;/p>
+&lt;h2 id="参考">参考&lt;/h2>
 &lt;ul>
 &lt;li>少数派/海边不吃鱼: &lt;a href="https://sspai.com/post/59904">浅谈我为什么从 HEXO 迁移到 HUGO&lt;/a>&lt;/li>
 &lt;li>reuixiy: &lt;a href="https://io-oi.me/tech/powered-by-hugo/">Powered by Hugo&lt;/a>&lt;/li>
@@ -450,11 +452,11 @@ tags:
 &lt;li>Mr无愧于心: &lt;a href="https://www.jianshu.com/p/2e1d551b8261">git的add、commit、push的详细介绍&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://stackoverflow.com/questions/9537392/git-fetch-remote-branch">Git fetch remote branch&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://blog.csdn.net/qq_32439101/article/details/87191600?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-87191600-blog-78972568.pc_relevant_default&amp;amp;spm=1001.2101.3001.4242.3&amp;amp;utm_relevant_index=7">git push 却 403错误 解决方案&lt;/a>&lt;/li>
-&lt;/ul></content><category scheme="https://emptdrawr.github.io/categories/study/" term="Study" label="Study"/><category scheme="https://emptdrawr.github.io/categories/cs/" term="CS" label="CS"/><category scheme="https://emptdrawr.github.io/tags/git/" term="git" label="git"/><category scheme="https://emptdrawr.github.io/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%AC%94%E8%AE%B0/" term="命令行笔记" label="命令行笔记"/></entry><entry><title type="text">随笔-必要的，非必要的，必不能要的</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/"/><id>https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/</id><updated>2022-10-08T01:53:20+08:00</updated><published>2022-10-07T23:31:27+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>秋天到得很及时，把浮躁的、翻滚的、怒热的都冲刷掉了。&lt;strong>多余的形容词也被十月冲刷掉了&lt;/strong>，最后只剩下——金秋十月，必要的，非必要的，静默的，必不能要的。&lt;/p>……</summary><content type="html">&lt;p>秋天到得很及时，把浮躁的、翻滚的、怒热的都冲刷掉了。&lt;strong>多余的形容词也被十月冲刷掉了&lt;/strong>，最后只剩下——金秋十月，必要的，非必要的，静默的，必不能要的。&lt;/p>
+&lt;/ul></content><category scheme="https://emptdrawr.github.io/categories/study/" term="Study" label="Study"/><category scheme="https://emptdrawr.github.io/categories/cs/" term="CS" label="CS"/><category scheme="https://emptdrawr.github.io/tags/git/" term="git" label="git"/><category scheme="https://emptdrawr.github.io/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%AC%94%E8%AE%B0/" term="命令行笔记" label="命令行笔记"/></entry><entry><title type="text">随笔-必要的，非必要的，必不能要的</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/necessary-or-unnecessary/"/><id>https://emptdrawr.github.io/posts/necessary-or-unnecessary/</id><updated>2023-01-12T23:57:27+08:00</updated><published>2022-10-07T23:31:27+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>秋天到得很及时，把浮躁的、翻滚的、怒热的都冲刷掉了。&lt;strong>多余的形容词也被十月冲刷掉了&lt;/strong>，最后只剩下——金秋十月，必要的，非必要的，静默的，必不能要的。&lt;/p>……</summary><content type="html">&lt;p>秋天到得很及时，把浮躁的、翻滚的、怒热的都冲刷掉了。&lt;strong>多余的形容词也被十月冲刷掉了&lt;/strong>，最后只剩下——金秋十月，必要的，非必要的，静默的，必不能要的。&lt;/p>
 &lt;p>寒潮席卷，每个人都无法幸免。该把衣柜翻腾一遍了，把被揉皱的带着霉味的毛衣取出来，再把刚刚凝结了2022年最后一点温度的夏装塞进箱子里、盒子里、袋子里等待霉味渐渐包裹它们。冷冽的天气是有好处的，用热门的词来形容，是“&lt;mark style="background: #C4D4B5;">很有氛围感&lt;/mark> ”。&lt;/p>
 &lt;p>夏天的燥热很难有氛围感，总是会让人想到汗味、让人反胃的裸露肌肤、闷热凝滞的空气、随着水蒸气消失掉的假日；即使有一点氛围感，也是在阴影里进行的，就像禁忌的文艺片，&lt;strong>一切故事在阴影里秘密展开&lt;/strong>。冷下来的秋天则完全不同。大白天走在街上，即使树都还绿着，也不免想到它们黄下来的样子。一地的落叶、温暖的墙砖、卡其风衣、额前的碎发、汤唯、砖红色围巾、木质调的香水，都是秋天特有的——“氛围感”从能指转换为所指的一瞬间。&lt;/p>
 &lt;p>走在10度的空气里，我不断循环卡兰卓的&lt;mark style="background: #C4D4B5;">《The Weeping Meadow》&lt;/mark> ，脑子里是一片白茫茫的河水、黑压压的人群和行舟、上世纪的尸体。9月初我就把《哭泣的草原》看完了，但这段调子却不断盘旋在我的头顶之上。懂乐理的人大概多听几遍就可以把它具象化为音符写下来、再用黑白琴键复现；但我是不懂乐理的，你知道，我只会说：这是首&lt;strong>适合10摄氏度、冷风稍大、阳光被阴翳掩埋的天气&lt;/strong>的曲子。&lt;/p>
-&lt;p>&lt;img src="%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008013919729.png" alt="image-20221008013919729">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008013919729.png" alt="image-20221008013919729">&lt;/p>
 &lt;p>&lt;mark style="background: #C4D4B5;">你说，&lt;b>音乐是必要的吗？&lt;/b>&lt;/mark>&lt;/p>
 &lt;p>《哭泣的草原》里边，流浪的希腊人居住在泥水地上的棚屋里、废弃的巨大剧场里，不断乔迁，却仍然随身带着他们的乐器。一把六弦琴，一支竖笛、一架手风琴，全都围在火堆旁；那隔着屏幕的温暖简直要随着音乐溢出。&lt;strong>对他们来说音乐是必要的，就像与故乡之间的隐隐连接&lt;/strong>——即使此生再也无法踏上那片温润的故土，也算是将故国孕育出的音乐打包成了乡愁，带在身旁：思念成疾时取出，冲饮一袋，缓解从肠胃燃烧到喉咙的愤怒和无奈，最终归于平静的一湾白水，再远远地眺着水的另一方。&lt;/p>
 &lt;blockquote>
@@ -464,7 +466,7 @@ tags:
 &lt;h2 id="栏杆是必要的夕阳是非必要的">栏杆是必要的，夕阳是非必要的&lt;/h2>
 &lt;p>喜欢吃的菜星期一中午吃，接着星期一晚上吃，然后星期二中午吃，之后星期二晚上吃，随后星期三又吃，每天都吃，总有厌烦的一天。像夕阳，好看固然是好看的，不过也只是好看罢了；&lt;strong>总是只有夕阳看，人是会厌烦的&lt;/strong>。脑子还没烦，一双毁于电子屏幕、在昏暗灯光下阅读的眼球就先烦了。&lt;/p>
 &lt;p>但昨天，又或是前天，我记不太清了。总之有一天，沉默地坐在石椅上的时候，我抬眼看到夕阳，像是米沃什的《礼物》里写的那样：&lt;mark style="background: #C3BBED;">“直起腰来，我望见蓝色的大海和帆影”&lt;/mark>。我没看见大海，也并未见帆影，但直起腰来，我却看到那样一片夕阳——还是忍不住拍下来，人就是贱：嘴上说着看烦了、厌恶了、无感了，第一反应还是拿手机拍下来。&lt;strong>我们都是新时代巴甫洛夫的狗。&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008002215350.png" alt="image-20221008002215350">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008002215350.png" alt="image-20221008002215350">&lt;/p>
 &lt;p>但其实这张照片里最好看的是栏杆，没有想到吧？我没有拍到的是，栏杆上霸道地粘贴着一块警示公告牌：&lt;mark style="background: #C3BBED;">“禁止翻越栏杆”&lt;/mark>。规矩总是很有意思，它以遏制恶念为目的，却无意中提供了更多实行恶念的方式。&lt;/p>
 &lt;blockquote>
 &lt;p>马德里一家小酒馆里，挂着一张公告：&lt;em>禁止歌唱&lt;/em>。&lt;/p>
@@ -484,13 +486,13 @@ tags:
 &lt;p>在圣克鲁斯——政治正确的首都之一——的大学里，我被告知他们呢正在发明一种笑话，好笑但没有羞辱和伤害，甚至连对某人的取笑也没有，如“当一个三角碰到一个圆会发生什么？”&lt;/p>
 &lt;/blockquote>
 &lt;p>你看，这也能成为一个笑话，那么&lt;mark style="background: #C3BBED;">&lt;b>不对称密码&lt;/b>不得不和&lt;b>对称密码&lt;/b>在密码分类体系上处于对称的位置&lt;/mark>何尝不是一个笑话呢。（如果你怀疑我，请看下图）&lt;/p>
-&lt;p>&lt;img src="%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008015305025.png" alt="image-20221008015305025">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008015305025.png" alt="image-20221008015305025">&lt;/p>
 &lt;h2 id="过程是必要的结果是非必要的">过程是必要的，结果是非必要的&lt;/h2>
 &lt;p>应试的一生概括如下（千禧年后特供版，为由于没有得到金牌而被指责的运动员们定制（放轻松，不是为学生定制的））：&lt;/p>
-&lt;p>&lt;img src="%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008001939475.png" alt="image-20221008001939475">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008001939475.png" alt="image-20221008001939475">&lt;/p>
 &lt;h2 id="瑕疵是必不能要的">瑕疵是必不能要的&lt;/h2>
 &lt;p>楼下的猫咪，我为她取名为奥利奥，小小的一只。从她的头顶往脊背上摸，除了光滑的黑白两色皮毛还能摸到瘦骨嶙峋的背，那么小，仿佛一只手就能捏碎她的脆弱骨架。某天晚上恰好碰见她的主人，在认真地为她耳朵两侧涂药膏，说是长了猫藓，尾巴上也有那么一小块，褪掉了毛。&lt;/p>
-&lt;p>&lt;img src="%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008013022856.png" alt="image-20221008013022856">&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008013022856.png" alt="image-20221008013022856">&lt;/p>
 &lt;p>接下来的一周（或是两周），喂她、抱着她、路过摸摸她的人越来越多，大都知道她长了猫藓，但还是会忍不住看一看、摸一摸，喂她吃的。那毕竟是小猫啊。&lt;/p>
 &lt;p>我想我是有点羡慕她的，即使生病了、有瑕疵了、蔫蔫的，还是会有人无条件地爱她。瑕疵在小猫身上是不存在的。但人总是有很多瑕疵的，**比如“作为我们学校的产品不够合格”啦，比如“明明课没有那么多还在喊累”啦，比如“不遵守防疫规定”啦，不够正能量啦……**云云。&lt;/p>
 &lt;p>下辈子一定当一只小猫，坏心眼地只吃别人的爱，一口一口地。&lt;/p>
@@ -667,7 +669,7 @@ tags:
 &lt;ol>
 &lt;li>为何在文化产业空间被挤压的俄罗斯能喷涌出这么多运用春秋笔法的优秀文学作品？&lt;/li>
 &lt;li>俄罗斯民族对于欧洲的态度也是一条展现其文化内核与民族认同感的重要线索，而每个民族心中或许都拥有“欧洲于俄罗斯”这样&lt;code>借鉴/批判&lt;/code>同时存在的地方。&lt;/li>
-&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/categories/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/"/><id>https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/</id><updated>2022-07-07T18:26:40+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h1 id="论文的结构">论文的结构&lt;/h1>
+&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/categories/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/"/><id>https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/</id><updated>2023-01-13T00:00:57+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h1 id="论文的结构">论文的结构&lt;/h1>
 &lt;h2 id="论文的三段式结构">论文的三段式结构&lt;/h2>
 &lt;table>
 &lt;thead>
@@ -814,17 +816,17 @@ $$&lt;/p>
 &lt;p>由点到线&lt;/p>
 &lt;p>从现有证据中归纳&lt;/p>
 &lt;p>&lt;strong>新规律&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="A0A319D1-045D-4426-BE7B-9556990FDB7D.png" alt="A0A319D1-045D-4426-BE7B-9556990FDB7D.png">&lt;/p>
+&lt;p>&lt;img src="A0A319D1-045D-4426-BE7B-9556990FDB7D.png" alt="/学习记录-如何写文献综述-论文结构/A0A319D1-045D-4426-BE7B-9556990FDB7D.png">&lt;/p>
 &lt;h3 id="演绎-deductive">演绎 Deductive&lt;/h3>
 &lt;p>由线到点&lt;/p>
 &lt;p>&lt;em>大前提-小前提-结论&lt;/em>&lt;/p>
 &lt;p>&lt;strong>新证据&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="EE772A8D-C80F-4678-8E25-BDADD19F121B.png" alt="EE772A8D-C80F-4678-8E25-BDADD19F121B.png">&lt;/p>
+&lt;p>&lt;img src="EE772A8D-C80F-4678-8E25-BDADD19F121B.png" alt="/学习记录-如何写文献综述-论文结构/EE772A8D-C80F-4678-8E25-BDADD19F121B.png">&lt;/p>
 &lt;h3 id="溯因-abductive">溯因 Abductive&lt;/h3>
 &lt;p>由点到虚线&lt;/p>
 &lt;p>从一堆看似杂乱无章的证据当中找出逻辑&lt;/p>
 &lt;p>&lt;strong>新假说&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png" alt="E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png">&lt;/p>
+&lt;p>&lt;img src="E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png" alt="/学习记录-如何写文献综述-论文结构/E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png">&lt;/p>
 &lt;p>需要进一步的验证&lt;/p>
 &lt;h2 id="从文献推出自己的论点">从文献推出自己的论点&lt;/h2>
 &lt;p>$$
@@ -849,13 +851,13 @@ $$&lt;/p>
 &lt;p>与采用大量错落鼓点制造紧张感、对峙感的前三首不同，第四首Love Ridden更加舒缓，钢琴配上Fiona拉长了的唱腔，也显得更加悲伤。“And in a little while, we'll only have to wave, No, not 'baby' anymore”，仿佛永别前的最后通牒，悲伤中带着决绝，又长舒了一口气。&lt;/p>
 &lt;p>而下一首Paper Bag从一开头就使用了更轻快的鼓点与旋律，似乎让人以为女主角已经走出了一段伤害大于温存的关系，紧接着却用“Hunger hurts, but I want him so bad, it kills”告诉你，制造出的快乐旋律只是一个纸做的假壳，因为女主角is gonna to make A Mistake，但很不凑巧，A Mistake这首歌并未惊艳到我。&lt;/p>
 &lt;p>Fast As You Can或许和首曲一样抓人，也或许是因为随着歌词推进，女主角又回到了对峙的状态、旋律又开始诡秘而紧张。“I may be soft in your palm but soon I'll grow hunger for a fight”，似乎这种拉扯的不健康关系已经成为了一个无法打破的循环。显然，女主角自己也深知这一点，Get Gone中的“How many times do I have to say to get away, get gone？”揭示了这种不断循环往复的争吵、对抗、脱离、回归、再争吵已经成为无法愈合的伤口，结痂又撕开、撕开又结痂，不断流血又不断贪恋痛苦。&lt;/p>
-&lt;p>尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/music/" term="Music" label="Music"/><category scheme="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/" term="乐评" label="乐评"/><category scheme="https://emptdrawr.github.io/tags/indie-music/" term="Indie Music" label="Indie Music"/></entry><entry><title type="text">随笔-爱情和其他不可示人的眼泪</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/"/><id>https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/</id><updated>2022-07-07T09:16:32+08:00</updated><published>2021-10-02T04:10:43+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>……</summary><content type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>
+&lt;p>尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/music/" term="Music" label="Music"/><category scheme="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/" term="乐评" label="乐评"/><category scheme="https://emptdrawr.github.io/tags/indie-music/" term="Indie Music" label="Indie Music"/></entry><entry><title type="text">随笔-爱情和其他不可示人的眼泪</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/"/><id>https://emptdrawr.github.io/posts/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/</id><updated>2023-01-13T00:01:52+08:00</updated><published>2021-10-02T04:10:43+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>……</summary><content type="html">&lt;p>马尔克斯是取名天才。我偷他的智慧成果偷的很开心。&lt;/p>
 &lt;p>&lt;strong>我一直有把爱转换为痛苦的能力。&lt;/strong>&lt;/p>
 &lt;p>很大程度上我对于“爱”的痛苦来自于割裂：爱的传统意味与我的切身感受之间的割裂让我感到不适。人类编织的爱的窠臼俘获了每一个个体，一代又一代的后人口耳相传，语句被风捕获，他们说：&lt;/p>
 &lt;p>爱很美好。爱是四月春风，拂面而过，滋养精神。&lt;/p>
 &lt;p>我感到自己被热爱“爱”的种族抛弃。就像动物族群里拥有白色皮毛的那一只，人类称赞其为美丽，只有动物自己知道这是自杀之道。我想我的确一直在干慢性自杀的事情，像是总是让自己被难以消化的情感折磨，像是对自己的放任自流，像是摄入酒精，我活着的每一天都在为死亡铺垫。&lt;/p>
 &lt;p>会塔罗的朋友半夜和我打电话，她说她用塔罗给我算命。我的生命里有“2”这个数字，意味着二元对立，意味着我身上总是有两种截然不同的特性在打架。我想她应当是很会塔罗牌了，所以才能如此精准优美地概括我的精神、我的命运。也算是一种安慰，让我更能接受自己总是把爱和痛苦互相转换。&lt;/p>
-&lt;p>&lt;img src="image0%5B995%5D.jpeg" alt="image0[995]">&lt;/p>
+&lt;p>&lt;img src="image0%5B995%5D.jpeg" alt="/随笔-爱情和其他不可示人的眼泪/image0[995]">&lt;/p>
 &lt;p>看《百年孤独》的时候就觉得，马尔克斯笔下的人物也擅长把爱与痛苦杂糅。阿玛兰妲爱法国舶来的乐师，为没有回应的爱情发烧、把自己关在浴室里一封又一封地写信，爱得给他的未婚妻、自己的姐姐丽贝卡下毒，但当她终于与法国乐师一同漫步庭院朗读十四行诗时，当皮埃特罗对她说“我们下个月就结婚时”，阿玛兰妲只是继续做自己的活计。&lt;/p>
 &lt;blockquote>
 &lt;p>“别天真了，克里斯皮，”她微笑着，“我死也不会和你结婚的。”&lt;/p>
@@ -871,8 +873,8 @@ $$&lt;/p>
 &lt;p>&lt;strong>爱就是痛苦。&lt;/strong>&lt;/p>
 &lt;p>&lt;strong>爱是地狱冥犬。&lt;/strong>&lt;/p>
 &lt;p>之前从菲比的采访视频里了解到“天堂猎犬”的说法，关于清修养身、侍奉上帝和信仰的人被世俗之欲猎获。我想，和hound of heaven相对应，爱就是dog from hell，垃圾派诗人布考斯基用一句love is dog from hell戳破时空，刺痛为掩埋“爱就是痛苦”这一真相的男男女女。&lt;/p>
-&lt;p>![hound from heaven](hound from heaven.jpg)&lt;/p>
-&lt;p>&lt;img src="fleabag.jpg" alt="fleabag">&lt;/p>
+&lt;p>![/随笔-爱情和其他不可示人的眼泪/hound from heaven](hound from heaven.jpg)&lt;/p>
+&lt;p>&lt;img src="fleabag.jpg" alt="/随笔-爱情和其他不可示人的眼泪/fleabag">&lt;/p>
 &lt;p>说起《伦敦生活》，爸爸对菲比的角色说，“你比我们任何人都更懂爱，所以才会觉得爱很痛苦”，看时泣不成声。&lt;/p>
 &lt;p>这是我不可示人的眼泪。&lt;/p>
 &lt;p>我记得自己时常戴耳机、面对屏幕、独自一人地蜷缩哭泣。也经常性地躺在被子之下平静地哭。黑暗之中只听得到呼吸声。&lt;/p>
@@ -882,7 +884,7 @@ $$&lt;/p>
 &lt;p>话是如此说，但我确信那时候我的痛苦是切肤入骨的。梦想做这片土地的骑士，捍卫每个人脆弱的权利，也捍卫过去的我脆弱的权利。此权利详述如下：&lt;/p>
 &lt;p>在半夜被捉住躲在厕所哭时，不被质问、而享有一个温暖拥抱的权利。&lt;/p>
 &lt;p>如果以后有一天人类发明出了时光机，我一定会跑回那个夜晚去拥抱她。开玩笑的，我已经记不清是哪一天了。但看了sex education的一篇影评之后，我学会想：&lt;strong>如果我是自己的小孩，我会怎样让自己过得更好；如果我是自己的父母，我会怎样让自己更加敢于爱人。&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="image0%5B996%5D.jpeg" alt="image0[996]">&lt;/p>
+&lt;p>&lt;img src="image0%5B996%5D.jpeg" alt="/随笔-爱情和其他不可示人的眼泪/image0[996]">&lt;/p>
 &lt;p>《春日序曲》开篇第七页就用以一种凄淡漠然的语气叙述母子关系：&lt;/p>
 &lt;blockquote>
 &lt;p>真正的伤害不是她但愿没说出口而我却永远忘不了的尖刻话语，真正的伤害是我们的亲情：它失去了温馨、自发性，而成为一种刻意的、有意识的、凄惨的亲情。我们一定也都体会到，这么容易放下只不过是因为亲情变得淡薄。&lt;/p>
@@ -891,4 +893,4 @@ $$&lt;/p>
 &lt;p>而将争吵、猜疑、不信任、决裂、眼泪、伤害、痛苦与爱——爱情、友情、亲情，和任何熟悉之人展开足以称之为“爱”的情感链系——自洽入“我”当中，让我能够平静地接受这些鸡飞狗跳。&lt;/p>
 &lt;p>看完《悉达多》，觉得黑塞的确写成长小说写得深刻刺骨，不管是《悉达多》还是《德米安》都有和谐统一、二元对立又相互兼容的思想，黑塞写爱情一面是天使，一面是魔鬼，是人性和兽性、至高的善和极大的恶融为一体。我想爱就是如此。爱是安慰。爱是痛苦。&lt;/p>
 &lt;p>我把亲情与爱情揉在一起乱写一通，因为人与人之间的情感系带总是具有共通性，爱总是有共通性，就如眼泪总有共通性。几十个小时过去，我还是不明白那天早上自己为何在盥洗间面对镜子哭得如此惨烈，但我想痛苦就是爱，即使心怀溢出容器的悲痛，我也随时打算去爱。借用黑塞的话，如下。&lt;/p>
-&lt;p>&lt;img src="IMG_1639%5B992%5D.JPG" alt="IMG_1639[992]">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/articles/" term="Articles" label="Articles"/><category scheme="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔"/><category scheme="https://emptdrawr.github.io/tags/%E5%85%B3%E4%BA%8E%E7%88%B1%E4%B8%8E%E7%97%9B%E8%8B%A6/" term="关于爱与痛苦" label="关于爱与痛苦"/></entry></feed>
+&lt;p>&lt;img src="IMG_1639%5B992%5D.JPG" alt="/随笔-爱情和其他不可示人的眼泪/IMG_1639[992]">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/articles/" term="Articles" label="Articles"/><category scheme="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔"/><category scheme="https://emptdrawr.github.io/tags/%E5%85%B3%E4%BA%8E%E7%88%B1%E4%B8%8E%E7%97%9B%E8%8B%A6/" term="关于爱与痛苦" label="关于爱与痛苦"/></entry></feed>
