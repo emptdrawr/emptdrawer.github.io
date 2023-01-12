@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-13T03:26:20+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T02:21:28+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-13T03:31:13+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T02:21:28+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
 &lt;h2 id="安装-installation">安装 installation&lt;/h2>
 &lt;h3 id="git语言开发环境">Git语言开发环境&lt;/h3>
 &lt;p>因为之前已经安装所以不再赘述。&lt;/p>
@@ -501,11 +501,11 @@ tags:
 &lt;p>下辈子一定当一只小猫，坏心眼地只吃别人的爱，一口一口地。&lt;/p>
 &lt;h2 id="非必要的">非必要的&lt;/h2>
 &lt;p>穿衣服是必要的，穿漂亮衣服是非必要的；走路、出门做核酸是必要的，走路、出门喝酒是非必要的；聚集起来排队做核酸是必要的，聚集起来开parklife是非必要的；借阅《现代操作系统》是必要的，借阅《现代戏剧选》是非必要的；用笔记本电脑打代码是必要的，用笔记本电脑打无病呻吟的文字是非必要的；耳朵发炎出校门看医生是必要的，耳朵发炎只是想出校门吃麦当劳是非必要的；生是必要的，活是非必要的。&lt;/p>
-&lt;p>然后是一张不断延长的..必要-非必要..清单。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/articles/" term="Articles" label="Articles"/><category scheme="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔"/><category scheme="https://emptdrawr.github.io/tags/%E9%9D%9E%E5%BF%85%E8%A6%81/" term="非必要" label="非必要"/></entry><entry><title type="text">看看电影-如何实现电影电视剧资源自由</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/"/><id>https://emptdrawr.github.io/posts/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/</id><updated>2023-01-12T19:49:49+08:00</updated><published>2022-10-03T11:42:42+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>本文主要包括：&lt;strong>如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong>，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p>
+&lt;p>然后是一张不断延长的..必要-非必要..清单。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/articles/" term="Articles" label="Articles"/><category scheme="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔"/><category scheme="https://emptdrawr.github.io/tags/%E9%9D%9E%E5%BF%85%E8%A6%81/" term="非必要" label="非必要"/></entry><entry><title type="text">看看电影-如何实现电影电视剧资源自由</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/"/><id>https://emptdrawr.github.io/posts/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/</id><updated>2023-01-13T03:31:01+08:00</updated><published>2022-10-03T11:42:42+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>本文主要包括：&lt;strong>如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong>，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p>
 &lt;p>如果你已经会这些技能，则本文对你来说是浪费时间。&lt;/p>……</summary><content type="html">&lt;p>本文主要包括：&lt;strong>如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong>，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p>
 &lt;p>如果你已经会这些技能，则本文对你来说是浪费时间。&lt;/p>
-&lt;h1 id="总览">总览&lt;/h1>
-&lt;h2 id="选择正版还是盗版">选择正版还是盗版？&lt;/h2>
+&lt;h2 id="总览">总览&lt;/h2>
+&lt;h3 id="选择正版还是盗版">选择正版还是盗版？&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -527,7 +527,7 @@ tags:
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;h2 id="选择bt磁力下载还是网盘网站在线观看">选择BT/磁力下载还是网盘/网站在线观看？&lt;/h2>
+&lt;h3 id="选择bt磁力下载还是网盘网站在线观看">选择BT/磁力下载还是网盘/网站在线观看？&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -556,7 +556,7 @@ tags:
 &lt;/table>
 &lt;p>表格中网站如果有打不开的请更换谷歌浏览器，如果仍然无法打开请搭梯子，如果仍然无法打开请换下一个网站。&lt;/p>
 &lt;p>以上均为个人经验总结和主观看法，请自由选择观看途径、早日实现电影自由。&lt;/p>
-&lt;h1 id="正版电影观看">正版电影观看&lt;/h1>
+&lt;h2 id="正版电影观看">正版电影观看&lt;/h2>
 &lt;p>如果你想要观看一部电影，举例来说，雷德利·斯科特（而不是大卫·芬奇）的《异形》，那么你可以在Google搜索栏进行搜索，你会看到以下界面：&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003115048579.png" alt="image-20221003115048579">&lt;/p>
 &lt;p>点击边栏的所有观看渠道，会发现Apple TV、亚马逊影视、Hulu等多个流媒体平台都可以进行观看，如果你有对应平台的会员，即可观看。&lt;/p>
@@ -566,15 +566,15 @@ tags:
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image1.jpeg" alt="image1">&lt;/p>
 &lt;p>使用国内网络即可正常观看，可以切换多种语言的字幕，还可离线缓存（但需注意的是无法截图电影画面，同时也无法通过无线网络进行投屏）。&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image0.jpeg" alt="image0">&lt;/p>
-&lt;h1 id="盗版资源下载">盗版资源下载&lt;/h1>
+&lt;h2 id="盗版资源下载">盗版资源下载&lt;/h2>
 &lt;p>本文通过RARBG、使用磁力、在Motrix中下载《圣血》来进行实例。&lt;/p>
-&lt;h2 id="bt磁力是什么">BT/磁力是什么？&lt;/h2>
+&lt;h3 id="bt磁力是什么">BT/磁力是什么？&lt;/h3>
 &lt;p>请自行搜索。&lt;/p>
-&lt;h2 id="有什么下载工具">有什么下载工具？&lt;/h2>
+&lt;h3 id="有什么下载工具">有什么下载工具？&lt;/h3>
 &lt;p>推荐Motrix，一款开源、免费、UI设计优美简洁的下载器，&lt;a href="https://motrix.app/">官方网站下载&lt;/a>。&lt;/p>
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003125955976.png" alt="image-20221003125955976" style="zoom:33%;" />
 &lt;p>下载安装包以后按照步骤进行安装即可使用。&lt;/p>
-&lt;h2 id="如何通过网站下载电影或剧">如何通过网站下载电影或剧？&lt;/h2>
+&lt;h3 id="如何通过网站下载电影或剧">如何通过网站下载电影或剧？&lt;/h3>
 &lt;p>以RARBG为例，首先打开网站可以看到首页如下，搜索方便（注意如果有广告自动打开了新的浏览器窗口，&lt;strong>请勿点击、及时关闭&lt;/strong>）。&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003130319340.png" alt="image-20221003130319340">&lt;/p>
 &lt;p>在该网站进行搜索时应该尽量使用&lt;em>&lt;strong>英文（或电影原名）+年份&lt;/strong>&lt;/em>的格式进行搜索。当我使用英文搜索《圣血》时发现并没有想要的资源，主要问题是原片名为西班牙语，造成搜索的关键字不正确。&lt;/p>
@@ -595,17 +595,17 @@ tags:
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003132354318.png" alt="image-20221003132354318" style="zoom: 50%;" />
 &lt;p>当做种完成或你选择停止任务时，Motrix会提示下载完成，此时你已经可以开始观看了。&lt;/p>
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003132457566.png" alt="image-20221003132457566" style="zoom:50%;" />
-&lt;h2 id="没有想要的字幕怎么办">没有想要的字幕怎么办？&lt;/h2>
-&lt;h3 id="默认播放器加载字幕文件">默认播放器加载字幕文件&lt;/h3>
+&lt;h3 id="没有想要的字幕怎么办">没有想要的字幕怎么办？&lt;/h3>
+&lt;h4 id="默认播放器加载字幕文件">默认播放器加载字幕文件&lt;/h4>
 &lt;p>部分通过BT下载的电影会有一个名为Subs的文件夹，即字幕文件。你可以使用Windows自带的播放器来加载后缀为&lt;code>.ass, .srt&lt;/code>等的字幕文件：直接拖拽到播放窗口中，成功加载。&lt;/p>
 &lt;p>当然Windows自带的软件通常都很垃圾，所以&lt;code>.sub&lt;/code>文件无法被成功识别并加载，此时的&lt;strong>解决方案是更换播放器&lt;/strong>。&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003133030565.png" alt="image-20221003133030565">&lt;/p>
-&lt;h3 id="splayer-射手影音播放器">SPlayer 射手影音播放器&lt;/h3>
+&lt;h4 id="splayer-射手影音播放器">SPlayer 射手影音播放器&lt;/h4>
 &lt;p>SPlayer是会联网自动为视频寻找字幕的一款播放器，虽然有时会由于网络问题无法加载字幕、且与默认播放器一样无法加载&lt;code>.sub&lt;/code>文件，但总体较好用。&lt;/p>
 &lt;p>从&lt;a href="https://www.splayer.org/">官方网站&lt;/a>下载安装包，按照步骤安装以后即可使用。（无需注册账号，在文件夹打开视频文件的时候，右键点击文件，选择&lt;code>&amp;gt;打开方式&amp;gt;SPlayer&lt;/code>即可。&lt;/p>
 &lt;p>以《银翼杀手2049》为例，打开第一次、第二次字幕匹配都显示网络错误，但等待一段时间之后即成功。&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003134146258.png" alt="image-20221003134146258">&lt;/p>
-&lt;h3 id="xmp-迅雷播放组件">XMP 迅雷播放组件&lt;/h3>
+&lt;h4 id="xmp-迅雷播放组件">XMP 迅雷播放组件&lt;/h4>
 &lt;p>&lt;strong>注意仅为小组件！！无需下载迅雷这种流氓软件！！！！&lt;/strong>&lt;/p>
 &lt;p>&lt;a href="https://pan.baidu.com/s/1Hkz47udAfwa2mufDKEENrw">下载链接，提取码为empt&lt;/a>。下载之后解压、打开&lt;code>.exe&lt;/code>文件即可使用，该播放器可以加载多种字幕类型。&lt;/p>
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003135419273.png" alt="image-20221003135419273" style="zoom: 50%;" />
@@ -613,7 +613,7 @@ tags:
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003134742872.png" alt="image-20221003134742872">&lt;/p>
 &lt;p>尝试通过&lt;em>手动载入&lt;/em>&amp;gt;&lt;em>选择字幕文件&lt;/em>的方式加载&lt;code>.sub&lt;/code>文件，可以发现成功加载了全英字幕，并且格式美观。&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003135150848.png" alt="image-20221003135150848">&lt;/p>
-&lt;h3 id="以上几种方式都找不到想要的字幕怎么办">以上几种方式都找不到想要的字幕怎么办？&lt;/h3>
+&lt;h4 id="以上几种方式都找不到想要的字幕怎么办">以上几种方式都找不到想要的字幕怎么办？&lt;/h4>
 &lt;p>解决办法是自己动手找字幕文件，或者练听力。&lt;/p>
 &lt;p>在字幕资源网站上搜索电影名称，如果搜索不到就换一个网站。可以看到shooter上有《圣血》的双语字幕，但我想要单英文的字幕而不是双语字幕。这时可以直接通过Google进行搜索。&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140059889.png" alt="image-20221003140059889">&lt;/p>
@@ -622,12 +622,12 @@ tags:
 &lt;p>需要注意的是，&lt;strong>任何网站如果有诸如下图的界面、让你点击Allow/允许通知，&lt;em>都请不要点击&lt;/em>，直接关闭该网页再次点击下载链接即可&lt;/strong>。&lt;/p>
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003140450982.png" alt="image-20221003140450982" style="zoom:33%;" />
 &lt;p>可以看到成功加载了刚刚下载的英文字幕，至此大功告成！&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies"/><category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源"/><category scheme="https://emptdrawr.github.io/tags/bt%E4%B8%8B%E8%BD%BD/" term="BT下载" label="BT下载"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%99%E7%A8%8B/" term="教程" label="教程"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/"/><id>https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/</id><updated>2023-01-13T00:03:49+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h1 id="导读作者导言">导读+作者导言&lt;/h1>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies"/><category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源"/><category scheme="https://emptdrawr.github.io/tags/bt%E4%B8%8B%E8%BD%BD/" term="BT下载" label="BT下载"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%99%E7%A8%8B/" term="教程" label="教程"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/"/><id>https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/</id><updated>2023-01-13T03:28:59+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
 &lt;p>导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p>
 &lt;blockquote>
 &lt;p>“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p>
 &lt;/blockquote>
-&lt;p>而将俄罗斯剥离贵族文化、拖入“苏维埃文化”的“十月革命”在文化史的视角下也很有趣：&lt;/p>……</summary><content type="html">&lt;h1 id="导读作者导言">导读+作者导言&lt;/h1>
+&lt;p>而将俄罗斯剥离贵族文化、拖入“苏维埃文化”的“十月革命”在文化史的视角下也很有趣：&lt;/p>……</summary><content type="html">&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
 &lt;p>导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p>
 &lt;blockquote>
 &lt;p>“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p>
@@ -643,26 +643,26 @@ tags:
 &lt;p>导读中提到“&lt;em>日耳曼是男人的民族，而俄罗斯只能是女人的民族&lt;/em>”（别尔嘉耶夫），在第一章当中也应证了这一说法——&lt;strong>俄罗斯欧化运动当中，许多女性可以流利掌握多门语言、可以鉴赏艺术、弹奏多种乐器，而在对比下，“男人就没什么好说的了”&lt;/strong>。（p62）&lt;/p>
 &lt;p>同时，&lt;strong>女性也定下了18世纪到19世纪前期俄罗斯贵族文化中的礼仪&lt;/strong>，同时期男性贵族的装扮、举止都逐渐更具有女性气质；在此期间，俄罗斯也孕育出了多名女皇，包括在彼得之后唯一能被称为“大帝”的叶卡捷琳娜二世。&lt;/p>
 &lt;p>而本书的书名也是&lt;strong>通过一个经典的女性文学形象（托尔斯泰《战争与和平》）来展示俄罗斯文化最深层次的特征&lt;/strong>：欧洲文明与俄罗斯本土的双重身份，&lt;strong>源于二重身的痛苦和对民族身份的不断探索构建了俄罗斯文化的宏大底色&lt;/strong>。&lt;/p>
-&lt;h1 id="第一章--欧化的俄罗斯">第一章 欧化的俄罗斯&lt;/h1>
-&lt;h2 id="彼得大帝的欧化政策">彼得大帝的“欧化”政策&lt;/h2>
+&lt;h2 id="第一章--欧化的俄罗斯">第一章 欧化的俄罗斯&lt;/h2>
+&lt;h3 id="彼得大帝的欧化政策">彼得大帝的“欧化”政策&lt;/h3>
 &lt;p>于沼泽中建立起的彼得堡成为俄罗斯乡土大地上的欧洲文明孤岛，一切都是因为彼得大帝对“欧化”的坚定。但不得不说，他非常有眼光地捕捉到了欧洲体制的精髓——在治理国家时他模仿荷兰和英国的海军，模仿普鲁士和瑞典的军校，模仿日耳曼的法律体系，模仿丹麦的文官制度（这也是后来常被契诃夫讽刺的十四等官阶制度）。（p23）&lt;/p>
 &lt;p>而追随他脚步的人也同样在这种汲取世界文化精华的思想下去学习欧洲文化的明珠：诗人、作家去巴黎进修，音乐家去意大利进修，画家去法国和荷兰进修，学者则去马登堡学习化学。（p79）&lt;/p>
 &lt;p>这样欧化的贵族教育孕育了世界主义的思想，&lt;strong>“世界主义”也成为了“俄罗斯文化最为持久的优势之一”&lt;/strong>。（p69）&lt;/p>
-&lt;h2 id="圣彼得堡历史的舞台">圣彼得堡——历史的舞台&lt;/h2>
+&lt;h3 id="圣彼得堡历史的舞台">圣彼得堡——历史的舞台&lt;/h3>
 &lt;p>圣彼得堡是一座造作的城市，一场在水上进行的乌托邦造梦工程，一切都如同一个精心搭建的舞台，其中所有人都是演员，为了演一出欧洲化的戏剧。而贵族的庄园、皇室的宫殿则是这座舞台上更精巧也更造作的舞台。&lt;/p>
 &lt;blockquote>
 &lt;p>仿佛一则俄国童话中的魔幻城市，圣彼得堡以神奇的速度建立起来，而关于它的一切都是如此辉煌和新鲜，以至于它很快成为了一个充满神话色彩的地方。&lt;/p>
 &lt;/blockquote>
 &lt;p>作者选择在第一章介绍圣彼得堡的建城历史，不仅是因为这是俄罗斯的首都、文化与政治的中心，更因为圣彼得堡具有一种“表演的特质”，它更是一场恢弘的历史叙事剧——其中掺杂了战争、宫廷阴谋、血腥过往、王朝的辉煌、奴隶制——的最好展示舞台。&lt;/p>
-&lt;h2 id="艺术与文学所谓俄罗斯审美的根源">艺术与文学：所谓“俄罗斯审美”的根源&lt;/h2>
-&lt;h3 id="艺术起源于农奴制度">艺术起源于农奴制度&lt;/h3>
+&lt;h3 id="艺术与文学所谓俄罗斯审美的根源">艺术与文学：所谓“俄罗斯审美”的根源&lt;/h3>
+&lt;h4 id="艺术起源于农奴制度">艺术起源于农奴制度&lt;/h4>
 &lt;p>如今社交媒体上关于俄罗斯文化的内容存在一种趋势：造神一种审美。不管是拆解苏联时期建筑特色的&lt;a href="https://www.bilibili.com/video/BV11Q4y1B7Eu?share_source=copy_web">视频&lt;/a>，还是许许多多介绍俄罗斯艺术的博文，都会或多或少地加上“毛子的审美就是牛”这类词句。不可否认，俄罗斯的文学、艺术、建筑常常具有磅礴又冷冽的气质，往往会与“高级审美”这样的关键词相挂钩，但我个人觉得这句话让人十分不适，主要因为：&lt;/p>
 &lt;ol>
 &lt;li>对一种自己并不熟悉的异邦文化使用高度简练与同一化严重的描述进行概括，&lt;strong>是对该文化当中小众、非主流的特点的漠视&lt;/strong>，在加深刻板印象的同时也具有一种文化上的傲慢。&lt;/li>
 &lt;li>“毛子”一词本身就具有民族性蔑视，是种族主义色彩的称呼。俄语区不仅有俄罗斯人，而也并不是所有俄罗斯人都具有强烈的民族认同（如纳博科夫本人），&lt;strong>使用这一称呼是语义上的种族主义&lt;/strong>，以及人云亦云的附和。&lt;/li>
 &lt;/ol>
 &lt;p>而令人震惊的是这样“高级审美”起源于农奴制度。这一章叙述了俄罗斯在18世纪主要让农奴从事艺术（绘画、歌剧、音乐、甚至是建筑）。并且通过舍列梅捷夫伯爵与农奴女主唱普拉斯科维亚的爱情悲剧展现了当时农奴艺术家身份当中蕴含的悲苦命运以及那个年代流行的歌剧主要情节。&lt;/p>
-&lt;h3 id="俄罗斯语言的创造">俄罗斯语言的创造&lt;/h3>
+&lt;h4 id="俄罗斯语言的创造">俄罗斯语言的创造&lt;/h4>
 &lt;p>俄语书面语和日常口语之间的巨大差距造成文学上的困难，作家和诗人难以使用原本的书面俄语进行书写，于是采用大量的外语。&lt;strong>而在普希金的带动下，许多作家开始创造俄语词汇以便更好地描述、更好地书写&lt;/strong>。&lt;/p>
 &lt;p>俄罗斯本土的作家、诗人、上流社会、知识分子逐渐将欧洲视为一个堕落之地（p83），在与欧洲的对比下，他们更加呼吁要回归俄罗斯率真的本性和自然的民族特征。与此同时，法国大革命也让俄罗斯人心中的乌托邦坍塌，从世界主义到民族主义，只需要一个精神巴别塔的陷落、一念之间的毁灭。&lt;/p>
 &lt;blockquote>
@@ -672,9 +672,9 @@ tags:
 &lt;ol>
 &lt;li>为何在文化产业空间被挤压的俄罗斯能喷涌出这么多运用春秋笔法的优秀文学作品？&lt;/li>
 &lt;li>俄罗斯民族对于欧洲的态度也是一条展现其文化内核与民族认同感的重要线索，而每个民族心中或许都拥有“欧洲于俄罗斯”这样&lt;code>借鉴/批判&lt;/code>同时存在的地方。&lt;/li>
-&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/categories/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/"/><id>https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/</id><updated>2023-01-13T00:16:51+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>文献综述写法总结&lt;/p>……</summary><content type="html">&lt;p>文献综述写法总结&lt;/p>
-&lt;h1 id="论文的结构">论文的结构&lt;/h1>
-&lt;h2 id="论文的三段式结构">论文的三段式结构&lt;/h2>
+&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/categories/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/"/><id>https://emptdrawr.github.io/posts/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/</id><updated>2023-01-13T03:30:10+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>文献综述写法总结&lt;/p>……</summary><content type="html">&lt;p>文献综述写法总结&lt;/p>
+&lt;h2 id="论文的结构">论文的结构&lt;/h2>
+&lt;h3 id="论文的三段式结构">论文的三段式结构&lt;/h3>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -701,7 +701,7 @@ tags:
 &lt;/table>
 &lt;p>引言段和结尾段结构相反，但逻辑上有很多类似的地方&lt;/p>
 &lt;p>&lt;em>introduction vs outroduction&lt;/em>&lt;/p>
-&lt;h3 id="引言-introduction">引言 Introduction&lt;/h3>
+&lt;h4 id="引言-introduction">引言 Introduction&lt;/h4>
 &lt;p>研究目标＋引言&lt;/p>
 &lt;p>$$
 已知\quad\quad\quad未知\quad\quad\quad 应知\
@@ -718,25 +718,25 @@ $$&lt;/p>
 &lt;li>为了解决某一个大问题，需要解决某一个&lt;strong>具体问题&lt;/strong>&lt;/li>
 &lt;li>为了实现长期目标，首先需要实现本篇论文的&lt;strong>特定目标&lt;/strong>&lt;/li>
 &lt;/ol>
-&lt;h1 id="研究选题">研究选题&lt;/h1>
-&lt;h2 id="填补研究的空白">填补研究的空白&lt;/h2>
+&lt;h2 id="研究选题">研究选题&lt;/h2>
+&lt;h3 id="填补研究的空白">填补研究的空白&lt;/h3>
 &lt;p>&lt;em>对于old problem的创新&lt;/em>&lt;/p>
-&lt;h2 id="延伸现有的研究">延伸现有的研究&lt;/h2>
+&lt;h3 id="延伸现有的研究">延伸现有的研究&lt;/h3>
 &lt;p>&lt;em>对于new problem的意义探索&lt;/em>&lt;/p>
-&lt;h2 id="复制成功的研究">复制成功的研究&lt;/h2>
+&lt;h3 id="复制成功的研究">复制成功的研究&lt;/h3>
 &lt;p>避免复制错误&lt;/p>
-&lt;h1 id="如何写文献综述">如何写文献综述&lt;/h1>
+&lt;h2 id="如何写文献综述">如何写文献综述&lt;/h2>
 &lt;p>&lt;em>论述研究目标的合理性&lt;/em>——通过文献综述完成&lt;/p>
-&lt;h2 id="文献综述概论">文献综述概论&lt;/h2>
-&lt;h3 id="文献综述的两个基本点">文献综述的两个基本点&lt;/h3>
-&lt;h4 id="学">学&lt;/h4>
+&lt;h3 id="文献综述概论">文献综述概论&lt;/h3>
+&lt;h4 id="文献综述的两个基本点">文献综述的两个基本点&lt;/h4>
+&lt;h5 id="学">学&lt;/h5>
 &lt;p>包括所有相关的主要文献&lt;/p>
 &lt;ul>
 &lt;li>全面&lt;/li>
 &lt;li>新&lt;/li>
 &lt;li>客观&lt;/li>
 &lt;/ul>
-&lt;h4 id="思">思&lt;/h4>
+&lt;h5 id="思">思&lt;/h5>
 &lt;p>&lt;strong>评判&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Validity, Reliability&lt;/li>
@@ -749,7 +749,7 @@ $$&lt;/p>
 &lt;li>演绎——找不同点&lt;/li>
 &lt;li>溯因——找差距 (gap)&lt;/li>
 &lt;/ul>
-&lt;h3 id="文献综述的意义所在">文献综述的意义所在&lt;/h3>
+&lt;h4 id="文献综述的意义所在">文献综述的意义所在&lt;/h4>
 &lt;ul>
 &lt;li>了解研究主题：过去、现在和未来的研究方向&lt;/li>
 &lt;li>借鉴研究方法
@@ -763,51 +763,51 @@ $$&lt;/p>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="文献综述的方法">文献综述的方法&lt;/h2>
+&lt;h3 id="文献综述的方法">文献综述的方法&lt;/h3>
 &lt;p>&lt;a href="https://whimsical.com/B6f7LJfmEBSnMoyTjaK7vt">文献综述的方法-思维导图&lt;/a>&lt;/p>
 &lt;iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/B6f7LJfmEBSnMoyTjaK7vt">&lt;/iframe>
 &lt;hr>
 &lt;p>&lt;a href="https://zhuanlan.zhihu.com/p/337595082">程啸：如何做好法学文献综述？&lt;/a>&lt;/p>
-&lt;h2 id="文献综述写法">文献综述写法&lt;/h2>
-&lt;h3 id="用故事逻辑写文献综述">用故事逻辑写文献综述&lt;/h3>
-&lt;h4 id="situation-情境">Situation 情境&lt;/h4>
+&lt;h3 id="文献综述写法">文献综述写法&lt;/h3>
+&lt;h4 id="用故事逻辑写文献综述">用故事逻辑写文献综述&lt;/h4>
+&lt;h5 id="situation-情境">Situation 情境&lt;/h5>
 &lt;ul>
 &lt;li>从基本场景引入，引言，让读者能够继续阅读&lt;/li>
 &lt;/ul>
-&lt;h4 id="confliction-冲突">Confliction 冲突&lt;/h4>
+&lt;h5 id="confliction-冲突">Confliction 冲突&lt;/h5>
 &lt;ul>
 &lt;li>可能较明显&lt;/li>
 &lt;li>也可能需要通过文献分析得到&lt;/li>
 &lt;/ul>
-&lt;h4 id="question-关键问题">Question 关键问题&lt;/h4>
+&lt;h5 id="question-关键问题">Question 关键问题&lt;/h5>
 &lt;ul>
 &lt;li>明确提出解决冲突的关键点&lt;/li>
 &lt;/ul>
-&lt;h4 id="answer-解决方案">Answer 解决方案&lt;/h4>
+&lt;h5 id="answer-解决方案">Answer 解决方案&lt;/h5>
 &lt;ul>
 &lt;li>有说服力的关键方案&lt;/li>
 &lt;/ul>
 &lt;p>&lt;code>SCQA&lt;/code> 讲故事的最自然的顺序&lt;/p>
 &lt;p>&lt;code>QASC, QACS&lt;/code>开门见山，直接提出问题和解决方案，再来阐述背景和冲突&lt;/p>
 &lt;p>&lt;code>CSQA&lt;/code> 让文章更有冲击力，引发读者的关注之后再介绍后续的背景和解决方案&lt;/p>
-&lt;h2 id="文献分析的三种逻辑推理方法">文献分析的三种逻辑推理方法&lt;/h2>
-&lt;h3 id="归纳-inductive">归纳 Inductive&lt;/h3>
+&lt;h3 id="文献分析的三种逻辑推理方法">文献分析的三种逻辑推理方法&lt;/h3>
+&lt;h4 id="归纳-inductive">归纳 Inductive&lt;/h4>
 &lt;p>由点到线&lt;/p>
 &lt;p>从现有证据中归纳&lt;/p>
 &lt;p>&lt;strong>新规律&lt;/strong>&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/A0A319D1-045D-4426-BE7B-9556990FDB7D.png" alt="A0A319D1-045D-4426-BE7B-9556990FDB7D.png">&lt;/p>
-&lt;h3 id="演绎-deductive">演绎 Deductive&lt;/h3>
+&lt;h4 id="演绎-deductive">演绎 Deductive&lt;/h4>
 &lt;p>由线到点&lt;/p>
 &lt;p>&lt;em>大前提-小前提-结论&lt;/em>&lt;/p>
 &lt;p>&lt;strong>新证据&lt;/strong>&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/EE772A8D-C80F-4678-8E25-BDADD19F121B.png" alt="EE772A8D-C80F-4678-8E25-BDADD19F121B.png">&lt;/p>
-&lt;h3 id="溯因-abductive">溯因 Abductive&lt;/h3>
+&lt;h4 id="溯因-abductive">溯因 Abductive&lt;/h4>
 &lt;p>由点到虚线&lt;/p>
 &lt;p>从一堆看似杂乱无章的证据当中找出逻辑&lt;/p>
 &lt;p>&lt;strong>新假说&lt;/strong>&lt;/p>
 &lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png" alt="E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png">&lt;/p>
 &lt;p>需要进一步的验证&lt;/p>
-&lt;h2 id="从文献推出自己的论点">从文献推出自己的论点&lt;/h2>
+&lt;h3 id="从文献推出自己的论点">从文献推出自己的论点&lt;/h3>
 &lt;p>$$
 \begin{array}
 k分解问题\
@@ -821,7 +821,7 @@ k分解问题\
 \quad结论
 \end{array}
 $$&lt;/p>
-&lt;h1 id="参考">参考&lt;/h1>
+&lt;h2 id="参考">参考&lt;/h2>
 &lt;ul>
 &lt;li>逻辑清晰，每个部分时长都较短的论文视频：&lt;a href="https://www.bilibili.com/video/BV1mJ411m7YQ?share_source=copy_web">论文写作：如何写论文系列讲座合集 (1-10) 论文结构|引言|选题|研究目标|文献综述&lt;/a>&lt;/li>
 &lt;li>一篇写得非常符合标准文献综述要求、论文结构的论文：&lt;a href="https://repository.globethics.net/bitstream/handle/20.500.12424/170212/Study_Unspoken_Rules_of_Industry.pdf?sequence=1">行业潜规则研究——中国奶业产业的案例研究&lt;/a>&lt;/li>
