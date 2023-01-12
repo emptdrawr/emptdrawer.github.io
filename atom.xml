@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-13T03:31:13+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T02:21:28+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-01-13T03:39:49+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">读书笔记-存在主义咖啡馆</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/existentialist-cafe/"/><id>https://emptdrawr.github.io/posts/existentialist-cafe/</id><updated>2023-01-13T03:39:40+08:00</updated><published>2023-01-13T03:34:29+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">第一章 从波伏娃和萨特开始讲述存在主义从现象学：克尔凯郭尔和尼采处源起的历史。短短的一……</summary><content type="html">&lt;h2 id="第一章">第一章&lt;/h2>
+&lt;p>从波伏娃和萨特开始讲述存在主义从现象学：克尔凯郭尔和尼采处源起的历史。短短的一章就囊括了萨特的辉煌和死亡，杂揉了历史事实、群众情绪与个人体验的萨特葬礼描写得很有意思，同时也将那个时代存在主义者的群像放入叙述之中——&lt;strong>反叛、自由、非传统、破除&lt;/strong>。&lt;/p>
+&lt;p>结尾对存在主义做了部分定义，例如：&lt;/p>
+&lt;blockquote>
+&lt;p>存在主义者关心的是个人-individual，是具体的人类存在-huma n existence&lt;/p>
+&lt;p>他们认为我对我做的每件事都负有责任，这一事实会让人产生不可与自身分离开的焦虑&lt;/p>
+&lt;p>人类存在是模糊的，既在边界之内又超越了物质世界&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="第二章">第二章&lt;/h2>
+&lt;p>作为现象学家的胡塞尔将自己的哲学观念反复敲打，“强迫性地磨折叠小刀”一般不断打磨自己的观点，从专注于外在领域的现象学转向更唯心论的内在领域，之后又回到外在领域。他的学生伊迪丝与他的割裂。&lt;/p>
+&lt;p>胡塞尔对萨特的影响：心灵是意向的集合，它涉及到任何事物时都带有aboutness和ofness，心灵在认识任何事物时都是做出对该事物的intention&lt;/p>
+&lt;p>萨特认为我们认识事物并非是纳入、内化，而是爆发、被抛出、进入世界（带有现象学特点&lt;/p>
+&lt;h2 id="第三章">第三章&lt;/h2>
+&lt;p>海德格尔作为胡塞尔的得意门生展开了对他（和胡塞尔的现象学）的忤逆。《存在与时间》一书是这种忤逆的开端/代表。&lt;/p>
+&lt;p>海德格尔区分了being-存在者和Being-存在（有点像具体的事物-存在者和一种更形而上的抽象状态之间的区别-存在）。他把“我”称为to-be-there此在，此在不同于其他存在：它会质疑自己的存在，即使心中有朦胧的认知和肯定；此在的日常存在是Being-in-world-在世存在&lt;/p>
+&lt;p>此在对一切的参与体现为concern-操劳。有操劳的存在-有使用价值-有联系-共在的-readiness-to-hand；这物-缺少联系的-匮乏的-presence-at-hand&lt;/p>
+&lt;blockquote>
+&lt;p>在世存在和共在先于独自存在
+handiness先于presence&lt;/p>
+&lt;/blockquote>
+&lt;p>与其他哲学家习惯于用更日常的语言来描述复杂的概念，海德格尔倾向于用更复杂、更创新的语言来描述日常存在，类似于布莱希特戏剧中的“异化”。&lt;/p>
+&lt;blockquote>
+&lt;p>只有在质疑中哲学才会存在&amp;quot;&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="第四章">第四章&lt;/h2>
+&lt;p>这一章把传记与哲学史写出了小说般的精彩，但看得实在是太心痛了。涉及纳粹的历史片段总是如此沉重。“…而是在于我的生存”短短几个字就让人悲伤又无力，只能屏住呼吸。&lt;/p>
+&lt;p>心痛在于一个伟大哲学家在人道主义上的落败，也在于哲学思想危险的双面性，太容易被玩弄、利用、再塑成杀人之刃。&amp;quot;&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/categories/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E5%92%96%E5%95%A1%E9%A6%86/" term="存在主义咖啡馆" label="存在主义咖啡馆"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E5%93%B2%E5%AD%A6%E5%8F%B2/" term="哲学史" label="哲学史"/><category scheme="https://emptdrawr.github.io/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89/" term="存在主义" label="存在主义"/></entry><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T02:21:28+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>……</summary><content type="html">&lt;p>记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……&lt;/p>
 &lt;h2 id="安装-installation">安装 installation&lt;/h2>
 &lt;h3 id="git语言开发环境">Git语言开发环境&lt;/h3>
 &lt;p>因为之前已经安装所以不再赘述。&lt;/p>
@@ -622,7 +648,7 @@ tags:
 &lt;p>需要注意的是，&lt;strong>任何网站如果有诸如下图的界面、让你点击Allow/允许通知，&lt;em>都请不要点击&lt;/em>，直接关闭该网页再次点击下载链接即可&lt;/strong>。&lt;/p>
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003140450982.png" alt="image-20221003140450982" style="zoom:33%;" />
 &lt;p>可以看到成功加载了刚刚下载的英文字幕，至此大功告成！&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies"/><category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源"/><category scheme="https://emptdrawr.github.io/tags/bt%E4%B8%8B%E8%BD%BD/" term="BT下载" label="BT下载"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%99%E7%A8%8B/" term="教程" label="教程"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/"/><id>https://emptdrawr.github.io/posts/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0-%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E-%E7%AC%AC%E4%B8%80%E7%AB%A0/</id><updated>2023-01-13T03:28:59+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies"/><category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源"/><category scheme="https://emptdrawr.github.io/tags/bt%E4%B8%8B%E8%BD%BD/" term="BT下载" label="BT下载"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%99%E7%A8%8B/" term="教程" label="教程"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/read-dance-of-natasha/"/><id>https://emptdrawr.github.io/posts/read-dance-of-natasha/</id><updated>2023-01-13T03:33:16+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
 &lt;p>导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p>
 &lt;blockquote>
 &lt;p>“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p>
@@ -640,7 +666,7 @@ tags:
 &lt;blockquote>
 &lt;p>每一部文学作品、每一幕戏剧、每一幅绘画、每一曲音乐的背后都蕴含了丰富的政治、哲学、宗教和社会批评的元素，所有的新思想和新启蒙都是通过“文学”这个“中心枢纽”而展现。（p.xvi）&lt;/p>
 &lt;/blockquote>
-&lt;p>导读中提到“&lt;em>日耳曼是男人的民族，而俄罗斯只能是女人的民族&lt;/em>”（别尔嘉耶夫），在第一章当中也应证了这一说法——&lt;strong>俄罗斯欧化运动当中，许多女性可以流利掌握多门语言、可以鉴赏艺术、弹奏多种乐器，而在对比下，“男人就没什么好说的了”&lt;/strong>。（p62）&lt;/p>
+&lt;p>导读中提到“..日耳曼是男人的民族，而俄罗斯只能是女人的民族..”（别尔嘉耶夫），在第一章当中也应证了这一说法——&lt;strong>俄罗斯欧化运动当中，许多女性可以流利掌握多门语言、可以鉴赏艺术、弹奏多种乐器，而在对比下，“男人就没什么好说的了”&lt;/strong>。（p62）&lt;/p>
 &lt;p>同时，&lt;strong>女性也定下了18世纪到19世纪前期俄罗斯贵族文化中的礼仪&lt;/strong>，同时期男性贵族的装扮、举止都逐渐更具有女性气质；在此期间，俄罗斯也孕育出了多名女皇，包括在彼得之后唯一能被称为“大帝”的叶卡捷琳娜二世。&lt;/p>
 &lt;p>而本书的书名也是&lt;strong>通过一个经典的女性文学形象（托尔斯泰《战争与和平》）来展示俄罗斯文化最深层次的特征&lt;/strong>：欧洲文明与俄罗斯本土的双重身份，&lt;strong>源于二重身的痛苦和对民族身份的不断探索构建了俄罗斯文化的宏大底色&lt;/strong>。&lt;/p>
 &lt;h2 id="第一章--欧化的俄罗斯">第一章 欧化的俄罗斯&lt;/h2>
