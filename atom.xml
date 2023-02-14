@@ -1,4 +1,167 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-02-14T21:52:38+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T19:30:23+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……</summary><content type="html">&lt;h2 id="安装-installation">安装 installation&lt;/h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">读书,看电影,听专辑,打代码,随意写点</subtitle><updated>2023-02-14T22:00:18+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">读书笔记-枪炮，病菌与钢铁</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/guns-germs-and-steel/"/><id>https://emptdrawr.github.io/posts/guns-germs-and-steel/</id><updated>2023-02-14T22:00:09+08:00</updated><published>2023-02-14T21:27:20+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">读了前言，写点笔记</summary><content type="html">&lt;h1 id="prologue">Prologue&lt;/h1>
+&lt;h2 id="views">views&lt;/h2>
+&lt;p>The author begins this introduction with a personal experience: A friend asked him why European whites had more wealth and resources than African or Australian Aborigines. This question led to another:&lt;/p>
+&lt;p>&lt;strong>Why is wealth distributed in the world as it is today?&lt;/strong>&lt;/p>
+&lt;p>In order to answer this ultimate question, 4 main reasons are considered in the following paragraphs. The first 3 explanations focused on genes, climate and geography, all of which failed to solve the problem due to a lack of scientific evidence. The last one, which focuses on guns, diseases and steel tools, reveals the real answer, according to the author.&lt;/p>
+&lt;h3 id="genetic-explanation">genetic explanation&lt;/h3>
+&lt;ul>
+&lt;li>based on Darwin's theory, people in Europe have more intelligence than those in African etc.&lt;/li>
+&lt;li>but this explanation lacks scientific evidence
+&lt;ul>
+&lt;li>&lt;em>a survey in American has failed to prove geographical causes are more important than environmental causes such as education&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="climate-reasons">climate reasons&lt;/h3>
+&lt;ul>
+&lt;li>cold climates require people to be more technologically inventive to &lt;mark>survive&lt;/mark>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>perhaps the seasonally variable climate at high latitudes poses more diverse challenges than does a seasonally constant tropical climate&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>this explanation also failed to survive scrutiny
+&lt;ul>
+&lt;li>&lt;em>North Europeans are lucky to have advanced technologies&lt;/em>&lt;/li>
+&lt;li>&lt;em>Maya civilization origins from tropical areas is the most advanced in the first millennium A.D.&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="geographical-answer">geographical answer&lt;/h3>
+&lt;ul>
+&lt;li>highly productive agriculture depended on large-scale irrigation systems that in turn required centralized bureaucracies&lt;/li>
+&lt;li>but detailed archaeological studies have shown that complex irrigation systems did not accompany the rise of centralized bureaucracies but followed after a considerable lag&lt;/li>
+&lt;/ul>
+&lt;h2 id="words--phrases--expressions">words &amp;amp; phrases &amp;amp; expressions&lt;/h2>
+&lt;h3 id="单词">单词&lt;/h3>
+&lt;ul>
+&lt;li>&lt;mark>encompass&lt;/mark> vi.
+&lt;ol>
+&lt;li>= to include a wide range of ideas, subjects... 包含各种思想ideas，包含各个方面aspects，包含世界人口/各个种族 most of the population/ ethic, cultural and linguistic groups
+&lt;em>e.g. The study &lt;strong>encompass&lt;/strong> social political and economics aspects.&lt;/em>&lt;/li>
+&lt;li>= to completely cover or surround something&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>incipient&lt;/mark> adj.
+= start to develop
+&lt;ol>
+&lt;li>&lt;em>an &lt;strong>incipient&lt;/strong> black eye 刚发生的丑事&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>incipient&lt;/strong> faults 潜在隐患&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>preliterate&lt;/mark> adj.
+= without writing&lt;/li>
+&lt;li>&lt;mark>proximate&lt;/mark> adj.
+&lt;ol>
+&lt;li>= direct (reason)
+&lt;em>e.g. All these ingredients are just &lt;strong>proximate&lt;/strong> factors, not ultimate explanation.&lt;/em>&lt;/li>
+&lt;li>= close (in time, order or family relationship)
+&lt;em>e.g. The usual answers to that question invoke &lt;strong>proximate&lt;/strong> forces, such as the rise of capitalism, mercantilism, scientific inquiry and technology.&lt;/em> （可以在叙述某现象的产生原因时使用）&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>idiosyncratic&lt;/mark> n.
+= an usual habit or way of behaving (feature) that someone (something) has
+&lt;em>e.g. &lt;strong>idiosyncratic&lt;/strong> cultural factors 特定的文化因素&lt;/em> （修饰原因、因素等，让文章更严谨，替换characteristic/featured）&lt;/li>
+&lt;li>&lt;mark>insatiable&lt;/mark> adj.
+= always want more and more 中性词，视语境定义褒贬
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>insatiable&lt;/strong> desire of power/money 对权力/钱财贪得无厌&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>insatiable&lt;/strong> curiosity/thirst for knowledge 对知识无尽的好奇/渴望&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>&lt;/mark> v.
+= replace (be more modern or effective)
+&lt;em>e.g. As society evolves, the focus on broad horizons &lt;strong>supersedes&lt;/strong> school work alone. 随着社会发展，对宽广眼界的关注取代了只对学业的关注。&lt;/em> （可以用在gap year相关的作文里）&lt;/li>
+&lt;/ul>
+&lt;h3 id="听力">听力&lt;/h3>
+&lt;p>&lt;strong>A.D.&lt;/strong> 不是eighty!
+A.D. 1500 = AD fifteen hundred&lt;/p>
+&lt;p>注意区分 A.D. 在年份前面，B.C.在年份后面
+11,000 B.C. = eleven thousand BC&lt;/p>
+&lt;h3 id="写作">写作&lt;/h3>
+&lt;h4 id="通用套话">通用套话&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>disparate rates&lt;/strong>
+&lt;em>e.g. those disparate rates demonstrated by the pie chart constitute the broadest pattern in coffee consumption&lt;/em> （写咖啡消费比例，饼状图）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>of academic interest / of &lt;strong>overwhelming practical importance&lt;/strong> 出于学术兴趣/具有重大的实际意义
+&lt;em>e.g. This subject/issue is not only of academic interest but also of overwhelming practical importance.&lt;/em> （在提出一个观点/主题时可以使用的套话，同时具有学术和实际意义）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>suffer from&lt;/strong> the disadvantages 具有……的缺点（在分别论述优缺点的作文中可以使用）
+&lt;em>e.g. Such narrowly focused accounts of gap year suffer from three disadvantages.&lt;/em>（反驳他人的观点）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>provide &lt;strong>deep&lt;/strong> understanding 提供深层理解&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>bypass&lt;/strong> the obvious big question 忽略了明显重要的问题
+&lt;em>e.g. Apparently this point of view bypasses the obvious big question.&lt;/em>（可以在叙述其他观点的问题/缺点时使用，反驳）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>be fitted into &lt;strong>a broader context&lt;/strong> 在一个更广阔的语境中适用
+&lt;em>e.g. Answering these questions require us to take... into consideration, so that this policy can be fitted in a broader context.&lt;/em> （对解决方案/政策进行范围上，总结“回答这些问题要求我们考虑到……，可以让这个政策在更大的范围内适用；升华、改进句）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>those huge disparities have potent effects&lt;/strong> 这些巨大的差异具有强大的影响&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="主题">主题&lt;/h4>
+&lt;h5 id="politics--strategies">politics &amp;amp; strategies&lt;/h5>
+&lt;ol>
+&lt;li>&lt;strong>centralized bureaucracies&lt;/strong> 集中官僚制
+&lt;em>e.g. Strict policies conducted by government might lead to disadvantages of centralized bureaucracies, like abuse of power or corruption. （雅思2023年2月作文：应该无限制用水还是让政府严格控制用水？请分别论述优缺点）&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h5 id="civilization--lives-of-human-being">civilization &amp;amp; lives of human being&lt;/h5>
+&lt;ol>
+&lt;li>
+&lt;p>domestic animals = &lt;strong>domesticated&lt;/strong> animals 家畜
+注意paraphrase的运用&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>可以在进行社会生活相关话题的时候作为evidence&lt;/p>
+&lt;ul>
+&lt;li>现代社会中生活的改变&lt;/li>
+&lt;li>科技带来的改变&lt;/li>
+&lt;li>welfare相关话题
+e.g. compared with hunter-gatherers, citizens of &lt;strong>modern industrialized states&lt;/strong> enjoy &lt;em>better medical care, lower risk of death by homicide, and a longer life span&lt;/em>, but receive &lt;em>much less social support from friendships and extended families&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>the historical... have &lt;strong>cast long shadow on the modern world&lt;/strong> 历史遗留的……问题在现代世界中投下了巨大的阴影&lt;/p>
+&lt;/li>
+&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/></entry><entry><title type="text">读书笔记-存在主义咖啡馆</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/existentialist-cafe/"/><id>https://emptdrawr.github.io/posts/existentialist-cafe/</id><updated>2023-01-13T19:30:49+08:00</updated><published>2023-01-13T03:34:29+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">思想很有趣，人更有趣</summary><content type="html">&lt;h2 id="第一章">第一章&lt;/h2>
+&lt;p>从波伏娃和萨特开始讲述存在主义从现象学：克尔凯郭尔和尼采处源起的历史。短短的一章就囊括了萨特的辉煌和死亡，杂揉了历史事实、群众情绪与个人体验的萨特葬礼描写得很有意思，同时也将那个时代存在主义者的群像放入叙述之中——&lt;strong>反叛、自由、非传统、破除&lt;/strong>。&lt;/p>
+&lt;p>结尾对存在主义做了部分定义，例如：&lt;/p>
+&lt;blockquote>
+&lt;p>存在主义者关心的是个人-individual，是具体的人类存在-human existence&lt;/p>
+&lt;p>他们认为我对我做的每件事都负有责任，这一事实会让人产生不可与自身分离开的焦虑&lt;/p>
+&lt;p>人类存在是模糊的，既在边界之内又超越了物质世界&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="第二章">第二章&lt;/h2>
+&lt;p>作为现象学家的胡塞尔将自己的哲学观念反复敲打，“强迫性地磨折叠小刀”一般不断打磨自己的观点，从专注于外在领域的现象学转向更唯心论的内在领域，之后又回到外在领域。他的学生伊迪丝与他的割裂。&lt;/p>
+&lt;p>胡塞尔对萨特的影响：心灵是意向的集合，它涉及到任何事物时都带有aboutness和ofness，心灵在认识任何事物时都是做出对该事物的intention&lt;/p>
+&lt;p>萨特认为我们认识事物并非是纳入、内化，而是爆发、被抛出、进入世界（带有现象学特点&lt;/p>
+&lt;hr>
+&lt;h2 id="第三章">第三章&lt;/h2>
+&lt;p>海德格尔作为胡塞尔的得意门生展开了对他（和胡塞尔的现象学）的忤逆。《存在与时间》一书是这种忤逆的开端/代表。&lt;/p>
+&lt;p>海德格尔区分了being-存在者和Being-存在（有点像具体的事物-存在者和一种更形而上的抽象状态之间的区别-存在）。他把“我”称为to-be-there此在，此在不同于其他存在：它会质疑自己的存在，即使心中有朦胧的认知和肯定；此在的日常存在是Being-in-world-在世存在&lt;/p>
+&lt;p>此在对一切的参与体现为concern-操劳。有操劳的存在-有使用价值-有联系-共在的-readiness-to-hand；这物-缺少联系的-匮乏的-presence-at-hand&lt;/p>
+&lt;blockquote>
+&lt;p>在世存在和共在先于独自存在
+handiness先于presence&lt;/p>
+&lt;/blockquote>
+&lt;p>与其他哲学家习惯于用更日常的语言来描述复杂的概念，海德格尔倾向于用更复杂、更创新的语言来描述日常存在，类似于布莱希特戏剧中的“异化”。&lt;/p>
+&lt;blockquote>
+&lt;p>只有在质疑中哲学才会存在&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="第四章">第四章&lt;/h2>
+&lt;p>这一章把传记与哲学史写出了小说般的精彩，但看得实在是太心痛了。涉及纳粹的历史片段总是如此沉重。“…而是在于我的生存”短短几个字就让人悲伤又无力，只能屏住呼吸。&lt;/p>
+&lt;p>心痛在于一个伟大哲学家在人道主义上的落败，也在于哲学思想危险的双面性，太容易被玩弄、利用、再塑成杀人之刃。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E5%92%96%E5%95%A1%E9%A6%86/" term="存在主义咖啡馆" label="存在主义咖啡馆"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E5%93%B2%E5%AD%A6%E5%8F%B2/" term="哲学史" label="哲学史"/><category scheme="https://emptdrawr.github.io/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89/" term="存在主义" label="存在主义"/></entry><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T19:30:23+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……</summary><content type="html">&lt;h2 id="安装-installation">安装 installation&lt;/h2>
 &lt;h3 id="git语言开发环境">Git语言开发环境&lt;/h3>
 &lt;p>因为之前已经安装所以不再赘述。&lt;/p>
 &lt;h3 id="go语言开发环境">Go语言开发环境&lt;/h3>
@@ -676,7 +839,52 @@ tags:
 &lt;p>“他们没有死在海上的福气。像鸵鸟会将头埋入沙漠当中一样，他们在睡梦之中行走到水源附近，溪流或是一片湖，然后在那里生根。”&lt;/p>
 &lt;p>“生根是什么意思？”&lt;/p>
 &lt;p>“字面意思。他们将头和脚都埋入土中，然后慢慢变成了一棵蕨类植物。”&lt;/p>
-&lt;p>我告诉她，你有很美的睫毛，恰到好处的弯曲弧度，像一片蕨类植物。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/article/" term="Article" label="Article"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%85%E4%BA%8B/" term="故事" label="故事"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/how-to-write-literature-review/"/><id>https://emptdrawr.github.io/posts/how-to-write-literature-review/</id><updated>2023-01-13T19:33:56+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>文献综述写法总结&lt;/p>……</summary><content type="html">&lt;p>文献综述写法总结&lt;/p>
+&lt;p>我告诉她，你有很美的睫毛，恰到好处的弯曲弧度，像一片蕨类植物。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/article/" term="Article" label="Article"/><category scheme="https://emptdrawr.github.io/tags/%E6%95%85%E4%BA%8B/" term="故事" label="故事"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/read-dance-of-natasha/"/><id>https://emptdrawr.github.io/posts/read-dance-of-natasha/</id><updated>2023-01-13T19:33:35+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">读《娜塔莎之舞：俄罗斯文化史》</summary><content type="html">&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
+&lt;p>导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p>
+&lt;blockquote>
+&lt;p>“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p>
+&lt;/blockquote>
+&lt;p>而将俄罗斯剥离贵族文化、拖入“苏维埃文化”的“十月革命”在文化史的视角下也很有趣：&lt;/p>
+&lt;blockquote>
+&lt;p>与旧制度的政治次裂往往形式剧烈而过程简捷，而与旧文化的文化决裂乃至新文化建构虽然波澜不惊但背后却涡流暗结并且过程复杂。&amp;gt;（p.v）&lt;/p>
+&lt;/blockquote>
+&lt;p>文化史是一个观看俄罗斯的窗口，也是所有历史当中无法割离的一部分，但它在俄罗斯历史中尤其重要，因为：&lt;/p>
+&lt;blockquote>
+&lt;p>每一部文学作品、每一幕戏剧、每一幅绘画、每一曲音乐的背后都蕴含了丰富的政治、哲学、宗教和社会批评的元素，所有的新思想和新启蒙都是通过“文学”这个“中心枢纽”而展现。（p.xvi）&lt;/p>
+&lt;/blockquote>
+&lt;p>导读中提到“..日耳曼是男人的民族，而俄罗斯只能是女人的民族..”（别尔嘉耶夫），在第一章当中也应证了这一说法——&lt;strong>俄罗斯欧化运动当中，许多女性可以流利掌握多门语言、可以鉴赏艺术、弹奏多种乐器，而在对比下，“男人就没什么好说的了”&lt;/strong>。（p62）&lt;/p>
+&lt;p>同时，&lt;strong>女性也定下了18世纪到19世纪前期俄罗斯贵族文化中的礼仪&lt;/strong>，同时期男性贵族的装扮、举止都逐渐更具有女性气质；在此期间，俄罗斯也孕育出了多名女皇，包括在彼得之后唯一能被称为“大帝”的叶卡捷琳娜二世。&lt;/p>
+&lt;p>而本书的书名也是&lt;strong>通过一个经典的女性文学形象（托尔斯泰《战争与和平》）来展示俄罗斯文化最深层次的特征&lt;/strong>：欧洲文明与俄罗斯本土的双重身份，&lt;strong>源于二重身的痛苦和对民族身份的不断探索构建了俄罗斯文化的宏大底色&lt;/strong>。&lt;/p>
+&lt;h2 id="第一章--欧化的俄罗斯">第一章 欧化的俄罗斯&lt;/h2>
+&lt;h3 id="彼得大帝的欧化政策">彼得大帝的“欧化”政策&lt;/h3>
+&lt;p>于沼泽中建立起的彼得堡成为俄罗斯乡土大地上的欧洲文明孤岛，一切都是因为彼得大帝对“欧化”的坚定。但不得不说，他非常有眼光地捕捉到了欧洲体制的精髓——在治理国家时他模仿荷兰和英国的海军，模仿普鲁士和瑞典的军校，模仿日耳曼的法律体系，模仿丹麦的文官制度（这也是后来常被契诃夫讽刺的十四等官阶制度）。（p23）&lt;/p>
+&lt;p>而追随他脚步的人也同样在这种汲取世界文化精华的思想下去学习欧洲文化的明珠：诗人、作家去巴黎进修，音乐家去意大利进修，画家去法国和荷兰进修，学者则去马登堡学习化学。（p79）&lt;/p>
+&lt;p>这样欧化的贵族教育孕育了世界主义的思想，&lt;strong>“世界主义”也成为了“俄罗斯文化最为持久的优势之一”&lt;/strong>。（p69）&lt;/p>
+&lt;h3 id="圣彼得堡历史的舞台">圣彼得堡——历史的舞台&lt;/h3>
+&lt;p>圣彼得堡是一座造作的城市，一场在水上进行的乌托邦造梦工程，一切都如同一个精心搭建的舞台，其中所有人都是演员，为了演一出欧洲化的戏剧。而贵族的庄园、皇室的宫殿则是这座舞台上更精巧也更造作的舞台。&lt;/p>
+&lt;blockquote>
+&lt;p>仿佛一则俄国童话中的魔幻城市，圣彼得堡以神奇的速度建立起来，而关于它的一切都是如此辉煌和新鲜，以至于它很快成为了一个充满神话色彩的地方。&lt;/p>
+&lt;/blockquote>
+&lt;p>作者选择在第一章介绍圣彼得堡的建城历史，不仅是因为这是俄罗斯的首都、文化与政治的中心，更因为圣彼得堡具有一种“表演的特质”，它更是一场恢弘的历史叙事剧——其中掺杂了战争、宫廷阴谋、血腥过往、王朝的辉煌、奴隶制——的最好展示舞台。&lt;/p>
+&lt;h3 id="艺术与文学所谓俄罗斯审美的根源">艺术与文学：所谓“俄罗斯审美”的根源&lt;/h3>
+&lt;h4 id="艺术起源于农奴制度">艺术起源于农奴制度&lt;/h4>
+&lt;p>如今社交媒体上关于俄罗斯文化的内容存在一种趋势：造神一种审美。不管是拆解苏联时期建筑特色的&lt;a href="https://www.bilibili.com/video/BV11Q4y1B7Eu?share_source=copy_web">视频&lt;/a>，还是许许多多介绍俄罗斯艺术的博文，都会或多或少地加上“毛子的审美就是牛”这类词句。不可否认，俄罗斯的文学、艺术、建筑常常具有磅礴又冷冽的气质，往往会与“高级审美”这样的关键词相挂钩，但我个人觉得这句话让人十分不适，主要因为：&lt;/p>
+&lt;ol>
+&lt;li>对一种自己并不熟悉的异邦文化使用高度简练与同一化严重的描述进行概括，&lt;strong>是对该文化当中小众、非主流的特点的漠视&lt;/strong>，在加深刻板印象的同时也具有一种文化上的傲慢。&lt;/li>
+&lt;li>“毛子”一词本身就具有民族性蔑视，是种族主义色彩的称呼。俄语区不仅有俄罗斯人，而也并不是所有俄罗斯人都具有强烈的民族认同（如纳博科夫本人），&lt;strong>使用这一称呼是语义上的种族主义&lt;/strong>，以及人云亦云的附和。&lt;/li>
+&lt;/ol>
+&lt;p>而令人震惊的是这样“高级审美”起源于农奴制度。这一章叙述了俄罗斯在18世纪主要让农奴从事艺术（绘画、歌剧、音乐、甚至是建筑）。并且通过舍列梅捷夫伯爵与农奴女主唱普拉斯科维亚的爱情悲剧展现了当时农奴艺术家身份当中蕴含的悲苦命运以及那个年代流行的歌剧主要情节。&lt;/p>
+&lt;h4 id="俄罗斯语言的创造">俄罗斯语言的创造&lt;/h4>
+&lt;p>俄语书面语和日常口语之间的巨大差距造成文学上的困难，作家和诗人难以使用原本的书面俄语进行书写，于是采用大量的外语。&lt;strong>而在普希金的带动下，许多作家开始创造俄语词汇以便更好地描述、更好地书写&lt;/strong>。&lt;/p>
+&lt;p>俄罗斯本土的作家、诗人、上流社会、知识分子逐渐将欧洲视为一个堕落之地（p83），在与欧洲的对比下，他们更加呼吁要回归俄罗斯率真的本性和自然的民族特征。与此同时，法国大革命也让俄罗斯人心中的乌托邦坍塌，从世界主义到民族主义，只需要一个精神巴别塔的陷落、一念之间的毁灭。&lt;/p>
+&lt;blockquote>
+&lt;p>我们需要欧洲作为理想和谴责的范例，”赫尔岑写道，“这样的欧洲就算实际不存在，我们也必须将她发明出来。”（p84）&lt;/p>
+&lt;/blockquote>
+&lt;p>思考：&lt;/p>
+&lt;ol>
+&lt;li>为何在文化产业空间被挤压的俄罗斯能喷涌出这么多运用春秋笔法的优秀文学作品？&lt;/li>
+&lt;li>俄罗斯民族对于欧洲的态度也是一条展现其文化内核与民族认同感的重要线索，而每个民族心中或许都拥有“欧洲于俄罗斯”这样&lt;code>借鉴/批判&lt;/code>同时存在的地方。&lt;/li>
+&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/tags/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/how-to-write-literature-review/"/><id>https://emptdrawr.github.io/posts/how-to-write-literature-review/</id><updated>2023-01-13T19:33:56+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.me</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>文献综述写法总结&lt;/p>……</summary><content type="html">&lt;p>文献综述写法总结&lt;/p>
 &lt;h2 id="论文的结构">论文的结构&lt;/h2>
 &lt;h3 id="论文的三段式结构">论文的三段式结构&lt;/h3>
 &lt;table>
