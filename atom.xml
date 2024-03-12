@@ -1,390 +1,253 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">Empt the Drawr</title>
-    <subtitle type="html">pray heaven or hell let you in</subtitle>
-    <updated>2024-03-12T17:12:38&#43;08:00</updated>
-    <id>https://emptdrawr.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://emptdrawr.github.io/atom.xml" />
-    <author>
-            <name>EmptDrawr</name>
-            <uri>https://emptdrawr.github.io/</uri>
-            
-                <email>emptdrawr@gmail.com</email>
-            </author>
-    
-    <generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator>
-        <entry>
-            <title type="text">读书笔记-枪炮，病菌与钢铁</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/guns-germs-and-steel/" />
-            <id>https://emptdrawr.github.io/posts/guns-germs-and-steel/</id>
-            <updated>2023-02-14T22:00:09&#43;08:00</updated>
-            <published>2023-02-14T21:27:20&#43;08:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">读了前言，写点笔记</summary>
-            
-                <content type="html">&lt;h1 id=&#34;prologue&#34;&gt;Prologue&lt;/h1&gt;
-&lt;h2 id=&#34;views&#34;&gt;views&lt;/h2&gt;
-&lt;p&gt;The author begins this introduction with a personal experience: A friend asked him why European whites had more wealth and resources than African or Australian Aborigines. This question led to another:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Why is wealth distributed in the world as it is today?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In order to answer this ultimate question, 4 main reasons are considered in the following paragraphs. The first 3 explanations focused on genes, climate and geography, all of which failed to solve the problem due to a lack of scientific evidence. The last one, which focuses on guns, diseases and steel tools, reveals the real answer, according to the author.&lt;/p&gt;
-&lt;h3 id=&#34;genetic-explanation&#34;&gt;genetic explanation&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;based on Darwin&#39;s theory, people in Europe have more intelligence than those in African etc.&lt;/li&gt;
-&lt;li&gt;but this explanation lacks scientific evidence
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;a survey in American has failed to prove geographical causes   are more important than environmental causes such as education&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;climate-reasons&#34;&gt;climate reasons&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;cold climates require people to be more technologically inventive to &lt;mark&gt;survive&lt;/mark&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;perhaps the seasonally variable climate at high latitudes poses more diverse challenges than does a seasonally constant tropical climate&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;this explanation also failed to survive scrutiny
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;North Europeans are lucky to have advanced technologies&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Maya civilization origins from tropical areas is the most advanced in the first millennium A.D.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;geographical-answer&#34;&gt;geographical answer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;highly productive agriculture depended on large-scale irrigation systems that in turn required centralized bureaucracies&lt;/li&gt;
-&lt;li&gt;but detailed archaeological studies have shown that complex irrigation systems did not accompany the rise of centralized bureaucracies but followed after a considerable lag&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;words--phrases--expressions&#34;&gt;words &amp;amp; phrases &amp;amp; expressions&lt;/h2&gt;
-&lt;h3 id=&#34;单词&#34;&gt;单词&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;mark&gt;encompass&lt;/mark&gt;  vi.
-&lt;ol&gt;
-&lt;li&gt;= to include a wide range of ideas, subjects... 包含各种思想ideas，包含各个方面aspects，包含世界人口/各个种族 most of the population/ ethic, cultural and linguistic groups
-&lt;em&gt;e.g. The study &lt;strong&gt;encompass&lt;/strong&gt; social political and economics aspects.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;= to completely cover or surround something&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;incipient&lt;/mark&gt; adj.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><title type="text">Empt the Drawr</title><subtitle type="html">pray heaven or hell let you in</subtitle><updated>2024-03-12T17:15:08+08:00</updated><id>https://emptdrawr.github.io/</id><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/"/><link rel="self" type="application/atom+xml" href="https://emptdrawr.github.io/atom.xml"/><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><generator uri="https://gohugo.io/" version="0.109.0">Hugo</generator><entry><title type="text">读书笔记-枪炮，病菌与钢铁</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/guns-germs-and-steel/"/><id>https://emptdrawr.github.io/posts/guns-germs-and-steel/</id><updated>2023-02-14T22:00:09+08:00</updated><published>2023-02-14T21:27:20+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">读了前言，写点笔记</summary><content type="html">&lt;h1 id="prologue">Prologue&lt;/h1>
+&lt;h2 id="views">views&lt;/h2>
+&lt;p>The author begins this introduction with a personal experience: A friend asked him why European whites had more wealth and resources than African or Australian Aborigines. This question led to another:&lt;/p>
+&lt;p>&lt;strong>Why is wealth distributed in the world as it is today?&lt;/strong>&lt;/p>
+&lt;p>In order to answer this ultimate question, 4 main reasons are considered in the following paragraphs. The first 3 explanations focused on genes, climate and geography, all of which failed to solve the problem due to a lack of scientific evidence. The last one, which focuses on guns, diseases and steel tools, reveals the real answer, according to the author.&lt;/p>
+&lt;h3 id="genetic-explanation">genetic explanation&lt;/h3>
+&lt;ul>
+&lt;li>based on Darwin's theory, people in Europe have more intelligence than those in African etc.&lt;/li>
+&lt;li>but this explanation lacks scientific evidence
+&lt;ul>
+&lt;li>&lt;em>a survey in American has failed to prove geographical causes are more important than environmental causes such as education&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="climate-reasons">climate reasons&lt;/h3>
+&lt;ul>
+&lt;li>cold climates require people to be more technologically inventive to &lt;mark>survive&lt;/mark>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>perhaps the seasonally variable climate at high latitudes poses more diverse challenges than does a seasonally constant tropical climate&lt;/p>
+&lt;/blockquote>
+&lt;ul>
+&lt;li>this explanation also failed to survive scrutiny
+&lt;ul>
+&lt;li>&lt;em>North Europeans are lucky to have advanced technologies&lt;/em>&lt;/li>
+&lt;li>&lt;em>Maya civilization origins from tropical areas is the most advanced in the first millennium A.D.&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="geographical-answer">geographical answer&lt;/h3>
+&lt;ul>
+&lt;li>highly productive agriculture depended on large-scale irrigation systems that in turn required centralized bureaucracies&lt;/li>
+&lt;li>but detailed archaeological studies have shown that complex irrigation systems did not accompany the rise of centralized bureaucracies but followed after a considerable lag&lt;/li>
+&lt;/ul>
+&lt;h2 id="words--phrases--expressions">words &amp;amp; phrases &amp;amp; expressions&lt;/h2>
+&lt;h3 id="单词">单词&lt;/h3>
+&lt;ul>
+&lt;li>&lt;mark>encompass&lt;/mark> vi.
+&lt;ol>
+&lt;li>= to include a wide range of ideas, subjects... 包含各种思想ideas，包含各个方面aspects，包含世界人口/各个种族 most of the population/ ethic, cultural and linguistic groups
+&lt;em>e.g. The study &lt;strong>encompass&lt;/strong> social political and economics aspects.&lt;/em>&lt;/li>
+&lt;li>= to completely cover or surround something&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>incipient&lt;/mark> adj.
 = start to develop
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;an &lt;strong&gt;incipient&lt;/strong&gt; black eye 刚发生的丑事&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;incipient&lt;/strong&gt; faults 潜在隐患&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;preliterate&lt;/mark&gt; adj.
-= without writing&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;proximate&lt;/mark&gt;  adj.
-&lt;ol&gt;
-&lt;li&gt;= direct (reason)
-&lt;em&gt;e.g. All these ingredients are just &lt;strong&gt;proximate&lt;/strong&gt; factors, not ultimate explanation.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;= close (in time, order or family relationship)
-&lt;em&gt;e.g. The usual answers to that question invoke &lt;strong&gt;proximate&lt;/strong&gt; forces, such as the rise of capitalism, mercantilism, scientific inquiry and technology.&lt;/em&gt; （可以在叙述某现象的产生原因时使用）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;idiosyncratic&lt;/mark&gt; n.
+&lt;ol>
+&lt;li>&lt;em>an &lt;strong>incipient&lt;/strong> black eye 刚发生的丑事&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>incipient&lt;/strong> faults 潜在隐患&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>preliterate&lt;/mark> adj.
+= without writing&lt;/li>
+&lt;li>&lt;mark>proximate&lt;/mark> adj.
+&lt;ol>
+&lt;li>= direct (reason)
+&lt;em>e.g. All these ingredients are just &lt;strong>proximate&lt;/strong> factors, not ultimate explanation.&lt;/em>&lt;/li>
+&lt;li>= close (in time, order or family relationship)
+&lt;em>e.g. The usual answers to that question invoke &lt;strong>proximate&lt;/strong> forces, such as the rise of capitalism, mercantilism, scientific inquiry and technology.&lt;/em> （可以在叙述某现象的产生原因时使用）&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>idiosyncratic&lt;/mark> n.
 = an usual habit or way of behaving (feature) that someone (something) has
-&lt;em&gt;e.g. &lt;strong&gt;idiosyncratic&lt;/strong&gt; cultural factors 特定的文化因素&lt;/em&gt; （修饰原因、因素等，让文章更严谨，替换characteristic/featured）&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;insatiable&lt;/mark&gt; adj.
+&lt;em>e.g. &lt;strong>idiosyncratic&lt;/strong> cultural factors 特定的文化因素&lt;/em> （修饰原因、因素等，让文章更严谨，替换characteristic/featured）&lt;/li>
+&lt;li>&lt;mark>insatiable&lt;/mark> adj.
 = always want more and more 中性词，视语境定义褒贬
-&lt;ol&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;insatiable&lt;/strong&gt; desire of power/money 对权力/钱财贪得无厌&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;insatiable&lt;/strong&gt; curiosity/thirst for knowledge 对知识无尽的好奇/渴望&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;mark&gt;&lt;/mark&gt; v.
+&lt;ol>
+&lt;li>&lt;em>&lt;strong>insatiable&lt;/strong> desire of power/money 对权力/钱财贪得无厌&lt;/em>&lt;/li>
+&lt;li>&lt;em>&lt;strong>insatiable&lt;/strong> curiosity/thirst for knowledge 对知识无尽的好奇/渴望&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>&lt;mark>&lt;/mark> v.
 = replace (be more modern or effective)
-&lt;em&gt;e.g. As society evolves, the focus on broad horizons &lt;strong&gt;supersedes&lt;/strong&gt; school work alone. 随着社会发展，对宽广眼界的关注取代了只对学业的关注。&lt;/em&gt; （可以用在gap year相关的作文里）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;听力&#34;&gt;听力&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;A.D.&lt;/strong&gt; 不是eighty!
-A.D. 1500 = AD fifteen hundred&lt;/p&gt;
-&lt;p&gt;注意区分 A.D. 在年份前面，B.C.在年份后面
-11,000 B.C. = eleven thousand BC&lt;/p&gt;
-&lt;h3 id=&#34;写作&#34;&gt;写作&lt;/h3&gt;
-&lt;h4 id=&#34;通用套话&#34;&gt;通用套话&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;disparate rates&lt;/strong&gt;
-&lt;em&gt;e.g. those disparate rates demonstrated by the pie chart constitute the broadest pattern in coffee consumption&lt;/em&gt; （写咖啡消费比例，饼状图）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;of academic interest / of &lt;strong&gt;overwhelming practical importance&lt;/strong&gt; 出于学术兴趣/具有重大的实际意义
-&lt;em&gt;e.g. This subject/issue is not only of academic interest but also of overwhelming practical importance.&lt;/em&gt; （在提出一个观点/主题时可以使用的套话，同时具有学术和实际意义）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;suffer from&lt;/strong&gt; the disadvantages 具有……的缺点（在分别论述优缺点的作文中可以使用）
-&lt;em&gt;e.g. Such narrowly focused accounts of gap year suffer from three disadvantages.&lt;/em&gt;（反驳他人的观点）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;provide &lt;strong&gt;deep&lt;/strong&gt; understanding 提供深层理解&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;bypass&lt;/strong&gt; the obvious big question 忽略了明显重要的问题
-&lt;em&gt;e.g. Apparently this point of view bypasses the obvious big question.&lt;/em&gt;（可以在叙述其他观点的问题/缺点时使用，反驳）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;be fitted into &lt;strong&gt;a broader context&lt;/strong&gt; 在一个更广阔的语境中适用
-&lt;em&gt;e.g. Answering these questions require us to take... into consideration, so that this policy can be fitted in a broader context.&lt;/em&gt; （对解决方案/政策进行范围上，总结“回答这些问题要求我们考虑到……，可以让这个政策在更大的范围内适用；升华、改进句）&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;those huge disparities have potent effects&lt;/strong&gt; 这些巨大的差异具有强大的影响&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;主题&#34;&gt;主题&lt;/h4&gt;
-&lt;h5 id=&#34;politics--strategies&#34;&gt;politics &amp;amp; strategies&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;centralized bureaucracies&lt;/strong&gt; 集中官僚制
-&lt;em&gt;e.g. Strict policies conducted by government might lead to disadvantages of centralized bureaucracies, like abuse of power or corruption. （雅思2023年2月作文：应该无限制用水还是让政府严格控制用水？请分别论述优缺点）&lt;/em&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5 id=&#34;civilization--lives-of-human-being&#34;&gt;civilization &amp;amp; lives of human being&lt;/h5&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;domestic animals = &lt;strong&gt;domesticated&lt;/strong&gt; animals 家畜
-注意paraphrase的运用&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;可以在进行社会生活相关话题的时候作为evidence&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;现代社会中生活的改变&lt;/li&gt;
-&lt;li&gt;科技带来的改变&lt;/li&gt;
-&lt;li&gt;welfare相关话题
-e.g. compared with hunter-gatherers, citizens of &lt;strong&gt;modern industrialized states&lt;/strong&gt; enjoy &lt;em&gt;better medical care, lower risk of death by homicide, and a longer life span&lt;/em&gt;, but receive &lt;em&gt;much less social support from friendships and extended families&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;the historical... have &lt;strong&gt;cast long shadow on the modern world&lt;/strong&gt; 历史遗留的……问题在现代世界中投下了巨大的阴影&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">读书笔记-存在主义咖啡馆</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/existentialist-cafe/" />
-            <id>https://emptdrawr.github.io/posts/existentialist-cafe/</id>
-            <updated>2023-01-13T19:30:49&#43;08:00</updated>
-            <published>2023-01-13T03:34:29&#43;08:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">思想很有趣，人更有趣</summary>
-            
-                <content type="html">&lt;h2 id=&#34;第一章&#34;&gt;第一章&lt;/h2&gt;
-&lt;p&gt;从波伏娃和萨特开始讲述存在主义从现象学：克尔凯郭尔和尼采处源起的历史。短短的一章就囊括了萨特的辉煌和死亡，杂揉了历史事实、群众情绪与个人体验的萨特葬礼描写得很有意思，同时也将那个时代存在主义者的群像放入叙述之中——&lt;strong&gt;反叛、自由、非传统、破除&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;结尾对存在主义做了部分定义，例如：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;存在主义者关心的是个人-individual，是具体的人类存在-human existence&lt;/p&gt;
-&lt;p&gt;他们认为我对我做的每件事都负有责任，这一事实会让人产生不可与自身分离开的焦虑&lt;/p&gt;
-&lt;p&gt;人类存在是模糊的，既在边界之内又超越了物质世界&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第二章&#34;&gt;第二章&lt;/h2&gt;
-&lt;p&gt;作为现象学家的胡塞尔将自己的哲学观念反复敲打，“强迫性地磨折叠小刀”一般不断打磨自己的观点，从专注于外在领域的现象学转向更唯心论的内在领域，之后又回到外在领域。他的学生伊迪丝与他的割裂。&lt;/p&gt;
-&lt;p&gt;胡塞尔对萨特的影响：心灵是意向的集合，它涉及到任何事物时都带有aboutness和ofness，心灵在认识任何事物时都是做出对该事物的intention&lt;/p&gt;
-&lt;p&gt;萨特认为我们认识事物并非是纳入、内化，而是爆发、被抛出、进入世界（带有现象学特点&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第三章&#34;&gt;第三章&lt;/h2&gt;
-&lt;p&gt;海德格尔作为胡塞尔的得意门生展开了对他（和胡塞尔的现象学）的忤逆。《存在与时间》一书是这种忤逆的开端/代表。&lt;/p&gt;
-&lt;p&gt;海德格尔区分了being-存在者和Being-存在（有点像具体的事物-存在者和一种更形而上的抽象状态之间的区别-存在）。他把“我”称为to-be-there此在，此在不同于其他存在：它会质疑自己的存在，即使心中有朦胧的认知和肯定；此在的日常存在是Being-in-world-在世存在&lt;/p&gt;
-&lt;p&gt;此在对一切的参与体现为concern-操劳。有操劳的存在-有使用价值-有联系-共在的-readiness-to-hand；这物-缺少联系的-匮乏的-presence-at-hand&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;在世存在和共在先于独自存在
-handiness先于presence&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;与其他哲学家习惯于用更日常的语言来描述复杂的概念，海德格尔倾向于用更复杂、更创新的语言来描述日常存在，类似于布莱希特戏剧中的“异化”。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;只有在质疑中哲学才会存在&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;第四章&#34;&gt;第四章&lt;/h2&gt;
-&lt;p&gt;这一章把传记与哲学史写出了小说般的精彩，但看得实在是太心痛了。涉及纳粹的历史片段总是如此沉重。“…而是在于我的生存”短短几个字就让人悲伤又无力，只能屏住呼吸。&lt;/p&gt;
-&lt;p&gt;心痛在于一个伟大哲学家在人道主义上的落败，也在于哲学思想危险的双面性，太容易被玩弄、利用、再塑成杀人之刃。&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E5%92%96%E5%95%A1%E9%A6%86/" term="存在主义咖啡馆" label="存在主义咖啡馆" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E5%93%B2%E5%AD%A6%E5%8F%B2/" term="哲学史" label="哲学史" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89/" term="存在主义" label="存在主义" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">个人博客-从hexo迁移到hugo</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/" />
-            <id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id>
-            <updated>2023-01-13T19:30:23&#43;08:00</updated>
-            <published>2023-01-12T20:22:11&#43;08:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……</summary>
-            
-                <content type="html">&lt;h2 id=&#34;安装-installation&#34;&gt;安装 installation&lt;/h2&gt;
-&lt;h3 id=&#34;git语言开发环境&#34;&gt;Git语言开发环境&lt;/h3&gt;
-&lt;p&gt;因为之前已经安装所以不再赘述。&lt;/p&gt;
-&lt;h3 id=&#34;go语言开发环境&#34;&gt;Go语言开发环境&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://go.dev/dl/&#34;&gt;点击下载&lt;/a&gt;相应版本并进行安装。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E4%BB%8Ehexo%E8%BF%81%E7%A7%BB%E5%88%B0hugo/image-20230112170327000.png&#34; alt=&#34;完成安装&#34; title=&#34;完成安装的界面&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;hugo安装&#34;&gt;Hugo安装&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo/releases&#34;&gt;点击下载&lt;/a&gt;相应版本，并将&lt;code&gt;Hugo.exe&lt;/code&gt;解压到你指定的文件夹内，如&lt;code&gt;E:\Hugo\bin&lt;/code&gt;。随后，将这个路径添加到系统变量&lt;code&gt;Path&lt;/code&gt;中，保存即可。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/个人博客-从hexo迁移到hugo/image-20230112171520643.png&#34; alt=&#34;image-20230112171520643&#34; style=&#34;zoom:33%;&#34; /&gt;
-&lt;p&gt;修改完成后打开Git Bash，输入&lt;code&gt;hugo version&lt;/code&gt;，如果出现以下界面，则说明hugo已经安装完成。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/个人博客-从hexo迁移到hugo/image-20230112172028352.png&#34; alt=&#34;image-20230112172028352&#34; style=&#34;zoom:33%;&#34; /&gt;
-&lt;h2 id=&#34;使用hugo创建一个新的网站&#34;&gt;使用hugo创建一个新的网站&lt;/h2&gt;
-&lt;p&gt;输入命令行&lt;code&gt;hugo new site blog&lt;/code&gt;，就饿可以生成一个新的blog文件，用来装载博客相关的文件。可以看到给出了一些提示：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;需要安装一个主题，并且放在同名文件夹内&lt;/li&gt;
-&lt;li&gt;可以通过命令行&lt;code&gt;hugo new &amp;lt;SECTIONNAME&amp;gt;\&amp;lt;FILENAME&amp;gt;.&amp;lt;FORMAT&amp;gt;&lt;/code&gt;来添加一个新文件&lt;/li&gt;
-&lt;li&gt;如果需要启动内置的实时服务器，输入&lt;code&gt;hugo server&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ hugo new site blog
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Congratulations! Your new Hugo site is created in E:&lt;span class=&#34;se&#34;&gt;\H&lt;/span&gt;ugo&lt;span class=&#34;se&#34;&gt;\b&lt;/span&gt;in&lt;span class=&#34;se&#34;&gt;\b&lt;/span&gt;log.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Just a few more steps and you&lt;span class=&#34;err&#34;&gt;&amp;#39;&lt;/span&gt;re ready to go:
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Download a theme into the same-named folder.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   Choose a theme from https://themes.gohugo.io/ or
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   create your own with the &lt;span class=&#34;s2&#34;&gt;&amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34;&lt;/span&gt; command.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2. Perhaps you want to add some content. You can add single files
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   with &lt;span class=&#34;s2&#34;&gt;&amp;#34;hugo new &amp;lt;SECTIONNAME&amp;gt;\&amp;lt;FILENAME&amp;gt;.&amp;lt;FORMAT&amp;gt;&amp;#34;&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;3. Start the built-in live server via &lt;span class=&#34;s2&#34;&gt;&amp;#34;hugo server&amp;#34;&lt;/span&gt;.
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Visit https://gohugo.io/ &lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; quickstart guide and full documentation.
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;为博客安装主题&#34;&gt;为博客安装主题&lt;/h3&gt;
-&lt;p&gt;可以从Hugo官方提供的主题库中寻找自己喜欢的主题，下载之后，解压到&lt;code&gt;Hugo/blog/themes&lt;/code&gt;的同名文件夹之中。也可以使用git clone命令来克隆主题库。&lt;/p&gt;
-&lt;p&gt;我选择了&lt;a href=&#34;https://github.com/reuixiy/hugo-theme-meme/blob/master/README.zh-cn.md&#34;&gt;MemE&lt;/a&gt;这个主题，可以不用修改太多就把hexo主题中的内容移到hugo框架下。（因为hugo识别markdown和hexo有部分区别，自己修改费时费力，所以我就采用了这个主题）&lt;/p&gt;
-&lt;p&gt;安装完成后直接将hexo文件中&lt;code&gt;\source\_posts&lt;/code&gt;中所有的md文件移到hugo文件夹中的&lt;code&gt;\blog\content\posts&lt;/code&gt;下。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注意：如果文档中的图片之前采用的是本地图片上传的形式，迁移到了hugo之后要把所有图片放到\blog\static之中。&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;开始创作博文&#34;&gt;开始创作博文&lt;/h2&gt;
-&lt;h3 id=&#34;新建文档&#34;&gt;新建文档&lt;/h3&gt;
-&lt;p&gt;总体来说和hexo中类似，都是使用markdown语言来写博文。在Git Bash中输入：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new &lt;span class=&#34;s2&#34;&gt;&amp;#34;posts/&amp;lt;filename&amp;gt;.md&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;即可新建一个文档。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E4%BB%8Ehexo%E8%BF%81%E7%A7%BB%E5%88%B0hugo/image-20230112202234089.png&#34; alt=&#34;image-20230112202234089&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;文档标头-front-matter&#34;&gt;文档标头 front matter&lt;/h3&gt;
-&lt;p&gt;使用MemE主题的时候，生成的博文md文件标头有以下内容：&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;title: &amp;#34;个人博客 从hexo迁移到hugo&amp;#34;
+&lt;em>e.g. As society evolves, the focus on broad horizons &lt;strong>supersedes&lt;/strong> school work alone. 随着社会发展，对宽广眼界的关注取代了只对学业的关注。&lt;/em> （可以用在gap year相关的作文里）&lt;/li>
+&lt;/ul>
+&lt;h3 id="听力">听力&lt;/h3>
+&lt;p>&lt;strong>A.D.&lt;/strong> 不是eighty!
+A.D. 1500 = AD fifteen hundred&lt;/p>
+&lt;p>注意区分 A.D. 在年份前面，B.C.在年份后面
+11,000 B.C. = eleven thousand BC&lt;/p>
+&lt;h3 id="写作">写作&lt;/h3>
+&lt;h4 id="通用套话">通用套话&lt;/h4>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>disparate rates&lt;/strong>
+&lt;em>e.g. those disparate rates demonstrated by the pie chart constitute the broadest pattern in coffee consumption&lt;/em> （写咖啡消费比例，饼状图）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>of academic interest / of &lt;strong>overwhelming practical importance&lt;/strong> 出于学术兴趣/具有重大的实际意义
+&lt;em>e.g. This subject/issue is not only of academic interest but also of overwhelming practical importance.&lt;/em> （在提出一个观点/主题时可以使用的套话，同时具有学术和实际意义）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>suffer from&lt;/strong> the disadvantages 具有……的缺点（在分别论述优缺点的作文中可以使用）
+&lt;em>e.g. Such narrowly focused accounts of gap year suffer from three disadvantages.&lt;/em>（反驳他人的观点）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>provide &lt;strong>deep&lt;/strong> understanding 提供深层理解&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>bypass&lt;/strong> the obvious big question 忽略了明显重要的问题
+&lt;em>e.g. Apparently this point of view bypasses the obvious big question.&lt;/em>（可以在叙述其他观点的问题/缺点时使用，反驳）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>be fitted into &lt;strong>a broader context&lt;/strong> 在一个更广阔的语境中适用
+&lt;em>e.g. Answering these questions require us to take... into consideration, so that this policy can be fitted in a broader context.&lt;/em> （对解决方案/政策进行范围上，总结“回答这些问题要求我们考虑到……，可以让这个政策在更大的范围内适用；升华、改进句）&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>those huge disparities have potent effects&lt;/strong> 这些巨大的差异具有强大的影响&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="主题">主题&lt;/h4>
+&lt;h5 id="politics--strategies">politics &amp;amp; strategies&lt;/h5>
+&lt;ol>
+&lt;li>&lt;strong>centralized bureaucracies&lt;/strong> 集中官僚制
+&lt;em>e.g. Strict policies conducted by government might lead to disadvantages of centralized bureaucracies, like abuse of power or corruption. （雅思2023年2月作文：应该无限制用水还是让政府严格控制用水？请分别论述优缺点）&lt;/em>&lt;/li>
+&lt;/ol>
+&lt;h5 id="civilization--lives-of-human-being">civilization &amp;amp; lives of human being&lt;/h5>
+&lt;ol>
+&lt;li>
+&lt;p>domestic animals = &lt;strong>domesticated&lt;/strong> animals 家畜
+注意paraphrase的运用&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>可以在进行社会生活相关话题的时候作为evidence&lt;/p>
+&lt;ul>
+&lt;li>现代社会中生活的改变&lt;/li>
+&lt;li>科技带来的改变&lt;/li>
+&lt;li>welfare相关话题
+e.g. compared with hunter-gatherers, citizens of &lt;strong>modern industrialized states&lt;/strong> enjoy &lt;em>better medical care, lower risk of death by homicide, and a longer life span&lt;/em>, but receive &lt;em>much less social support from friendships and extended families&lt;/em>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>the historical... have &lt;strong>cast long shadow on the modern world&lt;/strong> 历史遗留的……问题在现代世界中投下了巨大的阴影&lt;/p>
+&lt;/li>
+&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/></entry><entry><title type="text">读书笔记-存在主义咖啡馆</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/existentialist-cafe/"/><id>https://emptdrawr.github.io/posts/existentialist-cafe/</id><updated>2023-01-13T19:30:49+08:00</updated><published>2023-01-13T03:34:29+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">思想很有趣，人更有趣</summary><content type="html">&lt;h2 id="第一章">第一章&lt;/h2>
+&lt;p>从波伏娃和萨特开始讲述存在主义从现象学：克尔凯郭尔和尼采处源起的历史。短短的一章就囊括了萨特的辉煌和死亡，杂揉了历史事实、群众情绪与个人体验的萨特葬礼描写得很有意思，同时也将那个时代存在主义者的群像放入叙述之中——&lt;strong>反叛、自由、非传统、破除&lt;/strong>。&lt;/p>
+&lt;p>结尾对存在主义做了部分定义，例如：&lt;/p>
+&lt;blockquote>
+&lt;p>存在主义者关心的是个人-individual，是具体的人类存在-human existence&lt;/p>
+&lt;p>他们认为我对我做的每件事都负有责任，这一事实会让人产生不可与自身分离开的焦虑&lt;/p>
+&lt;p>人类存在是模糊的，既在边界之内又超越了物质世界&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="第二章">第二章&lt;/h2>
+&lt;p>作为现象学家的胡塞尔将自己的哲学观念反复敲打，“强迫性地磨折叠小刀”一般不断打磨自己的观点，从专注于外在领域的现象学转向更唯心论的内在领域，之后又回到外在领域。他的学生伊迪丝与他的割裂。&lt;/p>
+&lt;p>胡塞尔对萨特的影响：心灵是意向的集合，它涉及到任何事物时都带有aboutness和ofness，心灵在认识任何事物时都是做出对该事物的intention&lt;/p>
+&lt;p>萨特认为我们认识事物并非是纳入、内化，而是爆发、被抛出、进入世界（带有现象学特点&lt;/p>
+&lt;hr>
+&lt;h2 id="第三章">第三章&lt;/h2>
+&lt;p>海德格尔作为胡塞尔的得意门生展开了对他（和胡塞尔的现象学）的忤逆。《存在与时间》一书是这种忤逆的开端/代表。&lt;/p>
+&lt;p>海德格尔区分了being-存在者和Being-存在（有点像具体的事物-存在者和一种更形而上的抽象状态之间的区别-存在）。他把“我”称为to-be-there此在，此在不同于其他存在：它会质疑自己的存在，即使心中有朦胧的认知和肯定；此在的日常存在是Being-in-world-在世存在&lt;/p>
+&lt;p>此在对一切的参与体现为concern-操劳。有操劳的存在-有使用价值-有联系-共在的-readiness-to-hand；这物-缺少联系的-匮乏的-presence-at-hand&lt;/p>
+&lt;blockquote>
+&lt;p>在世存在和共在先于独自存在
+handiness先于presence&lt;/p>
+&lt;/blockquote>
+&lt;p>与其他哲学家习惯于用更日常的语言来描述复杂的概念，海德格尔倾向于用更复杂、更创新的语言来描述日常存在，类似于布莱希特戏剧中的“异化”。&lt;/p>
+&lt;blockquote>
+&lt;p>只有在质疑中哲学才会存在&lt;/p>
+&lt;/blockquote>
+&lt;hr>
+&lt;h2 id="第四章">第四章&lt;/h2>
+&lt;p>这一章把传记与哲学史写出了小说般的精彩，但看得实在是太心痛了。涉及纳粹的历史片段总是如此沉重。“…而是在于我的生存”短短几个字就让人悲伤又无力，只能屏住呼吸。&lt;/p>
+&lt;p>心痛在于一个伟大哲学家在人道主义上的落败，也在于哲学思想危险的双面性，太容易被玩弄、利用、再塑成杀人之刃。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89%E5%92%96%E5%95%A1%E9%A6%86/" term="存在主义咖啡馆" label="存在主义咖啡馆"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E5%93%B2%E5%AD%A6%E5%8F%B2/" term="哲学史" label="哲学史"/><category scheme="https://emptdrawr.github.io/tags/%E5%AD%98%E5%9C%A8%E4%B8%BB%E4%B9%89/" term="存在主义" label="存在主义"/></entry><entry><title type="text">个人博客-从hexo迁移到hugo</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/"/><id>https://emptdrawr.github.io/posts/blog-from-hexo-to-hugo/</id><updated>2023-01-13T19:30:23+08:00</updated><published>2023-01-12T20:22:11+08:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">记录以github+hexo驱动的个人博客迁移到github+hugo的过程。主要是nexT主题看腻了……</summary><content type="html">&lt;h2 id="安装-installation">安装 installation&lt;/h2>
+&lt;h3 id="git语言开发环境">Git语言开发环境&lt;/h3>
+&lt;p>因为之前已经安装所以不再赘述。&lt;/p>
+&lt;h3 id="go语言开发环境">Go语言开发环境&lt;/h3>
+&lt;p>&lt;a href="https://go.dev/dl/">点击下载&lt;/a>相应版本并进行安装。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E4%BB%8Ehexo%E8%BF%81%E7%A7%BB%E5%88%B0hugo/image-20230112170327000.png" alt="完成安装" title="完成安装的界面">&lt;/p>
+&lt;h3 id="hugo安装">Hugo安装&lt;/h3>
+&lt;p>&lt;a href="https://github.com/gohugoio/hugo/releases">点击下载&lt;/a>相应版本，并将&lt;code>Hugo.exe&lt;/code>解压到你指定的文件夹内，如&lt;code>E:\Hugo\bin&lt;/code>。随后，将这个路径添加到系统变量&lt;code>Path&lt;/code>中，保存即可。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/个人博客-从hexo迁移到hugo/image-20230112171520643.png" alt="image-20230112171520643" style="zoom:33%;" />
+&lt;p>修改完成后打开Git Bash，输入&lt;code>hugo version&lt;/code>，如果出现以下界面，则说明hugo已经安装完成。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/个人博客-从hexo迁移到hugo/image-20230112172028352.png" alt="image-20230112172028352" style="zoom:33%;" />
+&lt;h2 id="使用hugo创建一个新的网站">使用hugo创建一个新的网站&lt;/h2>
+&lt;p>输入命令行&lt;code>hugo new site blog&lt;/code>，就饿可以生成一个新的blog文件，用来装载博客相关的文件。可以看到给出了一些提示：&lt;/p>
+&lt;ol>
+&lt;li>需要安装一个主题，并且放在同名文件夹内&lt;/li>
+&lt;li>可以通过命令行&lt;code>hugo new &amp;lt;SECTIONNAME&amp;gt;\&amp;lt;FILENAME&amp;gt;.&amp;lt;FORMAT&amp;gt;&lt;/code>来添加一个新文件&lt;/li>
+&lt;li>如果需要启动内置的实时服务器，输入&lt;code>hugo server&lt;/code>&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">$ hugo new site blog
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Congratulations! Your new Hugo site is created in E:&lt;span class="se">\H&lt;/span>ugo&lt;span class="se">\b&lt;/span>in&lt;span class="se">\b&lt;/span>log.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Just a few more steps and you&lt;span class="err">&amp;#39;&lt;/span>re ready to go:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">1. Download a theme into the same-named folder.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Choose a theme from https://themes.gohugo.io/ or
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> create your own with the &lt;span class="s2">&amp;#34;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;#34;&lt;/span> command.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">2. Perhaps you want to add some content. You can add single files
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> with &lt;span class="s2">&amp;#34;hugo new &amp;lt;SECTIONNAME&amp;gt;\&amp;lt;FILENAME&amp;gt;.&amp;lt;FORMAT&amp;gt;&amp;#34;&lt;/span>.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">3. Start the built-in live server via &lt;span class="s2">&amp;#34;hugo server&amp;#34;&lt;/span>.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">Visit https://gohugo.io/ &lt;span class="k">for&lt;/span> quickstart guide and full documentation.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="为博客安装主题">为博客安装主题&lt;/h3>
+&lt;p>可以从Hugo官方提供的主题库中寻找自己喜欢的主题，下载之后，解压到&lt;code>Hugo/blog/themes&lt;/code>的同名文件夹之中。也可以使用git clone命令来克隆主题库。&lt;/p>
+&lt;p>我选择了&lt;a href="https://github.com/reuixiy/hugo-theme-meme/blob/master/README.zh-cn.md">MemE&lt;/a>这个主题，可以不用修改太多就把hexo主题中的内容移到hugo框架下。（因为hugo识别markdown和hexo有部分区别，自己修改费时费力，所以我就采用了这个主题）&lt;/p>
+&lt;p>安装完成后直接将hexo文件中&lt;code>\source\_posts&lt;/code>中所有的md文件移到hugo文件夹中的&lt;code>\blog\content\posts&lt;/code>下。&lt;/p>
+&lt;p>&lt;strong>注意：如果文档中的图片之前采用的是本地图片上传的形式，迁移到了hugo之后要把所有图片放到\blog\static之中。&lt;/strong>&lt;/p>
+&lt;h2 id="开始创作博文">开始创作博文&lt;/h2>
+&lt;h3 id="新建文档">新建文档&lt;/h3>
+&lt;p>总体来说和hexo中类似，都是使用markdown语言来写博文。在Git Bash中输入：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">hugo new &lt;span class="s2">&amp;#34;posts/&amp;lt;filename&amp;gt;.md&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>即可新建一个文档。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E4%BB%8Ehexo%E8%BF%81%E7%A7%BB%E5%88%B0hugo/image-20230112202234089.png" alt="image-20230112202234089">&lt;/p>
+&lt;h3 id="文档标头-front-matter">文档标头 front matter&lt;/h3>
+&lt;p>使用MemE主题的时候，生成的博文md文件标头有以下内容：&lt;/p>
+&lt;pre tabindex="0">&lt;code>title: &amp;#34;个人博客 从hexo迁移到hugo&amp;#34;
 date: 2023-01-12T20:22:11+08:00
 draft: true
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;随后加上slug（用于生成文件的url），tags和categories便可开始写作。&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;slug: blog-from-hexo-to-hugo
+&lt;/code>&lt;/pre>&lt;p>随后加上slug（用于生成文件的url），tags和categories便可开始写作。&lt;/p>
+&lt;pre tabindex="0">&lt;code>slug: blog-from-hexo-to-hugo
 categories:
-  - Study
-  - CS
-  - 个人博客
+- Study
+- CS
+- 个人博客
 tags:
-  - hugo
-  - 个人博客管理
-&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;修改hugo-new-post文件模板&#34;&gt;修改hugo new post文件模板&lt;/h3&gt;
-&lt;p&gt;使用&lt;code&gt;hugo new site&lt;/code&gt;命令创建网站之后，可以看到以下文件夹，修改archetypes中的&lt;code&gt;default.md&lt;/code&gt;，保存之后就可以成功修改模板。&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;blog/
+- hugo
+- 个人博客管理
+&lt;/code>&lt;/pre>&lt;h3 id="修改hugo-new-post文件模板">修改hugo new post文件模板&lt;/h3>
+&lt;p>使用&lt;code>hugo new site&lt;/code>命令创建网站之后，可以看到以下文件夹，修改archetypes中的&lt;code>default.md&lt;/code>，保存之后就可以成功修改模板。&lt;/p>
+&lt;pre tabindex="0">&lt;code>blog/
 ├── archetypes/
-│   └── default.md
+│ └── default.md
 ├── assets/
 ├── content/
 ├── data/
@@ -393,753 +256,560 @@ tags:
 ├── static/
 ├── themes/
 └── config.toml
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;我根据自己平时的需要加上了以下内容：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: &amp;#34;{{ replace .Name &amp;#34;-&amp;#34;  &amp;#34; &amp;#34; | title }}&amp;#34;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;slug: 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;categories: 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tags:
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  - 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: {{ .Date }}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;image: /{{ replace .Name &amp;#34;-&amp;#34;  &amp;#34; &amp;#34; | title }}/cover.jpg
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;summary: 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;draft: false
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;toc: true
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;将hugo上传github并部署&#34;&gt;将hugo上传github并部署&lt;/h2&gt;
-&lt;h3 id=&#34;设置baseurl&#34;&gt;设置baseURL&lt;/h3&gt;
-&lt;p&gt;在&lt;code&gt;config.toml&lt;/code&gt;文件中把baseURL修改为&lt;code&gt;https://&amp;lt;USERNAME&amp;gt;.github.io&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;添加github-action文件&#34;&gt;添加GitHub Action文件&lt;/h3&gt;
-&lt;p&gt;在.github/workflow/gh-pages.yml中添加以下内容，如果没有该文件，则创建：&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yml&#34; data-lang=&#34;yml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;github pages&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;push&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;branches&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;l&#34;&gt;main &lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Set a branch that will trigger a deployment&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;pull_request&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;jobs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;deploy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;runs-on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ubuntu-22.04&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;steps&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;actions/checkout@v3&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;submodules&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Fetch Hugo themes (true OR recursive)&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;fetch-depth&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# Fetch all history for .GitInfo and .Lastmod&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Setup Hugo&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;peaceiris/actions-hugo@v2&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;hugo-version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;latest&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;# extended: true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Build&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;run&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;hugo --minify&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;      &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Deploy&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;uses&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;peaceiris/actions-gh-pages@v3&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;if&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;github.ref == &amp;#39;refs/heads/main&amp;#39;&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;with&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;github_token&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;${{ secrets.GITHUB_TOKEN }}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;          &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;publish_dir&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;./public&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;自定义域名&#34;&gt;自定义域名&lt;/h3&gt;
-&lt;p&gt;需要在static文件里创建一个CNAME文件，里面写入自己的域名。如下所示：&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/个人博客-从hexo迁移到hugo/image-20230112223750756.png&#34; alt=&#34;image-20230112223750756&#34; style=&#34;zoom:33%;&#34; /&gt;
-&lt;h3 id=&#34;部署到github&#34;&gt;部署到GitHub&lt;/h3&gt;
-&lt;p&gt;进入&lt;code&gt;blog\public\&lt;/code&gt;文件，将其中的文件push到&lt;code&gt;&amp;lt;username&amp;gt;.git.io&lt;/code&gt;库的&lt;code&gt;gh-pages&lt;/code&gt;分支，随后在设置中把默认分支改为gh-pages。&lt;/p&gt;
-&lt;h3 id=&#34;自动部署脚本&#34;&gt;自动部署脚本&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#!/bin/bash
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;# Program:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;#   发布hugo生成文件到GitHub Pages&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# History:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 2020.05.05 GeekWho First release.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# If a command fails then the deploy stops&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; -e
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;printf&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;\033[0;32mDeploying updates to GitHub...\033[0m\n&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Build the project.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo --minify &lt;span class=&#34;c1&#34;&gt;# if using a theme, replace with `hugo -t &amp;lt;YOURTHEME&amp;gt;`&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Go To Public folder&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; public
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 切换到gh-pages&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout gh-pages
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Add changes to git.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Commit changes.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nv&#34;&gt;msg&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Published on &lt;/span&gt;&lt;span class=&#34;k&#34;&gt;$(&lt;/span&gt;date +&lt;span class=&#34;s1&#34;&gt;&amp;#39;%Y-%m-%d %H:%M:%S&amp;#39;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt; -n &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$*&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;then&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nv&#34;&gt;msg&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$*&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;fi&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;$msg&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull --rebase origin gh-pages
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# Push source and build repos.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -f origin gh-pages
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;注意&#34;&gt;注意&lt;/h2&gt;
-&lt;p&gt;如果在重新部署以后发现css样式没有应用，那么应该使用&lt;code&gt;Ctrl+F5&lt;/code&gt;刷新页面，刷新之后即可发现网站可以正常显示。&lt;/p&gt;
-&lt;h2 id=&#34;参考&#34;&gt;参考&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;少数派/海边不吃鱼: &lt;a href=&#34;https://sspai.com/post/59904&#34;&gt;浅谈我为什么从 HEXO 迁移到 HUGO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;reuixiy: &lt;a href=&#34;https://io-oi.me/tech/powered-by-hugo/&#34;&gt;Powered by Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hugo: &lt;a href=&#34;https://gohugo.io/hosting-and-deployment/hosting-on-github/&#34;&gt;Host on GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;神秘极客: &lt;a href=&#34;https://xbc.me/hugo-deploy/&#34;&gt;Hugo部署方案&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hugo: &lt;a href=&#34;https://gohugo.io/getting-started/directory-structure/&#34;&gt;Directory Structure&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/cs/" term="CS" label="CS" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/hugo/" term="hugo" label="hugo" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" term="个人博客" label="个人博客" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">学习记录-git命令行及repositories的管理</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/git-commands/" />
-            <id>https://emptdrawr.github.io/posts/git-commands/</id>
-            <updated>2023-01-14T14:37:25&#43;08:00</updated>
-            <published>2022-10-30T02:59:50&#43;00:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">git的命令行笔记：配置GitHub远程库与本地库连接，学习pull和push命令，同时记载解决一些error方法。</summary>
-            
-                <content type="html">&lt;h2 id=&#34;windows中github的ssh-key配置&#34;&gt;windows中GitHub的SSH key配置&lt;/h2&gt;
-&lt;h3 id=&#34;设置github对应的用户名和使用的邮件&#34;&gt;设置GitHub对应的用户名和使用的邮件&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global user.name &lt;span class=&#34;s2&#34;&gt;&amp;#34;Your github name&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global user.email &lt;span class=&#34;s2&#34;&gt;&amp;#34;Your email address for github&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;生成一个ssh-key&#34;&gt;生成一个SSH key&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh-keygen -t rsa -C &lt;span class=&#34;s2&#34;&gt;&amp;#34;Your email address&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;注意：如果你之前使用其他GitHub账号与本地进行过SSH配置，那么你需要重新指定key生成的路径，以免覆盖之前的SSH造成错误。&lt;/p&gt;
-&lt;h3 id=&#34;将ssh私钥添加到ssh-agent&#34;&gt;将SSH私钥添加到ssh-agent&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;eval&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;$(&lt;/span&gt;ssh-agent -s&lt;span class=&#34;k&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ssh-add /your/Path/to/ssh/private/key/id_rsa
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;将ssh公钥添加到github账户&#34;&gt;将SSH公钥添加到GitHub账户&lt;/h3&gt;
-&lt;p&gt;复制&lt;code&gt;id_rsa.pub&lt;/code&gt;中的全部内容，添加到GitHub账户设置中的SSH Keys中即可。&lt;/p&gt;
-&lt;h2 id=&#34;在本地创建仓库并push到github&#34;&gt;在本地创建仓库并push到GitHub&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//在本地你想要作为仓库的文件夹里进行仓库配置的初始化
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//主要是防止添加空文件到缓冲区，如果本来有文件可以直接使用git add &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;filename&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;touch README
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add README
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;README/your comments&amp;#34;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//创建一个名为master的分支
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M master
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//和远程仓库进行绑定
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin git@github.com:ssh-link-of-remote-repository
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin master
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;配置git本地仓库并pull远程仓库&#34;&gt;配置git本地仓库并pull远程仓库&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//把远程库的内容拉取到本地文件夹当中
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull origin branch-name ssh-link-of-remote-repository
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//在本地修改文件之后点击保存
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s1&#34;&gt;&amp;#39;Your comment on this commit&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin branch-name
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git switch branch-name //切换分支
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;git-add&#34;&gt;&lt;code&gt;git add&lt;/code&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;git add .&lt;/code&gt;：不添加参数，默认为将修改的文件和未跟踪新添加的文件添加到git系统的暂存区，&lt;strong&gt;不包括删除的文件&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git add -u .&lt;/code&gt;：将已跟踪文件中的修改和删除文件添加到暂存区，&lt;strong&gt;不包括新增加的文件&lt;/strong&gt;。&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;git add -A .&lt;/code&gt;：将所有的已跟踪的文件的修改与删除和新增的未跟踪的文件都添加到暂存区。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;git-commit&#34;&gt;&lt;code&gt;git commit&lt;/code&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;git commit&lt;/code&gt; 主要是将暂存区里的改动给&lt;strong&gt;提交到本地的版本库&lt;/strong&gt;。每次使用git commit 命令我们都会在本地版本库生成一个40位的哈希值，这个哈希值也叫commit-id，commit-id 在版本回退的时候是非常有用的，它相当于一个快照,可以在未来的任何时候通过与git reset的组合命令回到这里。&lt;/p&gt;
-&lt;h3 id=&#34;git-branch&#34;&gt;&lt;code&gt;git branch&lt;/code&gt;&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//添加本地分支
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M branch-name
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//删除本地分支
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -d branch-name
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//删除远程分支
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin --delete branch-name
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;问题解决&#34;&gt;问题解决&lt;/h2&gt;
-&lt;h3 id=&#34;1-failed-to-connet-to-githubcom-port-443&#34;&gt;1. failed to connet to github.com port 443&lt;/h3&gt;
-&lt;p&gt;网络问题，可以通过解配置http代理来解决。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global --unset http.proxy
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global --unset https.proxy
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;2-failed-to-push-some-refs-to--&#34;&gt;2. failed to push some refs to &amp;quot; &amp;quot;&lt;/h3&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull --rebase origin branch-name
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h3 id=&#34;3-unable-to-access-error-10054-url-error-403&#34;&gt;3. unable to access error 10054/ URL error 403&lt;/h3&gt;
-&lt;h4 id=&#34;第一种解决方案&#34;&gt;第一种解决方案&lt;/h4&gt;
-&lt;p&gt;没有权限造成的，打开.git文件夹中的config文件，在url的github前面加上你的用户名，原来为&lt;code&gt;url=https://github.com/your-repository&lt;/code&gt;，现在修改为&lt;code&gt;url=https://your-username@github.com/your-repository&lt;/code&gt;。&lt;/p&gt;
-&lt;p&gt;如果filemode是&lt;code&gt;false&lt;/code&gt;的话也要设置为&lt;code&gt;true&lt;/code&gt;。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/学习记录-git命令行及repositories的管理/image-20221030031821449.png&#34; alt=&#34;image-20221030031821449&#34; style=&#34;zoom:50%;&#34; /&gt;
-&lt;h4 id=&#34;第二种解决方案&#34;&gt;第二种解决方案&lt;/h4&gt;
-&lt;p&gt;重新使用命令&lt;code&gt;git remote add origin ssh-link-of-remote-repository&lt;/code&gt;，虽然会显示&lt;code&gt;remote origin already exists&lt;/code&gt;，但是执行完该命令之后再使用&lt;code&gt;git pull&lt;/code&gt;就没有问题了。&lt;/p&gt;
-&lt;h3 id=&#34;4-couldnt-find-remote-ref-&#34;&gt;4. couldn&#39;t find remote ref ...&lt;/h3&gt;
-&lt;p&gt;注意检查&lt;code&gt;pull&lt;/code&gt;的分支名字是否有错，该分支是否存在，如果不存在先使用命令创建分支。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M branch-name
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;如果已经进行过&lt;code&gt;remote add&lt;/code&gt;添加远程库，则之后只需要进行简单的pull/push操作就可以了。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull origin branch-name
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;参考&#34;&gt;参考&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Mr无愧于心: &lt;a href=&#34;https://www.jianshu.com/p/2e1d551b8261&#34;&gt;git的add、commit、push的详细介绍&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://stackoverflow.com/questions/9537392/git-fetch-remote-branch&#34;&gt;Git fetch remote branch&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.csdn.net/qq_32439101/article/details/87191600?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-87191600-blog-78972568.pc_relevant_default&amp;amp;spm=1001.2101.3001.4242.3&amp;amp;utm_relevant_index=7&#34;&gt;git push 却 403错误 解决方案&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/cs/" term="CS" label="CS" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/git/" term="git" label="git" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">看看电影-如何实现电影电视剧资源自由</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/how-to-find-movies/" />
-            <id>https://emptdrawr.github.io/posts/how-to-find-movies/</id>
-            <updated>2023-01-14T23:52:50&#43;08:00</updated>
-            <published>2022-10-03T11:42:42&#43;00:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">&lt;p&gt;本文主要包括：&lt;strong&gt;如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong&gt;，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p&gt;
-&lt;p&gt;如果你已经会这些技能，则本文对你来说是浪费时间。&lt;/p&gt;……</summary>
-            
-                <content type="html">&lt;p&gt;本文主要包括：&lt;strong&gt;如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong&gt;，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p&gt;
-&lt;p&gt;如果你已经会这些技能，则本文对你来说是浪费时间。&lt;/p&gt;
-&lt;h2 id=&#34;总览&#34;&gt;总览&lt;/h2&gt;
-&lt;h3 id=&#34;选择正版还是盗版&#34;&gt;选择正版还是盗版？&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;正版&lt;/th&gt;
-&lt;th&gt;盗版&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;优点&lt;/td&gt;
-&lt;td&gt;·方便查找&lt;br /&gt;·清晰度好&lt;br /&gt;·自带多种语言的字幕&lt;br /&gt;·表达对创作者的知识产权尊重和支持&lt;/td&gt;
-&lt;td&gt;·免费&lt;br /&gt;·可以看一些被禁、被删减的电影&lt;br /&gt;·还是免费&lt;br /&gt;·符合齐泽克的哲学观&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;缺点&lt;/td&gt;
-&lt;td&gt;·花费较高&lt;br /&gt;·正版流媒体平台无法截图（有解决办法）&lt;br /&gt;·平台较多，资源分散&lt;/td&gt;
-&lt;td&gt;·查找费力，可能花费精力也无法找到&lt;br /&gt;·通常盗版网站广告较多，体验差&lt;br /&gt;·冷门资源下载速度慢&lt;br /&gt;·可能下载到多声道配音、无字幕版本（有解办法）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;选择bt磁力下载还是网盘网站在线观看&#34;&gt;选择BT/磁力下载还是网盘/网站在线观看？&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;BT/磁力下载&lt;/th&gt;
-&lt;th&gt;在线观看&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;优点&lt;/td&gt;
-&lt;td&gt;·资源种类多，库较大&lt;br /&gt;·下载速度不取决于网盘限速，可能下载得很快&lt;br /&gt;·通常清晰度较高，下载后不用担心缓存即可流畅观看&lt;/td&gt;
-&lt;td&gt;·观看方便，随点随看&lt;br /&gt;·多设备自由观看&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;缺点&lt;/td&gt;
-&lt;td&gt;·可能找到“死种”，即下载速度始终为0的文件（通常无法解决，但可以换一个种子进行下载）&lt;br /&gt;·不熟悉的时候可能会觉得下载过程麻烦&lt;br /&gt;·必须使用电脑下载&lt;/td&gt;
-&lt;td&gt;·冷门资源很少，经常找不到想看的&lt;br /&gt;·通常清晰度不高&lt;br /&gt;·网络问题会导致观看体验不流畅&lt;br /&gt;·网站上广告更多，网盘可能会审查、删除视频文件（再说一次在某盘里修改文件后缀也是没用的）&lt;br /&gt;·通常字幕与视频文件无法分离，如果想要其他语言字幕会很费力&lt;br /&gt;·网站不稳定，且看且珍惜，说不定明天就关闭了&lt;br /&gt;·字幕组之间打架的破事会让人很烦=)（以及避雷远鉴）&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;相关网站&lt;/td&gt;
-&lt;td&gt;·BT-&lt;a href=&#34;https://www.mini4k.com/&#34;&gt;mini4K迷客电影&lt;/a&gt;&lt;br /&gt;·BT/磁力-&lt;a href=&#34;https://rarbg.proxyninja.org/&#34;&gt;RARBG&lt;/a&gt;&lt;br /&gt;·BT/磁力-&lt;a href=&#34;https://yts.proxyninja.org/&#34;&gt;YTS&lt;/a&gt;&lt;br /&gt;·BT/磁力（只有动漫）&lt;a href=&#34;https://bangumi.moe/lite/&#34;&gt;萌番组lite&lt;/a&gt;&lt;br /&gt;·BT/磁力/在线-&lt;a href=&#34;https://www.btnull.org/&#34;&gt;无名小站&lt;/a&gt;&lt;br /&gt;·磁力-&lt;a href=&#34;https://ibluemv.com/&#34;&gt;蓝光高清电影网&lt;/a&gt;&lt;br /&gt;·字幕-&lt;a href=&#34;http://www.ddzimu.com/&#34;&gt;点点字幕&lt;/a&gt;&lt;br /&gt;·字幕-&lt;a href=&#34;https://assrt.net/&#34;&gt;射手网&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;·字幕-&lt;a href=&#34;https://bbs.acgrip.com/&#34;&gt;Anime字幕论坛&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;·在线观看-&lt;a href=&#34;https://gaze.run/&#34;&gt;注视影视&lt;/a&gt;&lt;br /&gt;·在线观看-&lt;a href=&#34;https://www.novipnoad.com/&#34;&gt;NO视频&lt;/a&gt;&lt;br /&gt;·云盘资源-&lt;a href=&#34;https://newzmz.com/index.html&#34;&gt;NEW字幕组&lt;/a&gt;&lt;br /&gt;·云盘资源-&lt;a href=&#34;https://www.rrdynb.com/index.html&#34;&gt;人人电影网&lt;/a&gt;&lt;br /&gt;·云盘资源-&lt;a href=&#34;http://wanwansub.com/&#34;&gt;弯弯字幕组&lt;/a&gt;&lt;br /&gt;·在线/云盘（只有动漫）-&lt;a href=&#34;https://www.agemys.cc/&#34;&gt;ACG动漫&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;表格中网站如果有打不开的请更换谷歌浏览器，如果仍然无法打开请搭梯子，如果仍然无法打开请换下一个网站。&lt;/p&gt;
-&lt;p&gt;以上均为个人经验总结和主观看法，请自由选择观看途径、早日实现电影自由。&lt;/p&gt;
-&lt;h2 id=&#34;正版电影观看&#34;&gt;正版电影观看&lt;/h2&gt;
-&lt;p&gt;如果你想要观看一部电影，举例来说，雷德利·斯科特（而不是大卫·芬奇）的《异形》，那么你可以在Google搜索栏进行搜索，你会看到以下界面：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003115048579.png&#34; alt=&#34;image-20221003115048579&#34;&gt;&lt;/p&gt;
-&lt;p&gt;点击边栏的所有观看渠道，会发现Apple TV、亚马逊影视、Hulu等多个流媒体平台都可以进行观看，如果你有对应平台的会员，即可观看。&lt;/p&gt;
-&lt;p&gt;例如我恰好在Apple ID当中充值了5$（通过淘宝购买礼品卡），原本计划充值游戏但发现因为各种原因无法购买app内的付费内容，所以我在iTunes当中搜索并购买了《异形》。下图为Apple TV中已购买的界面。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image2.jpeg&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;
-&lt;p&gt;在iTunes购买还有电影相关的物料（比如导剪版、相关采访等）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image1.jpeg&#34; alt=&#34;image1&#34;&gt;&lt;/p&gt;
-&lt;p&gt;使用国内网络即可正常观看，可以切换多种语言的字幕，还可离线缓存（但需注意的是无法截图电影画面，同时也无法通过无线网络进行投屏）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image0.jpeg&#34; alt=&#34;image0&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;盗版资源下载&#34;&gt;盗版资源下载&lt;/h2&gt;
-&lt;p&gt;本文通过RARBG、使用磁力、在Motrix中下载《圣血》来进行实例。&lt;/p&gt;
-&lt;h3 id=&#34;bt磁力是什么&#34;&gt;BT/磁力是什么？&lt;/h3&gt;
-&lt;p&gt;请自行搜索。&lt;/p&gt;
-&lt;h3 id=&#34;有什么下载工具&#34;&gt;有什么下载工具？&lt;/h3&gt;
-&lt;p&gt;推荐Motrix，一款开源、免费、UI设计优美简洁的下载器，&lt;a href=&#34;https://motrix.app/&#34;&gt;官方网站下载&lt;/a&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003125955976.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;下载安装包以后按照步骤进行安装即可使用。&lt;/p&gt;
-&lt;h3 id=&#34;如何通过网站下载电影或剧&#34;&gt;如何通过网站下载电影或剧？&lt;/h3&gt;
-&lt;p&gt;以RARBG为例，首先打开网站可以看到首页如下，搜索方便（注意如果有广告自动打开了新的浏览器窗口，&lt;strong&gt;请勿点击、及时关闭&lt;/strong&gt;）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003130319340.png&#34; alt=&#34;image-20221003130319340&#34;&gt;&lt;/p&gt;
-&lt;p&gt;在该网站进行搜索时应该尽量使用&lt;em&gt;&lt;strong&gt;英文（或电影原名）+年份&lt;/strong&gt;&lt;/em&gt;的格式进行搜索。当我使用英文搜索《圣血》时发现并没有想要的资源，主要问题是原片名为西班牙语，造成搜索的关键字不正确。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003130438371.png&#34; alt=&#34;image-20221003130438371&#34;&gt;&lt;/p&gt;
-&lt;p&gt;此时在搜索引擎中搜索该电影原名(&lt;em&gt;Santa Sangre&lt;/em&gt;)及年份(1989)，再次进行搜索，会发现成功检索到《圣血》资源。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003130659056.png&#34; alt=&#34;image-20221003130659056&#34;&gt;&lt;/p&gt;
-&lt;p&gt;由于BT/磁力下载具有的“下载的人越多下载速度越快”的特性，所以我们可以选择搜索结果中的第二行或第三行来下载。打开详情页拉到最下方，点击Download之后的链接。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131115998.png&#34; alt=&#34;image-20221003131115998&#34; style=&#34;zoom: 33%;&#34; /&gt;
-&lt;p&gt;此时浏览器会弹窗提示：是否打开Motrix进行下载，点击&lt;em&gt;打开Motrix&lt;/em&gt;。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131216041.png&#34; alt=&#34;image-20221003131216041&#34; style=&#34;zoom:33%;&#34; /&gt;
-&lt;p&gt;Motrix会自动弹出，并让你选择下载位置。选择好下载路径之后，点击&lt;em&gt;提交&lt;/em&gt;即可。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131343166.png&#34; alt=&#34;image-20221003131343166&#34; style=&#34;zoom:50%;&#34; /&gt;
-&lt;p&gt;此时可以看到正在下载的文件，速度相对较快，较小的电影资源通常十几分钟就可以下载完成。如果你下载了太多电影，可以购买移动硬盘、选取你喜欢的电影进行储存，而不是看完就删除（毕竟我们都知道为自己存一个移动硬盘的书影音是必要的）。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131715429.png&#34; alt=&#34;image-20221003131715429&#34; style=&#34;zoom:50%;&#34; /&gt;
-&lt;p&gt;磁力下载会先下载一个torrent文件，然后再从torrent文件中提取电影文件进行下载。&lt;strong&gt;当电影下载完成之后&lt;/strong&gt;，如果你不需要，即可删除。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131537330.png&#34; alt=&#34;image-20221003131537330&#34; style=&#34;zoom: 33%;&#34; /&gt;
-&lt;p&gt;文件下载完成之后，Motrix会提示“正在做种”，你可以选择停止这个过程，但也可以选择继续做种，生成种子文件分享给他人下载，&lt;strong&gt;保持资源共享的精神&lt;/strong&gt;。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003132354318.png&#34; alt=&#34;image-20221003132354318&#34; style=&#34;zoom: 50%;&#34; /&gt;
-&lt;p&gt;当做种完成或你选择停止任务时，Motrix会提示下载完成，此时你已经可以开始观看了。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003132457566.png&#34; alt=&#34;image-20221003132457566&#34; style=&#34;zoom:50%;&#34; /&gt;
-&lt;h3 id=&#34;没有想要的字幕怎么办&#34;&gt;没有想要的字幕怎么办？&lt;/h3&gt;
-&lt;h4 id=&#34;默认播放器加载字幕文件&#34;&gt;默认播放器加载字幕文件&lt;/h4&gt;
-&lt;p&gt;部分通过BT下载的电影会有一个名为Subs的文件夹，即字幕文件。你可以使用Windows自带的播放器来加载后缀为&lt;code&gt;.ass, .srt&lt;/code&gt;等的字幕文件：直接拖拽到播放窗口中，成功加载。&lt;/p&gt;
-&lt;p&gt;当然Windows自带的软件通常都很垃圾，所以&lt;code&gt;.sub&lt;/code&gt;文件无法被成功识别并加载，此时的&lt;strong&gt;解决方案是更换播放器&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003133030565.png&#34; alt=&#34;image-20221003133030565&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;splayer-射手影音播放器&#34;&gt;SPlayer 射手影音播放器&lt;/h4&gt;
-&lt;p&gt;SPlayer是会联网自动为视频寻找字幕的一款播放器，虽然有时会由于网络问题无法加载字幕、且与默认播放器一样无法加载&lt;code&gt;.sub&lt;/code&gt;文件，但总体较好用。&lt;/p&gt;
-&lt;p&gt;从&lt;a href=&#34;https://www.splayer.org/&#34;&gt;官方网站&lt;/a&gt;下载安装包，按照步骤安装以后即可使用。（无需注册账号，在文件夹打开视频文件的时候，右键点击文件，选择&lt;code&gt;&amp;gt;打开方式&amp;gt;SPlayer&lt;/code&gt;即可。&lt;/p&gt;
-&lt;p&gt;以《银翼杀手2049》为例，打开第一次、第二次字幕匹配都显示网络错误，但等待一段时间之后即成功。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003134146258.png&#34; alt=&#34;image-20221003134146258&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;xmp-迅雷播放组件&#34;&gt;XMP 迅雷播放组件&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;注意仅为小组件！！无需下载迅雷这种流氓软件！！！！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://pan.baidu.com/s/1Hkz47udAfwa2mufDKEENrw&#34;&gt;下载链接，提取码为empt&lt;/a&gt;。下载之后解压、打开&lt;code&gt;.exe&lt;/code&gt;文件即可使用，该播放器可以加载多种字幕类型。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003135419273.png&#34; alt=&#34;image-20221003135419273&#34; style=&#34;zoom: 50%;&#34; /&gt;
-&lt;p&gt;仍然打开《银翼杀手2049》无字幕版本的视频文件，可以看到XMP播放器也有自动匹配字幕的功能，并且数量较多。美中不足的是该播放器的字幕加载并不美观，可以自己多尝试设置、调整；同时XMP也很容易匹配到字幕时间与视频错位的字幕，自己调整非常头疼，请自行衡量利弊再做选择。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003134742872.png&#34; alt=&#34;image-20221003134742872&#34;&gt;&lt;/p&gt;
-&lt;p&gt;尝试通过&lt;em&gt;手动载入&lt;/em&gt;&amp;gt;&lt;em&gt;选择字幕文件&lt;/em&gt;的方式加载&lt;code&gt;.sub&lt;/code&gt;文件，可以发现成功加载了全英字幕，并且格式美观。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003135150848.png&#34; alt=&#34;image-20221003135150848&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;以上几种方式都找不到想要的字幕怎么办&#34;&gt;以上几种方式都找不到想要的字幕怎么办？&lt;/h4&gt;
-&lt;p&gt;解决办法是自己动手找字幕文件，或者练听力。&lt;/p&gt;
-&lt;p&gt;在字幕资源网站上搜索电影名称，如果搜索不到就换一个网站。可以看到shooter上有《圣血》的双语字幕，但我想要单英文的字幕而不是双语字幕。这时可以直接通过Google进行搜索。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140059889.png&#34; alt=&#34;image-20221003140059889&#34;&gt;&lt;/p&gt;
-&lt;p&gt;我在&lt;a href=&#34;https://yifysubtitles.org/&#34;&gt;YIFY&lt;/a&gt;网站上搜索到了《圣血》的英文字幕，下载、将字幕文件拖入播放器即可。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140550076.png&#34; alt=&#34;image-20221003140550076&#34;&gt;&lt;/p&gt;
-&lt;p&gt;需要注意的是，&lt;strong&gt;任何网站如果有诸如下图的界面、让你点击Allow/允许通知，&lt;em&gt;都请不要点击&lt;/em&gt;，直接关闭该网页再次点击下载链接即可&lt;/strong&gt;。&lt;/p&gt;
-&lt;img src=&#34;https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003140450982.png&#34; alt=&#34;image-20221003140450982&#34; style=&#34;zoom:33%;&#34; /&gt;
-&lt;p&gt;可以看到成功加载了刚刚下载的英文字幕，至此大功告成！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png&#34; alt=&#34;image-20221003140759841&#34;&gt;&lt;/p&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">读书笔记-娜塔莎之舞-第一章</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/read-dance-of-natasha/" />
-            <id>https://emptdrawr.github.io/posts/read-dance-of-natasha/</id>
-            <updated>2023-01-13T19:33:35&#43;08:00</updated>
-            <published>2022-07-06T18:59:07&#43;00:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">读《娜塔莎之舞：俄罗斯文化史》</summary>
-            
-                <content type="html">&lt;h2 id=&#34;导读作者导言&#34;&gt;导读+作者导言&lt;/h2&gt;
-&lt;p&gt;导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;而将俄罗斯剥离贵族文化、拖入“苏维埃文化”的“十月革命”在文化史的视角下也很有趣：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;与旧制度的政治次裂往往形式剧烈而过程简捷，而与旧文化的文化决裂乃至新文化建构虽然波澜不惊但背后却涡流暗结并且过程复杂。&amp;gt;（p.v）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;文化史是一个观看俄罗斯的窗口，也是所有历史当中无法割离的一部分，但它在俄罗斯历史中尤其重要，因为：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;每一部文学作品、每一幕戏剧、每一幅绘画、每一曲音乐的背后都蕴含了丰富的政治、哲学、宗教和社会批评的元素，所有的新思想和新启蒙都是通过“文学”这个“中心枢纽”而展现。（p.xvi）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;导读中提到“..日耳曼是男人的民族，而俄罗斯只能是女人的民族..”（别尔嘉耶夫），在第一章当中也应证了这一说法——&lt;strong&gt;俄罗斯欧化运动当中，许多女性可以流利掌握多门语言、可以鉴赏艺术、弹奏多种乐器，而在对比下，“男人就没什么好说的了”&lt;/strong&gt;。（p62）&lt;/p&gt;
-&lt;p&gt;同时，&lt;strong&gt;女性也定下了18世纪到19世纪前期俄罗斯贵族文化中的礼仪&lt;/strong&gt;，同时期男性贵族的装扮、举止都逐渐更具有女性气质；在此期间，俄罗斯也孕育出了多名女皇，包括在彼得之后唯一能被称为“大帝”的叶卡捷琳娜二世。&lt;/p&gt;
-&lt;p&gt;而本书的书名也是&lt;strong&gt;通过一个经典的女性文学形象（托尔斯泰《战争与和平》）来展示俄罗斯文化最深层次的特征&lt;/strong&gt;：欧洲文明与俄罗斯本土的双重身份，&lt;strong&gt;源于二重身的痛苦和对民族身份的不断探索构建了俄罗斯文化的宏大底色&lt;/strong&gt;。&lt;/p&gt;
-&lt;h2 id=&#34;第一章--欧化的俄罗斯&#34;&gt;第一章  欧化的俄罗斯&lt;/h2&gt;
-&lt;h3 id=&#34;彼得大帝的欧化政策&#34;&gt;彼得大帝的“欧化”政策&lt;/h3&gt;
-&lt;p&gt;于沼泽中建立起的彼得堡成为俄罗斯乡土大地上的欧洲文明孤岛，一切都是因为彼得大帝对“欧化”的坚定。但不得不说，他非常有眼光地捕捉到了欧洲体制的精髓——在治理国家时他模仿荷兰和英国的海军，模仿普鲁士和瑞典的军校，模仿日耳曼的法律体系，模仿丹麦的文官制度（这也是后来常被契诃夫讽刺的十四等官阶制度）。（p23）&lt;/p&gt;
-&lt;p&gt;而追随他脚步的人也同样在这种汲取世界文化精华的思想下去学习欧洲文化的明珠：诗人、作家去巴黎进修，音乐家去意大利进修，画家去法国和荷兰进修，学者则去马登堡学习化学。（p79）&lt;/p&gt;
-&lt;p&gt;这样欧化的贵族教育孕育了世界主义的思想，&lt;strong&gt;“世界主义”也成为了“俄罗斯文化最为持久的优势之一”&lt;/strong&gt;。（p69）&lt;/p&gt;
-&lt;h3 id=&#34;圣彼得堡历史的舞台&#34;&gt;圣彼得堡——历史的舞台&lt;/h3&gt;
-&lt;p&gt;圣彼得堡是一座造作的城市，一场在水上进行的乌托邦造梦工程，一切都如同一个精心搭建的舞台，其中所有人都是演员，为了演一出欧洲化的戏剧。而贵族的庄园、皇室的宫殿则是这座舞台上更精巧也更造作的舞台。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;仿佛一则俄国童话中的魔幻城市，圣彼得堡以神奇的速度建立起来，而关于它的一切都是如此辉煌和新鲜，以至于它很快成为了一个充满神话色彩的地方。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;作者选择在第一章介绍圣彼得堡的建城历史，不仅是因为这是俄罗斯的首都、文化与政治的中心，更因为圣彼得堡具有一种“表演的特质”，它更是一场恢弘的历史叙事剧——其中掺杂了战争、宫廷阴谋、血腥过往、王朝的辉煌、奴隶制——的最好展示舞台。&lt;/p&gt;
-&lt;h3 id=&#34;艺术与文学所谓俄罗斯审美的根源&#34;&gt;艺术与文学：所谓“俄罗斯审美”的根源&lt;/h3&gt;
-&lt;h4 id=&#34;艺术起源于农奴制度&#34;&gt;艺术起源于农奴制度&lt;/h4&gt;
-&lt;p&gt;如今社交媒体上关于俄罗斯文化的内容存在一种趋势：造神一种审美。不管是拆解苏联时期建筑特色的&lt;a href=&#34;https://www.bilibili.com/video/BV11Q4y1B7Eu?share_source=copy_web&#34;&gt;视频&lt;/a&gt;，还是许许多多介绍俄罗斯艺术的博文，都会或多或少地加上“毛子的审美就是牛”这类词句。不可否认，俄罗斯的文学、艺术、建筑常常具有磅礴又冷冽的气质，往往会与“高级审美”这样的关键词相挂钩，但我个人觉得这句话让人十分不适，主要因为：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;对一种自己并不熟悉的异邦文化使用高度简练与同一化严重的描述进行概括，&lt;strong&gt;是对该文化当中小众、非主流的特点的漠视&lt;/strong&gt;，在加深刻板印象的同时也具有一种文化上的傲慢。&lt;/li&gt;
-&lt;li&gt;“毛子”一词本身就具有民族性蔑视，是种族主义色彩的称呼。俄语区不仅有俄罗斯人，而也并不是所有俄罗斯人都具有强烈的民族认同（如纳博科夫本人），&lt;strong&gt;使用这一称呼是语义上的种族主义&lt;/strong&gt;，以及人云亦云的附和。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;而令人震惊的是这样“高级审美”起源于农奴制度。这一章叙述了俄罗斯在18世纪主要让农奴从事艺术（绘画、歌剧、音乐、甚至是建筑）。并且通过舍列梅捷夫伯爵与农奴女主唱普拉斯科维亚的爱情悲剧展现了当时农奴艺术家身份当中蕴含的悲苦命运以及那个年代流行的歌剧主要情节。&lt;/p&gt;
-&lt;h4 id=&#34;俄罗斯语言的创造&#34;&gt;俄罗斯语言的创造&lt;/h4&gt;
-&lt;p&gt;俄语书面语和日常口语之间的巨大差距造成文学上的困难，作家和诗人难以使用原本的书面俄语进行书写，于是采用大量的外语。&lt;strong&gt;而在普希金的带动下，许多作家开始创造俄语词汇以便更好地描述、更好地书写&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;俄罗斯本土的作家、诗人、上流社会、知识分子逐渐将欧洲视为一个堕落之地（p83），在与欧洲的对比下，他们更加呼吁要回归俄罗斯率真的本性和自然的民族特征。与此同时，法国大革命也让俄罗斯人心中的乌托邦坍塌，从世界主义到民族主义，只需要一个精神巴别塔的陷落、一念之间的毁灭。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;我们需要欧洲作为理想和谴责的范例，”赫尔岑写道，“这样的欧洲就算实际不存在，我们也必须将她发明出来。”（p84）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;思考：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;为何在文化产业空间被挤压的俄罗斯能喷涌出这么多运用春秋笔法的优秀文学作品？&lt;/li&gt;
-&lt;li&gt;俄罗斯民族对于欧洲的态度也是一条展现其文化内核与民族认同感的重要线索，而每个民族心中或许都拥有“欧洲于俄罗斯”这样&lt;code&gt;借鉴/批判&lt;/code&gt;同时存在的地方。&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">学习记录-如何写文献综述&#43;论文结构</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/how-to-write-literature-review/" />
-            <id>https://emptdrawr.github.io/posts/how-to-write-literature-review/</id>
-            <updated>2023-01-13T19:33:56&#43;08:00</updated>
-            <published>2022-05-19T17:33:34&#43;00:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">&lt;p&gt;文献综述写法总结&lt;/p&gt;……</summary>
-            
-                <content type="html">&lt;p&gt;文献综述写法总结&lt;/p&gt;
-&lt;h2 id=&#34;论文的结构&#34;&gt;论文的结构&lt;/h2&gt;
-&lt;h3 id=&#34;论文的三段式结构&#34;&gt;论文的三段式结构&lt;/h3&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Introduction&lt;/th&gt;
-&lt;th&gt;议论文→逻辑&lt;/th&gt;
-&lt;th&gt;为整篇论文定位：论证研究目标的合理&lt;/th&gt;
-&lt;th&gt;普遍→特定&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Objective Method Result&lt;/td&gt;
-&lt;td&gt;说明文→清晰&lt;/td&gt;
-&lt;td&gt;用科学的语言把研究方法和研究成果说清楚&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Discussion&amp;amp; Conclusion&lt;/td&gt;
-&lt;td&gt;议论文→逻辑&lt;/td&gt;
-&lt;td&gt;本篇论文是有价值的：论证研究目标的价值&lt;/td&gt;
-&lt;td&gt;特定→普遍&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;引言段和结尾段结构相反，但逻辑上有很多类似的地方&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;introduction vs outroduction&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&#34;引言-introduction&#34;&gt;引言 Introduction&lt;/h4&gt;
-&lt;p&gt;研究目标＋引言&lt;/p&gt;
-&lt;p&gt;$$
+&lt;/code>&lt;/pre>&lt;p>我根据自己平时的需要加上了以下内容：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">title: &amp;#34;{{ replace .Name &amp;#34;-&amp;#34; &amp;#34; &amp;#34; | title }}&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">slug:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">categories:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">tags:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> -
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">date: {{ .Date }}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">image: /{{ replace .Name &amp;#34;-&amp;#34; &amp;#34; &amp;#34; | title }}/cover.jpg
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">summary:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">draft: false
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">toc: true
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="将hugo上传github并部署">将hugo上传github并部署&lt;/h2>
+&lt;h3 id="设置baseurl">设置baseURL&lt;/h3>
+&lt;p>在&lt;code>config.toml&lt;/code>文件中把baseURL修改为&lt;code>https://&amp;lt;USERNAME&amp;gt;.github.io&lt;/code>&lt;/p>
+&lt;h3 id="添加github-action文件">添加GitHub Action文件&lt;/h3>
+&lt;p>在.github/workflow/gh-pages.yml中添加以下内容，如果没有该文件，则创建：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yml" data-lang="yml">&lt;span class="line">&lt;span class="cl">&lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">github pages&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">on&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">push&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">branches&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="l">main &lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="c"># Set a branch that will trigger a deployment&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">pull_request&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">&lt;/span>&lt;span class="nt">jobs&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">deploy&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">runs-on&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">ubuntu-22.04&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">steps&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">uses&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">actions/checkout@v3&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">with&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">submodules&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="kc">true&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="c"># Fetch Hugo themes (true OR recursive)&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">fetch-depth&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="m">0&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="c"># Fetch all history for .GitInfo and .Lastmod&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Setup Hugo&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">uses&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">peaceiris/actions-hugo@v2&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">with&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">hugo-version&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="s1">&amp;#39;latest&amp;#39;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="c"># extended: true&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Build&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">run&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">hugo --minify&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">name&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">Deploy&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">uses&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">peaceiris/actions-gh-pages@v3&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">if&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">github.ref == &amp;#39;refs/heads/main&amp;#39;&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">with&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">github_token&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">${{ secrets.GITHUB_TOKEN }}&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">publish_dir&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">./public&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="自定义域名">自定义域名&lt;/h3>
+&lt;p>需要在static文件里创建一个CNAME文件，里面写入自己的域名。如下所示：&lt;/p>
+&lt;img src="https://emptdrawr.github.io/个人博客-从hexo迁移到hugo/image-20230112223750756.png" alt="image-20230112223750756" style="zoom:33%;" />
+&lt;h3 id="部署到github">部署到GitHub&lt;/h3>
+&lt;p>进入&lt;code>blog\public\&lt;/code>文件，将其中的文件push到&lt;code>&amp;lt;username&amp;gt;.git.io&lt;/code>库的&lt;code>gh-pages&lt;/code>分支，随后在设置中把默认分支改为gh-pages。&lt;/p>
+&lt;h3 id="自动部署脚本">自动部署脚本&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-sh" data-lang="sh">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">#!/bin/bash
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&lt;/span>&lt;span class="c1"># Program:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 发布hugo生成文件到GitHub Pages&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># History:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 2020.05.05 GeekWho First release.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># If a command fails then the deploy stops&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">set&lt;/span> -e
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">printf&lt;/span> &lt;span class="s2">&amp;#34;\033[0;32mDeploying updates to GitHub...\033[0m\n&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Build the project.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">hugo --minify &lt;span class="c1"># if using a theme, replace with `hugo -t &amp;lt;YOURTHEME&amp;gt;`&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Go To Public folder&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> public
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># 切换到gh-pages&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git checkout gh-pages
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Add changes to git.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git add .
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Commit changes.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nv">msg&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;Published on &lt;/span>&lt;span class="k">$(&lt;/span>date +&lt;span class="s1">&amp;#39;%Y-%m-%d %H:%M:%S&amp;#39;&lt;/span>&lt;span class="k">)&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="o">[&lt;/span> -n &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$*&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span> &lt;span class="o">]&lt;/span>&lt;span class="p">;&lt;/span> &lt;span class="k">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nv">msg&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$*&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit -m &lt;span class="s2">&amp;#34;&lt;/span>&lt;span class="nv">$msg&lt;/span>&lt;span class="s2">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git pull --rebase origin gh-pages
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Push source and build repos.&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push -f origin gh-pages
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="注意">注意&lt;/h2>
+&lt;p>如果在重新部署以后发现css样式没有应用，那么应该使用&lt;code>Ctrl+F5&lt;/code>刷新页面，刷新之后即可发现网站可以正常显示。&lt;/p>
+&lt;h2 id="参考">参考&lt;/h2>
+&lt;ul>
+&lt;li>少数派/海边不吃鱼: &lt;a href="https://sspai.com/post/59904">浅谈我为什么从 HEXO 迁移到 HUGO&lt;/a>&lt;/li>
+&lt;li>reuixiy: &lt;a href="https://io-oi.me/tech/powered-by-hugo/">Powered by Hugo&lt;/a>&lt;/li>
+&lt;li>Hugo: &lt;a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">Host on GitHub&lt;/a>&lt;/li>
+&lt;li>神秘极客: &lt;a href="https://xbc.me/hugo-deploy/">Hugo部署方案&lt;/a>&lt;/li>
+&lt;li>Hugo: &lt;a href="https://gohugo.io/getting-started/directory-structure/">Directory Structure&lt;/a>&lt;/li>
+&lt;/ul></content><category scheme="https://emptdrawr.github.io/categories/cs/" term="CS" label="CS"/><category scheme="https://emptdrawr.github.io/tags/hugo/" term="hugo" label="hugo"/><category scheme="https://emptdrawr.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" term="个人博客" label="个人博客"/></entry><entry><title type="text">学习记录-git命令行及repositories的管理</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/git-commands/"/><id>https://emptdrawr.github.io/posts/git-commands/</id><updated>2023-01-14T14:37:25+08:00</updated><published>2022-10-30T02:59:50+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">git的命令行笔记：配置GitHub远程库与本地库连接，学习pull和push命令，同时记载解决一些error方法。</summary><content type="html">&lt;h2 id="windows中github的ssh-key配置">windows中GitHub的SSH key配置&lt;/h2>
+&lt;h3 id="设置github对应的用户名和使用的邮件">设置GitHub对应的用户名和使用的邮件&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git config --global user.name &lt;span class="s2">&amp;#34;Your github name&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git config --global user.email &lt;span class="s2">&amp;#34;Your email address for github&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="生成一个ssh-key">生成一个SSH key&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">ssh-keygen -t rsa -C &lt;span class="s2">&amp;#34;Your email address&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>注意：如果你之前使用其他GitHub账号与本地进行过SSH配置，那么你需要重新指定key生成的路径，以免覆盖之前的SSH造成错误。&lt;/p>
+&lt;h3 id="将ssh私钥添加到ssh-agent">将SSH私钥添加到ssh-agent&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">eval&lt;/span> &lt;span class="k">$(&lt;/span>ssh-agent -s&lt;span class="k">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">ssh-add /your/Path/to/ssh/private/key/id_rsa
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="将ssh公钥添加到github账户">将SSH公钥添加到GitHub账户&lt;/h3>
+&lt;p>复制&lt;code>id_rsa.pub&lt;/code>中的全部内容，添加到GitHub账户设置中的SSH Keys中即可。&lt;/p>
+&lt;h2 id="在本地创建仓库并push到github">在本地创建仓库并push到GitHub&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">//在本地你想要作为仓库的文件夹里进行仓库配置的初始化
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git init
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">//主要是防止添加空文件到缓冲区，如果本来有文件可以直接使用git add &lt;span class="o">[&lt;/span>filename&lt;span class="o">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">touch README
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git add README
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit -m &lt;span class="s2">&amp;#34;README/your comments&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">//创建一个名为master的分支
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git branch -M master
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">//和远程仓库进行绑定
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git remote add origin git@github.com:ssh-link-of-remote-repository
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push -u origin master
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="配置git本地仓库并pull远程仓库">配置git本地仓库并pull远程仓库&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git init
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">//把远程库的内容拉取到本地文件夹当中
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git pull origin branch-name ssh-link-of-remote-repository
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">//在本地修改文件之后点击保存
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git add .
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git commit -m &lt;span class="s1">&amp;#39;Your comment on this commit&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push origin branch-name
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git switch branch-name //切换分支
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="git-add">&lt;code>git add&lt;/code>&lt;/h3>
+&lt;ul>
+&lt;li>&lt;code>git add .&lt;/code>：不添加参数，默认为将修改的文件和未跟踪新添加的文件添加到git系统的暂存区，&lt;strong>不包括删除的文件&lt;/strong>。&lt;/li>
+&lt;li>&lt;code>git add -u .&lt;/code>：将已跟踪文件中的修改和删除文件添加到暂存区，&lt;strong>不包括新增加的文件&lt;/strong>。&lt;/li>
+&lt;li>&lt;code>git add -A .&lt;/code>：将所有的已跟踪的文件的修改与删除和新增的未跟踪的文件都添加到暂存区。&lt;/li>
+&lt;/ul>
+&lt;h3 id="git-commit">&lt;code>git commit&lt;/code>&lt;/h3>
+&lt;p>&lt;code>git commit&lt;/code> 主要是将暂存区里的改动给&lt;strong>提交到本地的版本库&lt;/strong>。每次使用git commit 命令我们都会在本地版本库生成一个40位的哈希值，这个哈希值也叫commit-id，commit-id 在版本回退的时候是非常有用的，它相当于一个快照,可以在未来的任何时候通过与git reset的组合命令回到这里。&lt;/p>
+&lt;h3 id="git-branch">&lt;code>git branch&lt;/code>&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">//添加本地分支
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git branch -M branch-name
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">//删除本地分支
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git branch -d branch-name
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">//删除远程分支
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git push origin --delete branch-name
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="问题解决">问题解决&lt;/h2>
+&lt;h3 id="1-failed-to-connet-to-githubcom-port-443">1. failed to connet to github.com port 443&lt;/h3>
+&lt;p>网络问题，可以通过解配置http代理来解决。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git config --global --unset http.proxy
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git config --global --unset https.proxy
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="2-failed-to-push-some-refs-to--">2. failed to push some refs to &amp;quot; &amp;quot;&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git pull --rebase origin branch-name
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="3-unable-to-access-error-10054-url-error-403">3. unable to access error 10054/ URL error 403&lt;/h3>
+&lt;h4 id="第一种解决方案">第一种解决方案&lt;/h4>
+&lt;p>没有权限造成的，打开.git文件夹中的config文件，在url的github前面加上你的用户名，原来为&lt;code>url=https://github.com/your-repository&lt;/code>，现在修改为&lt;code>url=https://your-username@github.com/your-repository&lt;/code>。&lt;/p>
+&lt;p>如果filemode是&lt;code>false&lt;/code>的话也要设置为&lt;code>true&lt;/code>。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/学习记录-git命令行及repositories的管理/image-20221030031821449.png" alt="image-20221030031821449" style="zoom:50%;" />
+&lt;h4 id="第二种解决方案">第二种解决方案&lt;/h4>
+&lt;p>重新使用命令&lt;code>git remote add origin ssh-link-of-remote-repository&lt;/code>，虽然会显示&lt;code>remote origin already exists&lt;/code>，但是执行完该命令之后再使用&lt;code>git pull&lt;/code>就没有问题了。&lt;/p>
+&lt;h3 id="4-couldnt-find-remote-ref-">4. couldn't find remote ref ...&lt;/h3>
+&lt;p>注意检查&lt;code>pull&lt;/code>的分支名字是否有错，该分支是否存在，如果不存在先使用命令创建分支。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git branch -M branch-name
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>如果已经进行过&lt;code>remote add&lt;/code>添加远程库，则之后只需要进行简单的pull/push操作就可以了。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git pull origin branch-name
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="参考">参考&lt;/h2>
+&lt;ul>
+&lt;li>Mr无愧于心: &lt;a href="https://www.jianshu.com/p/2e1d551b8261">git的add、commit、push的详细介绍&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stackoverflow.com/questions/9537392/git-fetch-remote-branch">Git fetch remote branch&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.csdn.net/qq_32439101/article/details/87191600?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-87191600-blog-78972568.pc_relevant_default&amp;amp;spm=1001.2101.3001.4242.3&amp;amp;utm_relevant_index=7">git push 却 403错误 解决方案&lt;/a>&lt;/li>
+&lt;/ul></content><category scheme="https://emptdrawr.github.io/categories/cs/" term="CS" label="CS"/><category scheme="https://emptdrawr.github.io/tags/git/" term="git" label="git"/></entry><entry><title type="text">看看电影-如何实现电影电视剧资源自由</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/how-to-find-movies/"/><id>https://emptdrawr.github.io/posts/how-to-find-movies/</id><updated>2023-01-14T23:52:50+08:00</updated><published>2022-10-03T11:42:42+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>本文主要包括：&lt;strong>如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong>，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p>
+&lt;p>如果你已经会这些技能，则本文对你来说是浪费时间。&lt;/p>……</summary><content type="html">&lt;p>本文主要包括：&lt;strong>如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong>，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p>
+&lt;p>如果你已经会这些技能，则本文对你来说是浪费时间。&lt;/p>
+&lt;h2 id="总览">总览&lt;/h2>
+&lt;h3 id="选择正版还是盗版">选择正版还是盗版？&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>正版&lt;/th>
+&lt;th>盗版&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>优点&lt;/td>
+&lt;td>·方便查找&lt;br />·清晰度好&lt;br />·自带多种语言的字幕&lt;br />·表达对创作者的知识产权尊重和支持&lt;/td>
+&lt;td>·免费&lt;br />·可以看一些被禁、被删减的电影&lt;br />·还是免费&lt;br />·符合齐泽克的哲学观&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>缺点&lt;/td>
+&lt;td>·花费较高&lt;br />·正版流媒体平台无法截图（有解决办法）&lt;br />·平台较多，资源分散&lt;/td>
+&lt;td>·查找费力，可能花费精力也无法找到&lt;br />·通常盗版网站广告较多，体验差&lt;br />·冷门资源下载速度慢&lt;br />·可能下载到多声道配音、无字幕版本（有解办法）&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="选择bt磁力下载还是网盘网站在线观看">选择BT/磁力下载还是网盘/网站在线观看？&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>&lt;/th>
+&lt;th>BT/磁力下载&lt;/th>
+&lt;th>在线观看&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>优点&lt;/td>
+&lt;td>·资源种类多，库较大&lt;br />·下载速度不取决于网盘限速，可能下载得很快&lt;br />·通常清晰度较高，下载后不用担心缓存即可流畅观看&lt;/td>
+&lt;td>·观看方便，随点随看&lt;br />·多设备自由观看&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>缺点&lt;/td>
+&lt;td>·可能找到“死种”，即下载速度始终为0的文件（通常无法解决，但可以换一个种子进行下载）&lt;br />·不熟悉的时候可能会觉得下载过程麻烦&lt;br />·必须使用电脑下载&lt;/td>
+&lt;td>·冷门资源很少，经常找不到想看的&lt;br />·通常清晰度不高&lt;br />·网络问题会导致观看体验不流畅&lt;br />·网站上广告更多，网盘可能会审查、删除视频文件（再说一次在某盘里修改文件后缀也是没用的）&lt;br />·通常字幕与视频文件无法分离，如果想要其他语言字幕会很费力&lt;br />·网站不稳定，且看且珍惜，说不定明天就关闭了&lt;br />·字幕组之间打架的破事会让人很烦=)（以及避雷远鉴）&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>相关网站&lt;/td>
+&lt;td>·BT-&lt;a href="https://www.mini4k.com/">mini4K迷客电影&lt;/a>&lt;br />·BT/磁力-&lt;a href="https://rarbg.proxyninja.org/">RARBG&lt;/a>&lt;br />·BT/磁力-&lt;a href="https://yts.proxyninja.org/">YTS&lt;/a>&lt;br />·BT/磁力（只有动漫）&lt;a href="https://bangumi.moe/lite/">萌番组lite&lt;/a>&lt;br />·BT/磁力/在线-&lt;a href="https://www.btnull.org/">无名小站&lt;/a>&lt;br />·磁力-&lt;a href="https://ibluemv.com/">蓝光高清电影网&lt;/a>&lt;br />·字幕-&lt;a href="http://www.ddzimu.com/">点点字幕&lt;/a>&lt;br />·字幕-&lt;a href="https://assrt.net/">射手网&lt;/a>&lt;br />&lt;br />·字幕-&lt;a href="https://bbs.acgrip.com/">Anime字幕论坛&lt;/a>&lt;/td>
+&lt;td>·在线观看-&lt;a href="https://gaze.run/">注视影视&lt;/a>&lt;br />·在线观看-&lt;a href="https://www.novipnoad.com/">NO视频&lt;/a>&lt;br />·云盘资源-&lt;a href="https://newzmz.com/index.html">NEW字幕组&lt;/a>&lt;br />·云盘资源-&lt;a href="https://www.rrdynb.com/index.html">人人电影网&lt;/a>&lt;br />·云盘资源-&lt;a href="http://wanwansub.com/">弯弯字幕组&lt;/a>&lt;br />·在线/云盘（只有动漫）-&lt;a href="https://www.agemys.cc/">ACG动漫&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>表格中网站如果有打不开的请更换谷歌浏览器，如果仍然无法打开请搭梯子，如果仍然无法打开请换下一个网站。&lt;/p>
+&lt;p>以上均为个人经验总结和主观看法，请自由选择观看途径、早日实现电影自由。&lt;/p>
+&lt;h2 id="正版电影观看">正版电影观看&lt;/h2>
+&lt;p>如果你想要观看一部电影，举例来说，雷德利·斯科特（而不是大卫·芬奇）的《异形》，那么你可以在Google搜索栏进行搜索，你会看到以下界面：&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003115048579.png" alt="image-20221003115048579">&lt;/p>
+&lt;p>点击边栏的所有观看渠道，会发现Apple TV、亚马逊影视、Hulu等多个流媒体平台都可以进行观看，如果你有对应平台的会员，即可观看。&lt;/p>
+&lt;p>例如我恰好在Apple ID当中充值了5$（通过淘宝购买礼品卡），原本计划充值游戏但发现因为各种原因无法购买app内的付费内容，所以我在iTunes当中搜索并购买了《异形》。下图为Apple TV中已购买的界面。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image2.jpeg" alt="image2">&lt;/p>
+&lt;p>在iTunes购买还有电影相关的物料（比如导剪版、相关采访等）&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image1.jpeg" alt="image1">&lt;/p>
+&lt;p>使用国内网络即可正常观看，可以切换多种语言的字幕，还可离线缓存（但需注意的是无法截图电影画面，同时也无法通过无线网络进行投屏）。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image0.jpeg" alt="image0">&lt;/p>
+&lt;h2 id="盗版资源下载">盗版资源下载&lt;/h2>
+&lt;p>本文通过RARBG、使用磁力、在Motrix中下载《圣血》来进行实例。&lt;/p>
+&lt;h3 id="bt磁力是什么">BT/磁力是什么？&lt;/h3>
+&lt;p>请自行搜索。&lt;/p>
+&lt;h3 id="有什么下载工具">有什么下载工具？&lt;/h3>
+&lt;p>推荐Motrix，一款开源、免费、UI设计优美简洁的下载器，&lt;a href="https://motrix.app/">官方网站下载&lt;/a>。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003125955976.png" alt="image">&lt;/p>
+&lt;p>下载安装包以后按照步骤进行安装即可使用。&lt;/p>
+&lt;h3 id="如何通过网站下载电影或剧">如何通过网站下载电影或剧？&lt;/h3>
+&lt;p>以RARBG为例，首先打开网站可以看到首页如下，搜索方便（注意如果有广告自动打开了新的浏览器窗口，&lt;strong>请勿点击、及时关闭&lt;/strong>）。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003130319340.png" alt="image-20221003130319340">&lt;/p>
+&lt;p>在该网站进行搜索时应该尽量使用&lt;em>&lt;strong>英文（或电影原名）+年份&lt;/strong>&lt;/em>的格式进行搜索。当我使用英文搜索《圣血》时发现并没有想要的资源，主要问题是原片名为西班牙语，造成搜索的关键字不正确。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003130438371.png" alt="image-20221003130438371">&lt;/p>
+&lt;p>此时在搜索引擎中搜索该电影原名(&lt;em>Santa Sangre&lt;/em>)及年份(1989)，再次进行搜索，会发现成功检索到《圣血》资源。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003130659056.png" alt="image-20221003130659056">&lt;/p>
+&lt;p>由于BT/磁力下载具有的“下载的人越多下载速度越快”的特性，所以我们可以选择搜索结果中的第二行或第三行来下载。打开详情页拉到最下方，点击Download之后的链接。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131115998.png" alt="image-20221003131115998" style="zoom: 33%;" />
+&lt;p>此时浏览器会弹窗提示：是否打开Motrix进行下载，点击&lt;em>打开Motrix&lt;/em>。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131216041.png" alt="image-20221003131216041" style="zoom:33%;" />
+&lt;p>Motrix会自动弹出，并让你选择下载位置。选择好下载路径之后，点击&lt;em>提交&lt;/em>即可。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131343166.png" alt="image-20221003131343166" style="zoom:50%;" />
+&lt;p>此时可以看到正在下载的文件，速度相对较快，较小的电影资源通常十几分钟就可以下载完成。如果你下载了太多电影，可以购买移动硬盘、选取你喜欢的电影进行储存，而不是看完就删除（毕竟我们都知道为自己存一个移动硬盘的书影音是必要的）。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131715429.png" alt="image-20221003131715429" style="zoom:50%;" />
+&lt;p>磁力下载会先下载一个torrent文件，然后再从torrent文件中提取电影文件进行下载。&lt;strong>当电影下载完成之后&lt;/strong>，如果你不需要，即可删除。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003131537330.png" alt="image-20221003131537330" style="zoom: 33%;" />
+&lt;p>文件下载完成之后，Motrix会提示“正在做种”，你可以选择停止这个过程，但也可以选择继续做种，生成种子文件分享给他人下载，&lt;strong>保持资源共享的精神&lt;/strong>。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003132354318.png" alt="image-20221003132354318" style="zoom: 50%;" />
+&lt;p>当做种完成或你选择停止任务时，Motrix会提示下载完成，此时你已经可以开始观看了。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003132457566.png" alt="image-20221003132457566" style="zoom:50%;" />
+&lt;h3 id="没有想要的字幕怎么办">没有想要的字幕怎么办？&lt;/h3>
+&lt;h4 id="默认播放器加载字幕文件">默认播放器加载字幕文件&lt;/h4>
+&lt;p>部分通过BT下载的电影会有一个名为Subs的文件夹，即字幕文件。你可以使用Windows自带的播放器来加载后缀为&lt;code>.ass, .srt&lt;/code>等的字幕文件：直接拖拽到播放窗口中，成功加载。&lt;/p>
+&lt;p>当然Windows自带的软件通常都很垃圾，所以&lt;code>.sub&lt;/code>文件无法被成功识别并加载，此时的&lt;strong>解决方案是更换播放器&lt;/strong>。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003133030565.png" alt="image-20221003133030565">&lt;/p>
+&lt;h4 id="splayer-射手影音播放器">SPlayer 射手影音播放器&lt;/h4>
+&lt;p>SPlayer是会联网自动为视频寻找字幕的一款播放器，虽然有时会由于网络问题无法加载字幕、且与默认播放器一样无法加载&lt;code>.sub&lt;/code>文件，但总体较好用。&lt;/p>
+&lt;p>从&lt;a href="https://www.splayer.org/">官方网站&lt;/a>下载安装包，按照步骤安装以后即可使用。（无需注册账号，在文件夹打开视频文件的时候，右键点击文件，选择&lt;code>&amp;gt;打开方式&amp;gt;SPlayer&lt;/code>即可。&lt;/p>
+&lt;p>以《银翼杀手2049》为例，打开第一次、第二次字幕匹配都显示网络错误，但等待一段时间之后即成功。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003134146258.png" alt="image-20221003134146258">&lt;/p>
+&lt;h4 id="xmp-迅雷播放组件">XMP 迅雷播放组件&lt;/h4>
+&lt;p>&lt;strong>注意仅为小组件！！无需下载迅雷这种流氓软件！！！！&lt;/strong>&lt;/p>
+&lt;p>&lt;a href="https://pan.baidu.com/s/1Hkz47udAfwa2mufDKEENrw">下载链接，提取码为empt&lt;/a>。下载之后解压、打开&lt;code>.exe&lt;/code>文件即可使用，该播放器可以加载多种字幕类型。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003135419273.png" alt="image-20221003135419273" style="zoom: 50%;" />
+&lt;p>仍然打开《银翼杀手2049》无字幕版本的视频文件，可以看到XMP播放器也有自动匹配字幕的功能，并且数量较多。美中不足的是该播放器的字幕加载并不美观，可以自己多尝试设置、调整；同时XMP也很容易匹配到字幕时间与视频错位的字幕，自己调整非常头疼，请自行衡量利弊再做选择。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003134742872.png" alt="image-20221003134742872">&lt;/p>
+&lt;p>尝试通过&lt;em>手动载入&lt;/em>&amp;gt;&lt;em>选择字幕文件&lt;/em>的方式加载&lt;code>.sub&lt;/code>文件，可以发现成功加载了全英字幕，并且格式美观。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003135150848.png" alt="image-20221003135150848">&lt;/p>
+&lt;h4 id="以上几种方式都找不到想要的字幕怎么办">以上几种方式都找不到想要的字幕怎么办？&lt;/h4>
+&lt;p>解决办法是自己动手找字幕文件，或者练听力。&lt;/p>
+&lt;p>在字幕资源网站上搜索电影名称，如果搜索不到就换一个网站。可以看到shooter上有《圣血》的双语字幕，但我想要单英文的字幕而不是双语字幕。这时可以直接通过Google进行搜索。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140059889.png" alt="image-20221003140059889">&lt;/p>
+&lt;p>我在&lt;a href="https://yifysubtitles.org/">YIFY&lt;/a>网站上搜索到了《圣血》的英文字幕，下载、将字幕文件拖入播放器即可。&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140550076.png" alt="image-20221003140550076">&lt;/p>
+&lt;p>需要注意的是，&lt;strong>任何网站如果有诸如下图的界面、让你点击Allow/允许通知，&lt;em>都请不要点击&lt;/em>，直接关闭该网页再次点击下载链接即可&lt;/strong>。&lt;/p>
+&lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003140450982.png" alt="image-20221003140450982" style="zoom:33%;" />
+&lt;p>可以看到成功加载了刚刚下载的英文字幕，至此大功告成！&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/movies/" term="Movies" label="Movies"/><category scheme="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/" term="电影资源" label="电影资源"/></entry><entry><title type="text">读书笔记-娜塔莎之舞-第一章</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/read-dance-of-natasha/"/><id>https://emptdrawr.github.io/posts/read-dance-of-natasha/</id><updated>2023-01-13T19:33:35+08:00</updated><published>2022-07-06T18:59:07+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">读《娜塔莎之舞：俄罗斯文化史》</summary><content type="html">&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
+&lt;p>导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p>
+&lt;blockquote>
+&lt;p>“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p>
+&lt;/blockquote>
+&lt;p>而将俄罗斯剥离贵族文化、拖入“苏维埃文化”的“十月革命”在文化史的视角下也很有趣：&lt;/p>
+&lt;blockquote>
+&lt;p>与旧制度的政治次裂往往形式剧烈而过程简捷，而与旧文化的文化决裂乃至新文化建构虽然波澜不惊但背后却涡流暗结并且过程复杂。&amp;gt;（p.v）&lt;/p>
+&lt;/blockquote>
+&lt;p>文化史是一个观看俄罗斯的窗口，也是所有历史当中无法割离的一部分，但它在俄罗斯历史中尤其重要，因为：&lt;/p>
+&lt;blockquote>
+&lt;p>每一部文学作品、每一幕戏剧、每一幅绘画、每一曲音乐的背后都蕴含了丰富的政治、哲学、宗教和社会批评的元素，所有的新思想和新启蒙都是通过“文学”这个“中心枢纽”而展现。（p.xvi）&lt;/p>
+&lt;/blockquote>
+&lt;p>导读中提到“..日耳曼是男人的民族，而俄罗斯只能是女人的民族..”（别尔嘉耶夫），在第一章当中也应证了这一说法——&lt;strong>俄罗斯欧化运动当中，许多女性可以流利掌握多门语言、可以鉴赏艺术、弹奏多种乐器，而在对比下，“男人就没什么好说的了”&lt;/strong>。（p62）&lt;/p>
+&lt;p>同时，&lt;strong>女性也定下了18世纪到19世纪前期俄罗斯贵族文化中的礼仪&lt;/strong>，同时期男性贵族的装扮、举止都逐渐更具有女性气质；在此期间，俄罗斯也孕育出了多名女皇，包括在彼得之后唯一能被称为“大帝”的叶卡捷琳娜二世。&lt;/p>
+&lt;p>而本书的书名也是&lt;strong>通过一个经典的女性文学形象（托尔斯泰《战争与和平》）来展示俄罗斯文化最深层次的特征&lt;/strong>：欧洲文明与俄罗斯本土的双重身份，&lt;strong>源于二重身的痛苦和对民族身份的不断探索构建了俄罗斯文化的宏大底色&lt;/strong>。&lt;/p>
+&lt;h2 id="第一章--欧化的俄罗斯">第一章 欧化的俄罗斯&lt;/h2>
+&lt;h3 id="彼得大帝的欧化政策">彼得大帝的“欧化”政策&lt;/h3>
+&lt;p>于沼泽中建立起的彼得堡成为俄罗斯乡土大地上的欧洲文明孤岛，一切都是因为彼得大帝对“欧化”的坚定。但不得不说，他非常有眼光地捕捉到了欧洲体制的精髓——在治理国家时他模仿荷兰和英国的海军，模仿普鲁士和瑞典的军校，模仿日耳曼的法律体系，模仿丹麦的文官制度（这也是后来常被契诃夫讽刺的十四等官阶制度）。（p23）&lt;/p>
+&lt;p>而追随他脚步的人也同样在这种汲取世界文化精华的思想下去学习欧洲文化的明珠：诗人、作家去巴黎进修，音乐家去意大利进修，画家去法国和荷兰进修，学者则去马登堡学习化学。（p79）&lt;/p>
+&lt;p>这样欧化的贵族教育孕育了世界主义的思想，&lt;strong>“世界主义”也成为了“俄罗斯文化最为持久的优势之一”&lt;/strong>。（p69）&lt;/p>
+&lt;h3 id="圣彼得堡历史的舞台">圣彼得堡——历史的舞台&lt;/h3>
+&lt;p>圣彼得堡是一座造作的城市，一场在水上进行的乌托邦造梦工程，一切都如同一个精心搭建的舞台，其中所有人都是演员，为了演一出欧洲化的戏剧。而贵族的庄园、皇室的宫殿则是这座舞台上更精巧也更造作的舞台。&lt;/p>
+&lt;blockquote>
+&lt;p>仿佛一则俄国童话中的魔幻城市，圣彼得堡以神奇的速度建立起来，而关于它的一切都是如此辉煌和新鲜，以至于它很快成为了一个充满神话色彩的地方。&lt;/p>
+&lt;/blockquote>
+&lt;p>作者选择在第一章介绍圣彼得堡的建城历史，不仅是因为这是俄罗斯的首都、文化与政治的中心，更因为圣彼得堡具有一种“表演的特质”，它更是一场恢弘的历史叙事剧——其中掺杂了战争、宫廷阴谋、血腥过往、王朝的辉煌、奴隶制——的最好展示舞台。&lt;/p>
+&lt;h3 id="艺术与文学所谓俄罗斯审美的根源">艺术与文学：所谓“俄罗斯审美”的根源&lt;/h3>
+&lt;h4 id="艺术起源于农奴制度">艺术起源于农奴制度&lt;/h4>
+&lt;p>如今社交媒体上关于俄罗斯文化的内容存在一种趋势：造神一种审美。不管是拆解苏联时期建筑特色的&lt;a href="https://www.bilibili.com/video/BV11Q4y1B7Eu?share_source=copy_web">视频&lt;/a>，还是许许多多介绍俄罗斯艺术的博文，都会或多或少地加上“毛子的审美就是牛”这类词句。不可否认，俄罗斯的文学、艺术、建筑常常具有磅礴又冷冽的气质，往往会与“高级审美”这样的关键词相挂钩，但我个人觉得这句话让人十分不适，主要因为：&lt;/p>
+&lt;ol>
+&lt;li>对一种自己并不熟悉的异邦文化使用高度简练与同一化严重的描述进行概括，&lt;strong>是对该文化当中小众、非主流的特点的漠视&lt;/strong>，在加深刻板印象的同时也具有一种文化上的傲慢。&lt;/li>
+&lt;li>“毛子”一词本身就具有民族性蔑视，是种族主义色彩的称呼。俄语区不仅有俄罗斯人，而也并不是所有俄罗斯人都具有强烈的民族认同（如纳博科夫本人），&lt;strong>使用这一称呼是语义上的种族主义&lt;/strong>，以及人云亦云的附和。&lt;/li>
+&lt;/ol>
+&lt;p>而令人震惊的是这样“高级审美”起源于农奴制度。这一章叙述了俄罗斯在18世纪主要让农奴从事艺术（绘画、歌剧、音乐、甚至是建筑）。并且通过舍列梅捷夫伯爵与农奴女主唱普拉斯科维亚的爱情悲剧展现了当时农奴艺术家身份当中蕴含的悲苦命运以及那个年代流行的歌剧主要情节。&lt;/p>
+&lt;h4 id="俄罗斯语言的创造">俄罗斯语言的创造&lt;/h4>
+&lt;p>俄语书面语和日常口语之间的巨大差距造成文学上的困难，作家和诗人难以使用原本的书面俄语进行书写，于是采用大量的外语。&lt;strong>而在普希金的带动下，许多作家开始创造俄语词汇以便更好地描述、更好地书写&lt;/strong>。&lt;/p>
+&lt;p>俄罗斯本土的作家、诗人、上流社会、知识分子逐渐将欧洲视为一个堕落之地（p83），在与欧洲的对比下，他们更加呼吁要回归俄罗斯率真的本性和自然的民族特征。与此同时，法国大革命也让俄罗斯人心中的乌托邦坍塌，从世界主义到民族主义，只需要一个精神巴别塔的陷落、一念之间的毁灭。&lt;/p>
+&lt;blockquote>
+&lt;p>我们需要欧洲作为理想和谴责的范例，”赫尔岑写道，“这样的欧洲就算实际不存在，我们也必须将她发明出来。”（p84）&lt;/p>
+&lt;/blockquote>
+&lt;p>思考：&lt;/p>
+&lt;ol>
+&lt;li>为何在文化产业空间被挤压的俄罗斯能喷涌出这么多运用春秋笔法的优秀文学作品？&lt;/li>
+&lt;li>俄罗斯民族对于欧洲的态度也是一条展现其文化内核与民族认同感的重要线索，而每个民族心中或许都拥有“欧洲于俄罗斯”这样&lt;code>借鉴/批判&lt;/code>同时存在的地方。&lt;/li>
+&lt;/ol></content><category scheme="https://emptdrawr.github.io/categories/books/" term="Books" label="Books"/><category scheme="https://emptdrawr.github.io/tags/%E5%A8%9C%E5%A1%94%E8%8E%8E%E4%B9%8B%E8%88%9E/" term="娜塔莎之舞" label="娜塔莎之舞"/><category scheme="https://emptdrawr.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" term="读书笔记" label="读书笔记"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E5%8C%96%E5%8F%B2/" term="文化史" label="文化史"/></entry><entry><title type="text">学习记录-如何写文献综述+论文结构</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/how-to-write-literature-review/"/><id>https://emptdrawr.github.io/posts/how-to-write-literature-review/</id><updated>2023-01-13T19:33:56+08:00</updated><published>2022-05-19T17:33:34+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">&lt;p>文献综述写法总结&lt;/p>……</summary><content type="html">&lt;p>文献综述写法总结&lt;/p>
+&lt;h2 id="论文的结构">论文的结构&lt;/h2>
+&lt;h3 id="论文的三段式结构">论文的三段式结构&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Introduction&lt;/th>
+&lt;th>议论文→逻辑&lt;/th>
+&lt;th>为整篇论文定位：论证研究目标的合理&lt;/th>
+&lt;th>普遍→特定&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Objective Method Result&lt;/td>
+&lt;td>说明文→清晰&lt;/td>
+&lt;td>用科学的语言把研究方法和研究成果说清楚&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Discussion&amp;amp; Conclusion&lt;/td>
+&lt;td>议论文→逻辑&lt;/td>
+&lt;td>本篇论文是有价值的：论证研究目标的价值&lt;/td>
+&lt;td>特定→普遍&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>引言段和结尾段结构相反，但逻辑上有很多类似的地方&lt;/p>
+&lt;p>&lt;em>introduction vs outroduction&lt;/em>&lt;/p>
+&lt;h4 id="引言-introduction">引言 Introduction&lt;/h4>
+&lt;p>研究目标＋引言&lt;/p>
+&lt;p>$$
 已知\quad\quad\quad未知\quad\quad\quad 应知\
 \quad|\quad\quad\quad\quad|\quad\quad\quad\quad\quad|\
 \quad|\quad\quad\quad\quad|\quad\quad\quad\quad\quad|\
@@ -1149,102 +819,102 @@ tags:
 \quad|\quad\quad\quad\quad\quad\quad\quad\quad\quad|\
 \quad|\quad\quad\quad\quad\quad\quad\quad\quad\quad|\
 \quad\boxed{\text{goal}\leftarrow----\rightarrow\text{objective}}
-$$&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;为了解决某一个大问题，需要解决某一个&lt;strong&gt;具体问题&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;为了实现长期目标，首先需要实现本篇论文的&lt;strong&gt;特定目标&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;研究选题&#34;&gt;研究选题&lt;/h2&gt;
-&lt;h3 id=&#34;填补研究的空白&#34;&gt;填补研究的空白&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;对于old problem的创新&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;延伸现有的研究&#34;&gt;延伸现有的研究&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;对于new problem的意义探索&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;复制成功的研究&#34;&gt;复制成功的研究&lt;/h3&gt;
-&lt;p&gt;避免复制错误&lt;/p&gt;
-&lt;h2 id=&#34;如何写文献综述&#34;&gt;如何写文献综述&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;论述研究目标的合理性&lt;/em&gt;——通过文献综述完成&lt;/p&gt;
-&lt;h3 id=&#34;文献综述概论&#34;&gt;文献综述概论&lt;/h3&gt;
-&lt;h4 id=&#34;文献综述的两个基本点&#34;&gt;文献综述的两个基本点&lt;/h4&gt;
-&lt;h5 id=&#34;学&#34;&gt;学&lt;/h5&gt;
-&lt;p&gt;包括所有相关的主要文献&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;全面&lt;/li&gt;
-&lt;li&gt;新&lt;/li&gt;
-&lt;li&gt;客观&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;思&#34;&gt;思&lt;/h5&gt;
-&lt;p&gt;&lt;strong&gt;评判&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Validity, Reliability&lt;/li&gt;
-&lt;li&gt;Strength, Weakness&lt;/li&gt;
-&lt;li&gt;Signifcance, Relevance&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;分析&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;归纳——找共同点&lt;/li&gt;
-&lt;li&gt;演绎——找不同点&lt;/li&gt;
-&lt;li&gt;溯因——找差距 (gap)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;文献综述的意义所在&#34;&gt;文献综述的意义所在&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;了解研究主题：过去、现在和未来的研究方向&lt;/li&gt;
-&lt;li&gt;借鉴研究方法
-&lt;ul&gt;
-&lt;li&gt;他人是如何界定某些关键的概念的？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;发现研究中的问题
-&lt;ul&gt;
-&lt;li&gt;已有研究中的不足、缺陷、改进的可能性&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;文献综述的方法&#34;&gt;文献综述的方法&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://whimsical.com/B6f7LJfmEBSnMoyTjaK7vt&#34;&gt;文献综述的方法-思维导图&lt;/a&gt;&lt;/p&gt;
-&lt;iframe style=&#34;border:none&#34; width=&#34;800&#34; height=&#34;450&#34; src=&#34;https://whimsical.com/embed/B6f7LJfmEBSnMoyTjaK7vt&#34;&gt;&lt;/iframe&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/337595082&#34;&gt;程啸：如何做好法学文献综述？&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;文献综述写法&#34;&gt;文献综述写法&lt;/h3&gt;
-&lt;h4 id=&#34;用故事逻辑写文献综述&#34;&gt;用故事逻辑写文献综述&lt;/h4&gt;
-&lt;h5 id=&#34;situation-情境&#34;&gt;Situation 情境&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;从基本场景引入，引言，让读者能够继续阅读&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;confliction-冲突&#34;&gt;Confliction 冲突&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;可能较明显&lt;/li&gt;
-&lt;li&gt;也可能需要通过文献分析得到&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;question-关键问题&#34;&gt;Question 关键问题&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;明确提出解决冲突的关键点&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;answer-解决方案&#34;&gt;Answer 解决方案&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;有说服力的关键方案&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code&gt;SCQA&lt;/code&gt; 讲故事的最自然的顺序&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;QASC, QACS&lt;/code&gt;开门见山，直接提出问题和解决方案，再来阐述背景和冲突&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;CSQA&lt;/code&gt; 让文章更有冲击力，引发读者的关注之后再介绍后续的背景和解决方案&lt;/p&gt;
-&lt;h3 id=&#34;文献分析的三种逻辑推理方法&#34;&gt;文献分析的三种逻辑推理方法&lt;/h3&gt;
-&lt;h4 id=&#34;归纳-inductive&#34;&gt;归纳 Inductive&lt;/h4&gt;
-&lt;p&gt;由点到线&lt;/p&gt;
-&lt;p&gt;从现有证据中归纳&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;新规律&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/A0A319D1-045D-4426-BE7B-9556990FDB7D.png&#34; alt=&#34;A0A319D1-045D-4426-BE7B-9556990FDB7D.png&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;演绎-deductive&#34;&gt;演绎 Deductive&lt;/h4&gt;
-&lt;p&gt;由线到点&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;大前提-小前提-结论&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;新证据&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/EE772A8D-C80F-4678-8E25-BDADD19F121B.png&#34; alt=&#34;EE772A8D-C80F-4678-8E25-BDADD19F121B.png&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;溯因-abductive&#34;&gt;溯因 Abductive&lt;/h4&gt;
-&lt;p&gt;由点到虚线&lt;/p&gt;
-&lt;p&gt;从一堆看似杂乱无章的证据当中找出逻辑&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;新假说&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png&#34; alt=&#34;E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;需要进一步的验证&lt;/p&gt;
-&lt;h3 id=&#34;从文献推出自己的论点&#34;&gt;从文献推出自己的论点&lt;/h3&gt;
-&lt;p&gt;$$
+$$&lt;/p>
+&lt;ol>
+&lt;li>为了解决某一个大问题，需要解决某一个&lt;strong>具体问题&lt;/strong>&lt;/li>
+&lt;li>为了实现长期目标，首先需要实现本篇论文的&lt;strong>特定目标&lt;/strong>&lt;/li>
+&lt;/ol>
+&lt;h2 id="研究选题">研究选题&lt;/h2>
+&lt;h3 id="填补研究的空白">填补研究的空白&lt;/h3>
+&lt;p>&lt;em>对于old problem的创新&lt;/em>&lt;/p>
+&lt;h3 id="延伸现有的研究">延伸现有的研究&lt;/h3>
+&lt;p>&lt;em>对于new problem的意义探索&lt;/em>&lt;/p>
+&lt;h3 id="复制成功的研究">复制成功的研究&lt;/h3>
+&lt;p>避免复制错误&lt;/p>
+&lt;h2 id="如何写文献综述">如何写文献综述&lt;/h2>
+&lt;p>&lt;em>论述研究目标的合理性&lt;/em>——通过文献综述完成&lt;/p>
+&lt;h3 id="文献综述概论">文献综述概论&lt;/h3>
+&lt;h4 id="文献综述的两个基本点">文献综述的两个基本点&lt;/h4>
+&lt;h5 id="学">学&lt;/h5>
+&lt;p>包括所有相关的主要文献&lt;/p>
+&lt;ul>
+&lt;li>全面&lt;/li>
+&lt;li>新&lt;/li>
+&lt;li>客观&lt;/li>
+&lt;/ul>
+&lt;h5 id="思">思&lt;/h5>
+&lt;p>&lt;strong>评判&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Validity, Reliability&lt;/li>
+&lt;li>Strength, Weakness&lt;/li>
+&lt;li>Signifcance, Relevance&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>分析&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>归纳——找共同点&lt;/li>
+&lt;li>演绎——找不同点&lt;/li>
+&lt;li>溯因——找差距 (gap)&lt;/li>
+&lt;/ul>
+&lt;h4 id="文献综述的意义所在">文献综述的意义所在&lt;/h4>
+&lt;ul>
+&lt;li>了解研究主题：过去、现在和未来的研究方向&lt;/li>
+&lt;li>借鉴研究方法
+&lt;ul>
+&lt;li>他人是如何界定某些关键的概念的？&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>发现研究中的问题
+&lt;ul>
+&lt;li>已有研究中的不足、缺陷、改进的可能性&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="文献综述的方法">文献综述的方法&lt;/h3>
+&lt;p>&lt;a href="https://whimsical.com/B6f7LJfmEBSnMoyTjaK7vt">文献综述的方法-思维导图&lt;/a>&lt;/p>
+&lt;iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/B6f7LJfmEBSnMoyTjaK7vt">&lt;/iframe>
+&lt;hr>
+&lt;p>&lt;a href="https://zhuanlan.zhihu.com/p/337595082">程啸：如何做好法学文献综述？&lt;/a>&lt;/p>
+&lt;h3 id="文献综述写法">文献综述写法&lt;/h3>
+&lt;h4 id="用故事逻辑写文献综述">用故事逻辑写文献综述&lt;/h4>
+&lt;h5 id="situation-情境">Situation 情境&lt;/h5>
+&lt;ul>
+&lt;li>从基本场景引入，引言，让读者能够继续阅读&lt;/li>
+&lt;/ul>
+&lt;h5 id="confliction-冲突">Confliction 冲突&lt;/h5>
+&lt;ul>
+&lt;li>可能较明显&lt;/li>
+&lt;li>也可能需要通过文献分析得到&lt;/li>
+&lt;/ul>
+&lt;h5 id="question-关键问题">Question 关键问题&lt;/h5>
+&lt;ul>
+&lt;li>明确提出解决冲突的关键点&lt;/li>
+&lt;/ul>
+&lt;h5 id="answer-解决方案">Answer 解决方案&lt;/h5>
+&lt;ul>
+&lt;li>有说服力的关键方案&lt;/li>
+&lt;/ul>
+&lt;p>&lt;code>SCQA&lt;/code> 讲故事的最自然的顺序&lt;/p>
+&lt;p>&lt;code>QASC, QACS&lt;/code>开门见山，直接提出问题和解决方案，再来阐述背景和冲突&lt;/p>
+&lt;p>&lt;code>CSQA&lt;/code> 让文章更有冲击力，引发读者的关注之后再介绍后续的背景和解决方案&lt;/p>
+&lt;h3 id="文献分析的三种逻辑推理方法">文献分析的三种逻辑推理方法&lt;/h3>
+&lt;h4 id="归纳-inductive">归纳 Inductive&lt;/h4>
+&lt;p>由点到线&lt;/p>
+&lt;p>从现有证据中归纳&lt;/p>
+&lt;p>&lt;strong>新规律&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/A0A319D1-045D-4426-BE7B-9556990FDB7D.png" alt="A0A319D1-045D-4426-BE7B-9556990FDB7D.png">&lt;/p>
+&lt;h4 id="演绎-deductive">演绎 Deductive&lt;/h4>
+&lt;p>由线到点&lt;/p>
+&lt;p>&lt;em>大前提-小前提-结论&lt;/em>&lt;/p>
+&lt;p>&lt;strong>新证据&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/EE772A8D-C80F-4678-8E25-BDADD19F121B.png" alt="EE772A8D-C80F-4678-8E25-BDADD19F121B.png">&lt;/p>
+&lt;h4 id="溯因-abductive">溯因 Abductive&lt;/h4>
+&lt;p>由点到虚线&lt;/p>
+&lt;p>从一堆看似杂乱无章的证据当中找出逻辑&lt;/p>
+&lt;p>&lt;strong>新假说&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95-%E5%A6%82%E4%BD%95%E5%86%99%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0-%E8%AE%BA%E6%96%87%E7%BB%93%E6%9E%84/E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png" alt="E350BFC7-4228-4AF1-B877-7EB1FF1ED87E.png">&lt;/p>
+&lt;p>需要进一步的验证&lt;/p>
+&lt;h3 id="从文献推出自己的论点">从文献推出自己的论点&lt;/h3>
+&lt;p>$$
 \begin{array}
 k分解问题\
 \quad\downarrow\
@@ -1256,101 +926,15 @@ k分解问题\
 \quad\downarrow\
 \quad结论
 \end{array}
-$$&lt;/p&gt;
-&lt;h2 id=&#34;参考&#34;&gt;参考&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;逻辑清晰，每个部分时长都较短的论文视频：&lt;a href=&#34;https://www.bilibili.com/video/BV1mJ411m7YQ?share_source=copy_web&#34;&gt;论文写作：如何写论文系列讲座合集 (1-10) 论文结构|引言|选题|研究目标|文献综述&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;一篇写得非常符合标准文献综述要求、论文结构的论文：&lt;a href=&#34;https://repository.globethics.net/bitstream/handle/20.500.12424/170212/Study_Unspoken_Rules_of_Industry.pdf?sequence=1&#34;&gt;行业潜规则研究——中国奶业产业的案例研究&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/study/" term="Study" label="Study" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0/" term="文献综述" label="文献综述" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E8%AE%BA%E6%96%87/" term="论文" label="论文" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">听听专辑-When the Pawn</title>
-            <link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/music-when-the-pawn/" />
-            <id>https://emptdrawr.github.io/posts/music-when-the-pawn/</id>
-            <updated>2023-01-13T15:48:19&#43;08:00</updated>
-            <published>2022-03-08T20:38:04&#43;00:00</published>
-            <author>
-                    <name>EmptDrawr</name>
-                    <uri>https://emptdrawr.github.io/</uri>
-                    <email>emptdrawr@gmail.com</email>
-                    </author>
-            <summary type="html">独立，爵士，痛苦，有毒关系</summary>
-            
-                <content type="html">&lt;p&gt;全名《When the Pawn Hits the Conflicts He Thinks like a King What He Knows Throws the Blows When He Goes to the Fight And He&#39;ll Win the Whole Thing &#39;Fore He Enters the Ring There&#39;s No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold You》，来自Fiona Apple，由On the Bound开头，紧凑但不显腻的鼓点拉开整张专辑的序幕。&lt;/p&gt;
-&lt;p&gt;Fiona Apple的唱法让人更觉得这是一张爵士专辑，在第二首曲子To Your Love当中，诡秘旋律和毫不费力的怒音一起谱写了独立音乐女王的叛逆：“The shame is manifest in my resistance to your love”——与曲名给人的第一印象不同，这并非一首甜蜜情歌，而是距离感与爱情中的痛苦宣泄。&lt;/p&gt;
-&lt;p&gt;紧接着的第三首Limp，前奏一出就用“You wanna make me sick You wanna lick my wounds”延续了这种痛苦与隐秘的情感暴力。“你想要舔舐我的伤口，你想要将骄傲建立在我的羞耻之上，你想要用你的苦涩谎言击打我。你喂食我身体里的野兽，你按下我的扳机然后责罪我手握枪支，你挥舞红布如斗牛般让我疲惫奔跑——而我却从未将他们付诸于你，也从未将回忆时握紧的拳头落在你身上”。歌词描述的痛苦关系：被谎言虐待却无可奈何、被伤害又被责怪的独白，让人不禁想到Fiona与著名导演PTA（保罗·托马斯·安德森）的恋爱。在多年以后的采访中，Fiona才敢于说出她和PTA的关系，是一段“toxic and ugly relationship”，PTA在她侧旁不断地说她是一个糟糕的伴侣、冲她说恶毒冰冷的话，愿Fiona的音乐给她力量。&lt;/p&gt;
-&lt;p&gt;与采用大量错落鼓点制造紧张感、对峙感的前三首不同，第四首Love Ridden更加舒缓，钢琴配上Fiona拉长了的唱腔，也显得更加悲伤。“And in a little while, we&#39;ll only have to wave, No, not &#39;baby&#39; anymore”，仿佛永别前的最后通牒，悲伤中带着决绝，又长舒了一口气。&lt;/p&gt;
-&lt;p&gt;而下一首Paper Bag从一开头就使用了更轻快的鼓点与旋律，似乎让人以为女主角已经走出了一段伤害大于温存的关系，紧接着却用“Hunger hurts, but I want him so bad, it kills”告诉你，制造出的快乐旋律只是一个纸做的假壳，因为女主角is gonna to make A Mistake，但很不凑巧，A Mistake这首歌并未惊艳到我。&lt;/p&gt;
-&lt;p&gt;Fast As You Can或许和首曲一样抓人，也或许是因为随着歌词推进，女主角又回到了对峙的状态、旋律又开始诡秘而紧张。“I may be soft in your palm but soon I&#39;ll grow hunger for a fight”，似乎这种拉扯的不健康关系已经成为了一个无法打破的循环。显然，女主角自己也深知这一点，Get Gone中的“How many times do I have to say to get away, get gone？”揭示了这种不断循环往复的争吵、对抗、脱离、回归、再争吵已经成为无法愈合的伤口，结痂又撕开、撕开又结痂，不断流血又不断贪恋痛苦。&lt;/p&gt;
-&lt;p&gt;尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/categories/music/" term="Music" label="Music" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/" term="乐评" label="乐评" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://emptdrawr.github.io/tags/indie-music/" term="Indie Music" label="Indie Music" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-</feed>
+$$&lt;/p>
+&lt;h2 id="参考">参考&lt;/h2>
+&lt;ul>
+&lt;li>逻辑清晰，每个部分时长都较短的论文视频：&lt;a href="https://www.bilibili.com/video/BV1mJ411m7YQ?share_source=copy_web">论文写作：如何写论文系列讲座合集 (1-10) 论文结构|引言|选题|研究目标|文献综述&lt;/a>&lt;/li>
+&lt;li>一篇写得非常符合标准文献综述要求、论文结构的论文：&lt;a href="https://repository.globethics.net/bitstream/handle/20.500.12424/170212/Study_Unspoken_Rules_of_Industry.pdf?sequence=1">行业潜规则研究——中国奶业产业的案例研究&lt;/a>&lt;/li>
+&lt;/ul></content><category scheme="https://emptdrawr.github.io/categories/study/" term="Study" label="Study"/><category scheme="https://emptdrawr.github.io/tags/%E6%96%87%E7%8C%AE%E7%BB%BC%E8%BF%B0/" term="文献综述" label="文献综述"/><category scheme="https://emptdrawr.github.io/tags/%E8%AE%BA%E6%96%87/" term="论文" label="论文"/></entry><entry><title type="text">听听专辑-When the Pawn</title><link rel="alternate" type="text/html" href="https://emptdrawr.github.io/posts/music-when-the-pawn/"/><id>https://emptdrawr.github.io/posts/music-when-the-pawn/</id><updated>2023-01-13T15:48:19+08:00</updated><published>2022-03-08T20:38:04+00:00</published><author><name>EmptDrawr</name><uri>https://emptdrawr.github.io/</uri><email>emptdrawr@gmail.com</email></author><summary type="html">独立，爵士，痛苦，有毒关系</summary><content type="html">&lt;p>全名《When the Pawn Hits the Conflicts He Thinks like a King What He Knows Throws the Blows When He Goes to the Fight And He'll Win the Whole Thing 'Fore He Enters the Ring There's No Body to Batter When Your Mind Is Your Might So When You Go Solo, You Hold You》，来自Fiona Apple，由On the Bound开头，紧凑但不显腻的鼓点拉开整张专辑的序幕。&lt;/p>
+&lt;p>Fiona Apple的唱法让人更觉得这是一张爵士专辑，在第二首曲子To Your Love当中，诡秘旋律和毫不费力的怒音一起谱写了独立音乐女王的叛逆：“The shame is manifest in my resistance to your love”——与曲名给人的第一印象不同，这并非一首甜蜜情歌，而是距离感与爱情中的痛苦宣泄。&lt;/p>
+&lt;p>紧接着的第三首Limp，前奏一出就用“You wanna make me sick You wanna lick my wounds”延续了这种痛苦与隐秘的情感暴力。“你想要舔舐我的伤口，你想要将骄傲建立在我的羞耻之上，你想要用你的苦涩谎言击打我。你喂食我身体里的野兽，你按下我的扳机然后责罪我手握枪支，你挥舞红布如斗牛般让我疲惫奔跑——而我却从未将他们付诸于你，也从未将回忆时握紧的拳头落在你身上”。歌词描述的痛苦关系：被谎言虐待却无可奈何、被伤害又被责怪的独白，让人不禁想到Fiona与著名导演PTA（保罗·托马斯·安德森）的恋爱。在多年以后的采访中，Fiona才敢于说出她和PTA的关系，是一段“toxic and ugly relationship”，PTA在她侧旁不断地说她是一个糟糕的伴侣、冲她说恶毒冰冷的话，愿Fiona的音乐给她力量。&lt;/p>
+&lt;p>与采用大量错落鼓点制造紧张感、对峙感的前三首不同，第四首Love Ridden更加舒缓，钢琴配上Fiona拉长了的唱腔，也显得更加悲伤。“And in a little while, we'll only have to wave, No, not 'baby' anymore”，仿佛永别前的最后通牒，悲伤中带着决绝，又长舒了一口气。&lt;/p>
+&lt;p>而下一首Paper Bag从一开头就使用了更轻快的鼓点与旋律，似乎让人以为女主角已经走出了一段伤害大于温存的关系，紧接着却用“Hunger hurts, but I want him so bad, it kills”告诉你，制造出的快乐旋律只是一个纸做的假壳，因为女主角is gonna to make A Mistake，但很不凑巧，A Mistake这首歌并未惊艳到我。&lt;/p>
+&lt;p>Fast As You Can或许和首曲一样抓人，也或许是因为随着歌词推进，女主角又回到了对峙的状态、旋律又开始诡秘而紧张。“I may be soft in your palm but soon I'll grow hunger for a fight”，似乎这种拉扯的不健康关系已经成为了一个无法打破的循环。显然，女主角自己也深知这一点，Get Gone中的“How many times do I have to say to get away, get gone？”揭示了这种不断循环往复的争吵、对抗、脱离、回归、再争吵已经成为无法愈合的伤口，结痂又撕开、撕开又结痂，不断流血又不断贪恋痛苦。&lt;/p>
+&lt;p>尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p></content><category scheme="https://emptdrawr.github.io/categories/music/" term="Music" label="Music"/><category scheme="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/" term="乐评" label="乐评"/><category scheme="https://emptdrawr.github.io/tags/indie-music/" term="Indie Music" label="Indie Music"/></entry></feed>
