@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Empt the Drawr</title><link>https://emptdrawr.github.io/</link><description>读书,看电影,听专辑,打代码,随意写点</description><generator>Hugo 0.109.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>emptdrawr@gmail.com (EmptDrawr)</managingEditor><webMaster>emptdrawr@gmail.com (EmptDrawr)</webMaster><lastBuildDate>Tue, 14 Feb 2023 22:00:18 +0800</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://emptdrawr.github.io/rss.xml"/><item><title>读书笔记-枪炮，病菌与钢铁</title><link>https://emptdrawr.github.io/posts/guns-germs-and-steel/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/guns-germs-and-steel/</guid><pubDate>Tue, 14 Feb 2023 21:27:20 +0800</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h1 id="prologue">Prologue&lt;/h1>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Empt the Drawr</title><link>https://emptdrawr.github.io/</link><description>读书,看电影,听专辑,打代码,随意写点</description><generator>Hugo 0.109.0 https://gohugo.io/</generator><language>zh-CN</language><managingEditor>emptdrawr@gmail.com (EmptDrawr)</managingEditor><webMaster>emptdrawr@gmail.com (EmptDrawr)</webMaster><lastBuildDate>Tue, 12 Mar 2024 15:47:58 +0800</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://emptdrawr.github.io/rss.xml"/><item><title>读书笔记-枪炮，病菌与钢铁</title><link>https://emptdrawr.github.io/posts/guns-germs-and-steel/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/guns-germs-and-steel/</guid><pubDate>Tue, 14 Feb 2023 21:27:20 +0800</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h1 id="prologue">Prologue&lt;/h1>
 &lt;h2 id="views">views&lt;/h2>
 &lt;p>The author begins this introduction with a personal experience: A friend asked him why European whites had more wealth and resources than African or Australian Aborigines. This question led to another:&lt;/p>
 &lt;p>&lt;strong>Why is wealth distributed in the world as it is today?&lt;/strong>&lt;/p>
@@ -445,52 +445,7 @@ tags:
 &lt;li>Hugo: &lt;a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">Host on GitHub&lt;/a>&lt;/li>
 &lt;li>神秘极客: &lt;a href="https://xbc.me/hugo-deploy/">Hugo部署方案&lt;/a>&lt;/li>
 &lt;li>Hugo: &lt;a href="https://gohugo.io/getting-started/directory-structure/">Directory Structure&lt;/a>&lt;/li>
-&lt;/ul></description><category domain="https://emptdrawr.github.io/categories/cs/">CS</category><category domain="https://emptdrawr.github.io/tags/hugo/">hugo</category><category domain="https://emptdrawr.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category></item><item><title>人的记忆是有限的，亲爱的不是吗</title><link>https://emptdrawr.github.io/posts/we-have-limited-memory/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/we-have-limited-memory/</guid><pubDate>Sat, 12 Nov 2022 15:44:35 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h2 id="没什么可说的了">没什么可说的了，&lt;/h2>
-&lt;p>看图吧。&lt;/p>
-&lt;img src="https://emptdrawr.github.io/随笔-人的记忆是有限的，亲爱的不是吗/image-20221112161020027.png" alt="image-20221112161020027" style="zoom: 40%;" />
-&lt;p>“我想，你不会在高高兴兴的时候写出任何东西。”&lt;/p>
-&lt;p>谈不上高兴，也并不悲伤，与此同时表达欲还在不断地流失。就像只有7秒记忆的金鱼无法学会马尔科夫链的推导，没有记忆的人也学不会如何做一个人。我说得太多，写得太多，画得太多，但对于没有记忆的人来说，都是转瞬即逝的湮灭；我曾以为那么多人的漠然是因为他们不识字，文盲，我知道这种感觉的，我也是文盲；后来才知道原来大家都看得懂中文，&lt;mark style="background: #CEAF91;">只是因为中文没有记忆，所以使用中文的人也没有记忆&lt;/mark> ；&lt;strong>然后是无穷无尽的漠然&lt;/strong>。&lt;/p>
-&lt;p>或许身体的记忆会比脑中的记忆更长久？我不禁出了一身冷汗；难怪最近的大学生开始有组织有纪律地集体爬行，原来他们是想用自己的身体去记住这块土地上生出的集体记忆！如此狡猾，如此心机沉重，不由得让人敬佩；敬佩之余这行为又开始诱惑我；这般便是团结力量大，集体的意志开始压着我的肺泡。&lt;/p>
-&lt;h2 id="聊两句">聊两句，&lt;/h2>
-&lt;p>和各位姐已经相顾无言好几天。昨晚好不容易挤了点话出来，现在又给忘记了。不过这是我的过错，记忆力上的衰退，宛如潜移默化的妥协，恰如那一句&lt;mark style="background: #CEAF91;">“19**无事发生。”&lt;/mark> 我脑子有限的空间填入了太多正确的、错误的集体记忆，以至于余下的空间太小，所以常常忘记自己接下来要做的事。金鱼吧？人类的祖先果然是从海底爬出来的，血缘上的回溯让一切都情有可原。&lt;/p>
-&lt;p>不过人还是应当记忆的，我们的记忆决定了个体的特异性；在一片没有过往又无事不在过往中的土地上，记忆是必要的；只有如此。&lt;/p>
-&lt;p>买两个大容量的移动硬盘，把自己的记忆传输到硬盘上，稳固的、现代的好方法；或是写点什么值得一看的，拍点什么值得一拍的，以此来记忆当下；果然后者太难。&lt;/p>
-&lt;p>不如说我如今话已经说尽，纯粹是因为舌头已经开始脱落，从我的身体里、我的口腔中剥离。最开始出现在舌根的是一些小小的孔洞，不过很快我就跟着学会用谐音来把这些孔洞填上；然后是缝隙，被标语、事件、横幅给割出来的缝隙；到现在我只能紧闭着嘴，以防与我的身体只有一丝连接的舌头、一张嘴就掉在地上。&lt;/p>
-&lt;p>说到这里我就羡慕起那些早早就已经换掉了舌头的人，每每看到他们，心中就激荡起一阵不可言表的崇拜之情：他们是如何的聪明，才能如此及时地猜透上边人的心思、晓得了他们喜欢什么；又是如何有取舍的决心，当机立断地迎着上边人的喜好去了；但他们牺牲之大，我是无法做出了。毕竟，谁能知道上边人喜欢吃爆炒人舌呢？&lt;/p>
-&lt;h2 id="监控摄像也是一种记忆">监控摄像也是一种记忆。&lt;/h2>
-&lt;img src="https://emptdrawr.github.io/随笔-人的记忆是有限的，亲爱的不是吗/image-20221112161205220.png" alt="image-20221112161205220" style="zoom:33%;" />
-&lt;center>&lt;font color='gray' size=2.5pt>据说看守地狱大门的恶犬也有三个头&lt;/font>&lt;/center>
-&lt;img src="https://emptdrawr.github.io/随笔-人的记忆是有限的，亲爱的不是吗/image-20221112161704157.png" alt="image-20221112161704157" style="zoom:33%;" />
-&lt;center>&lt;font color='gray' size=2.5pt>或许是晴天娃娃的头部横截面&lt;/font>&lt;/center>
-&lt;img src="https://emptdrawr.github.io/随笔-人的记忆是有限的，亲爱的不是吗/P1030278.jpg" alt="P1030278" style="zoom: 29%;" />
-&lt;center>&lt;font color='gray' size=2.5pt>我永远地看着你&lt;/font>&lt;/center>
-&lt;h2 id="翻箱倒柜地抄">翻箱倒柜地抄。&lt;/h2>
-&lt;blockquote>
-&lt;p>记住斯威登堡说过的话，&lt;strong>上帝赋予我们大脑以便让我们具备遗忘的能力。&lt;/strong>&lt;/p>
-&lt;p>&lt;em>《博尔赫斯谈话录》&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>博尔赫斯：那是前天或昨天，我记不清了。我日子过得总是稀里糊涂。他当过兵。他吃过苦。他经历过不幸。那天他忽然说了句他自己也不会明白到底是什么意思的话：“我痛恨记忆。”我觉得这话说得很好。我想我不会忘掉它，我要用它。我要把这句话据为己有。“&lt;strong>我痛恨记忆。&lt;/strong>”这句话说得挺漂亮。逃避世界，忘记世界。&lt;/p>
-&lt;p>&lt;em>《博尔赫斯谈话录》&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>想象是由记忆和遗忘构成，它是这二者的交融。&lt;/p>
-&lt;p>&lt;em>《博尔赫斯谈话录》&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>各种记忆之中，随着时间的推移，梦境和现实变成等价的东西。曾经发生过的和似曾发生过的境界逐渐淡漠。在梦幻和现实迅速消蚀的基点上，过去又和未来酷似。&lt;/p>
-&lt;p>三岛由纪夫*《奔马》*&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>那是一种足以改变世界的能量，即，危险的国民记忆。&lt;/p>
-&lt;p>马尔克斯 &lt;em>《我不是来演讲的》&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>我们&lt;strong>模糊的集体罪恶感&lt;/strong>，让所有的人，包括本应记录民族集体记忆的作家们，避开任何让人感到羞耻的事件印象。譬如说1945年2月在德累斯顿（Dresden）旧城，德国党卫队将六千八百六十五具尸体堆在一起烧毁，多亏了他们在特雷布尔卡（Treblinka）集中营的丰富经验。&lt;/p>
-&lt;p>伊恩·布鲁玛 &lt;em>《残酷剧场：艺术、电影与战争阴影》&lt;/em>&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="随便吧">随便吧。&lt;/h2>
-&lt;p>&lt;mark style="background: #CEAF91;">我实在是无话可说。&lt;/mark>&lt;/p></description><category domain="https://emptdrawr.github.io/categories/article/">Article</category><category domain="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category></item><item><title>学习记录-git命令行及repositories的管理</title><link>https://emptdrawr.github.io/posts/git-commands/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/git-commands/</guid><pubDate>Sun, 30 Oct 2022 02:59:50 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h2 id="windows中github的ssh-key配置">windows中GitHub的SSH key配置&lt;/h2>
+&lt;/ul></description><category domain="https://emptdrawr.github.io/categories/cs/">CS</category><category domain="https://emptdrawr.github.io/tags/hugo/">hugo</category><category domain="https://emptdrawr.github.io/tags/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/">个人博客</category></item><item><title>学习记录-git命令行及repositories的管理</title><link>https://emptdrawr.github.io/posts/git-commands/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/git-commands/</guid><pubDate>Sun, 30 Oct 2022 02:59:50 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h2 id="windows中github的ssh-key配置">windows中GitHub的SSH key配置&lt;/h2>
 &lt;h3 id="设置github对应的用户名和使用的邮件">设置GitHub对应的用户名和使用的邮件&lt;/h3>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
@@ -657,53 +612,7 @@ tags:
 &lt;li>Mr无愧于心: &lt;a href="https://www.jianshu.com/p/2e1d551b8261">git的add、commit、push的详细介绍&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://stackoverflow.com/questions/9537392/git-fetch-remote-branch">Git fetch remote branch&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://blog.csdn.net/qq_32439101/article/details/87191600?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-87191600-blog-78972568.pc_relevant_default&amp;amp;spm=1001.2101.3001.4242.3&amp;amp;utm_relevant_index=7">git push 却 403错误 解决方案&lt;/a>&lt;/li>
-&lt;/ul></description><category domain="https://emptdrawr.github.io/categories/cs/">CS</category><category domain="https://emptdrawr.github.io/tags/git/">git</category></item><item><title>必要的，非必要的，必不能要的</title><link>https://emptdrawr.github.io/posts/necessary-or-unnecessary/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/necessary-or-unnecessary/</guid><pubDate>Fri, 07 Oct 2022 23:31:27 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>秋天到得很及时，把浮躁的、翻滚的、怒热的都冲刷掉了。多余的形容词也被十月冲刷掉了，最后只剩下——金秋十月，..必要的，非必要的，静默的，必不能要的..。&lt;/p>
-&lt;p>寒潮席卷，每个人都无法幸免。该把衣柜翻腾一遍了，把被揉皱的带着霉味的毛衣取出来，再把刚刚凝结了2022年最后一点温度的夏装塞进箱子里、盒子里、袋子里等待霉味渐渐包裹它们。冷冽的天气是有好处的，用热门的词来形容，是“&lt;mark>很有氛围感&lt;/mark> ”。&lt;/p>
-&lt;p>夏天的燥热很难有氛围感，总是会让人想到汗味、让人反胃的裸露肌肤、闷热凝滞的空气、随着水蒸气消失掉的假日；即使有一点氛围感，也是在阴影里进行的，就像禁忌的文艺片，&lt;strong>一切故事在阴影里秘密展开&lt;/strong>。冷下来的秋天则完全不同。大白天走在街上，即使树都还绿着，也不免想到它们黄下来的样子。一地的落叶、温暖的墙砖、卡其风衣、额前的碎发、汤唯、砖红色围巾、木质调的香水，都是秋天特有的——“氛围感”从能指转换为所指的一瞬间。&lt;/p>
-&lt;p>走在10度的空气里，我不断循环卡兰卓的&lt;mark>《The Weeping Meadow》&lt;/mark> ，脑子里是一片白茫茫的河水、黑压压的人群和行舟、上世纪的尸体。9月初我就把《哭泣的草原》看完了，但这段调子却不断盘旋在我的头顶之上。懂乐理的人大概多听几遍就可以把它具象化为音符写下来、再用黑白琴键复现；但我是不懂乐理的，你知道，我只会说：这是首&lt;strong>适合10摄氏度、冷风稍大、阳光被阴翳掩埋的天气&lt;/strong>的曲子。&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008013919729.png" alt="image-20221008013919729">&lt;/p>
-&lt;p>&lt;mark>你说，&lt;b>音乐是必要的吗？&lt;/b>&lt;/mark>&lt;/p>
-&lt;p>《哭泣的草原》里边，流浪的希腊人居住在泥水地上的棚屋里、废弃的巨大剧场里，不断乔迁，却仍然随身带着他们的乐器。一把六弦琴，一支竖笛、一架手风琴，全都围在火堆旁；那隔着屏幕的温暖简直要随着音乐溢出。&lt;strong>对他们来说音乐是必要的，就像与故乡之间的隐隐连接&lt;/strong>——即使此生再也无法踏上那片温润的故土，也算是将故国孕育出的音乐打包成了乡愁，带在身旁：思念成疾时取出，冲饮一袋，缓解从肠胃燃烧到喉咙的愤怒和无奈，最终归于平静的一湾白水，再远远地眺着水的另一方。&lt;/p>
-&lt;blockquote>
-&lt;p>上头还画了手摇风琴——真正的技术奇迹——它满是笛孔、活栓和风管，发出甜美的颤音，有如哀鸣夜莺的巢穴：对瘸腿的老手来说，那是无价之宝，是残疾人士的丰厚收入之源，况且一般而言它是所有喜爱音乐的家庭不可或缺的。想象一下，..这些漆得精美绝伦的手摇风琴，由一群苍白的流浪小老头背着..，他们面容模糊，饱经沧桑，仿佛覆盖着一层蜘蛛网，而且..湿乎乎的风泪眼痴痴呆呆，憔悴的脸庞如风化开裂的树皮一样，既黯淡又质朴，此刻正散发着纯然是雨水和天空的气味..。&lt;/p>
-&lt;/blockquote>
-&lt;p>最近读到布鲁诺·舒尔茨在《沙漏做招牌的疗养院》里这么写（又一个我看不下去的波兰作家！），细看十分残忍。如同行尸走肉般的小老头，对他们来说，那架手风琴还是必要的吗？连同音乐？&lt;strong>生活呢，对他们来说生活又是必要的吗？&lt;/strong>&lt;mark>&lt;b>对我们呢？&lt;/b>&lt;/mark>&lt;/p>
-&lt;h2 id="栏杆是必要的夕阳是非必要的">栏杆是必要的，夕阳是非必要的&lt;/h2>
-&lt;p>喜欢吃的菜星期一中午吃，接着星期一晚上吃，然后星期二中午吃，之后星期二晚上吃，随后星期三又吃，每天都吃，总有厌烦的一天。像夕阳，好看固然是好看的，不过也只是好看罢了；&lt;strong>总是只有夕阳看，人是会厌烦的&lt;/strong>。脑子还没烦，一双毁于电子屏幕、在昏暗灯光下阅读的眼球就先烦了。&lt;/p>
-&lt;p>但昨天，又或是前天，我记不太清了。总之有一天，沉默地坐在石椅上的时候，我抬眼看到夕阳，像是米沃什的《礼物》里写的那样：&lt;mark>“直起腰来，我望见蓝色的大海和帆影”&lt;/mark>。我没看见大海，也并未见帆影，但直起腰来，我却看到那样一片夕阳——还是忍不住拍下来，人就是贱：嘴上说着看烦了、厌恶了、无感了，第一反应还是拿手机拍下来。&lt;strong>我们都是新时代巴甫洛夫的狗。&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008002215350.png" alt="image-20221008002215350">&lt;/p>
-&lt;p>但其实这张照片里最好看的是栏杆，没有想到吧？我没有拍到的是，栏杆上霸道地粘贴着一块警示公告牌：&lt;mark>“禁止翻越栏杆”&lt;/mark>。规矩总是很有意思，它以遏制恶念为目的，却无意中提供了更多实行恶念的方式。&lt;/p>
-&lt;blockquote>
-&lt;p>马德里一家小酒馆里，挂着一张公告：..禁止歌唱..。&lt;/p>
-&lt;p>里约热内卢机场的墙上，挂着一张公告：..禁止玩弄行李车..。&lt;/p>
-&lt;p>也就是说：仍有人在歌唱，仍有人在玩弄行李车。&lt;/p>
-&lt;/blockquote>
-&lt;p>倒不是说我想翻越栏杆，只是想起来很有意思：&lt;strong>栏杆外的夕阳并不总有，栏杆却一直有，所以栏杆是必要的，夕阳却是不那么必要的&lt;/strong>；但更有意思的是，栏杆外还有一层玻璃，玻璃外还有一层纱窗（总是在损坏），据说玻璃下边还要加一种限位器。我从我弟弟一出生就看着他长大，可以用经验向你保证：连一岁的小孩子都不需要那么多栏杆来保护、防止他掉下去。费了那么大的心思，&lt;strong>我们竟没有一岁的婴儿受信任——受信任可以保障自己的安全&lt;/strong>。&lt;/p>
-&lt;h2 id="哲学是非必要的密码学是必要的">哲学是非必要的，密码学是必要的&lt;/h2>
-&lt;p>有个友邻之前说，&lt;mark>如果把法国中学生的哲学课程体系纳入我们的教育体系，互联网上百分之九十的争论都不会发生&lt;/mark>。我没有了解过法国中学生的哲学课程体系，中文已经很困难了，再看拉丁字母实在是头疼。&lt;/p>
-&lt;p>但这并不意味着我觉得她说得不对，恰恰相反，我觉得她说得特别对——虽然我并不懂哲学，只是从紧闭的书页之间剪了几个晦涩的词语和概念出来，反复咀嚼、消化、反刍、再咀嚼，像嚼槟榔一样上头（我没有嚼过），最后竟然会产生一种自己还挺懂哲学的错觉——但事实是我并不懂哲学。&lt;/p>
-&lt;p>不过我还是认可她说的话：&lt;strong>我们太过缺少哲学教育&lt;/strong>，以至于许多人能够解出电磁学方程、默写下正态分布的概率分布函数、徒手写出红黑树的C++语言实现代码，却逃不过虚无主义的囚笼：那么多挑灯苦读的夜晚、失去的睡眠、焦虑，堆积到最后，又有什么意义呢？如果不能考进前10%，如果不能保研，如果考研无法上岸，如果拿不到奖学金，如果延毕了、休学了、被生活压垮了，还有什么意义呢？&lt;/p>
-&lt;p>生活的意义，&lt;strong>古希腊人认为是“更快乐的生活”，启蒙运动的人说是“理性”&lt;/strong>，还是反过来的？我记不太清了。&lt;/p>
-&lt;p>&lt;mark>总之事情是这样的：&lt;/mark>&lt;/p>
-&lt;p>星期三下午，我在闷热的教室里——实际上星期三是处在寒潮正中央的一天，既没有积累起合适的温度，又刮着一阵温和的冷风，但教室还是不合时宜地闷热，像回到了粘腻的夏天——接受密码学课程的熏陶，据说我校著名校友是中国密码学的第一创始人（笑也不合适，不笑也不合适，偷笑更不合适，但还是在此微笑一下吧）——可惜的是我实在太不擅长数学，尤其不擅长堆砌在英文字母里的一串数字。还有加深了二元论（我最讨厌的二元论）基础的数字，看着头疼！于是我&lt;strong>被迫地、并非出于自己第一志愿地、经过了激烈思想斗争最终不得不屈服于气温等诸多因素地&lt;/strong>，拿出电脑翻看一本哲学笑话集。&lt;/p>
-&lt;p>为什么我们不开一门课程名为：笑话学，或是哲学笑话学，或是笑话哲学，也可以是哲笑话学呢？既然：&lt;/p>
-&lt;blockquote>
-&lt;p>在圣克鲁斯——政治正确的首都之一——的大学里，我被告知他们呢正在发明一种笑话，好笑但没有羞辱和伤害，甚至连对某人的取笑也没有，如“当一个三角碰到一个圆会发生什么？”&lt;/p>
-&lt;/blockquote>
-&lt;p>你看，这也能成为一个笑话，那么&lt;mark>&lt;b>不对称密码&lt;/b>不得不和&lt;b>对称密码&lt;/b>在密码分类体系上处于对称的位置&lt;/mark>何尝不是一个笑话呢。（如果你怀疑我，请看下图）&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008015305025.png" alt="image-20221008015305025">&lt;/p>
-&lt;h2 id="过程是必要的结果是非必要的">过程是必要的，结果是非必要的&lt;/h2>
-&lt;p>应试的一生概括如下（千禧年后特供版，为由于没有得到金牌而被指责的运动员们定制（放轻松，不是为学生定制的））：&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008001939475.png" alt="image-20221008001939475">&lt;/p>
-&lt;h2 id="瑕疵是必不能要的">瑕疵是必不能要的&lt;/h2>
-&lt;p>楼下的猫咪，我为她取名为奥利奥，小小的一只。从她的头顶往脊背上摸，除了光滑的黑白两色皮毛还能摸到瘦骨嶙峋的背，那么小，仿佛一只手就能捏碎她的脆弱骨架。某天晚上恰好碰见她的主人，在认真地为她耳朵两侧涂药膏，说是长了猫藓，尾巴上也有那么一小块，褪掉了毛。&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E9%9D%9E%E5%BF%85%E8%A6%81%E7%9A%84%EF%BC%8C%E5%BF%85%E4%B8%8D%E8%83%BD%E8%A6%81%E7%9A%84/image-20221008013022856.png" alt="image-20221008013022856">&lt;/p>
-&lt;p>接下来的一周（或是两周），喂她、抱着她、路过摸摸她的人越来越多，大都知道她长了猫藓，但还是会忍不住看一看、摸一摸，喂她吃的。那毕竟是小猫啊。&lt;/p>
-&lt;p>我想我是有点羡慕她的，即使生病了、有瑕疵了、蔫蔫的，还是会有人无条件地爱她。瑕疵在小猫身上是不存在的。但人总是有很多瑕疵的，&lt;b>比如“作为我们学校的产品不够合格”啦，比如“明明课没有那么多还在喊累”啦，比如“不遵守防疫规定”啦，不够正能量啦……&lt;/b>云云。&lt;/p>
-&lt;p>下辈子一定当一只小猫，坏心眼地只吃别人的爱，一口一口地。&lt;/p>
-&lt;h2 id="非必要的">非必要的&lt;/h2>
-&lt;p>穿衣服是必要的，穿漂亮衣服是非必要的；走路、出门做核酸是必要的，走路、出门喝酒是非必要的；聚集起来排队做核酸是必要的，聚集起来开parklife是非必要的；借阅《现代操作系统》是必要的，借阅《现代戏剧选》是非必要的；用笔记本电脑打代码是必要的，用笔记本电脑打无病呻吟的文字是非必要的；耳朵发炎出校门看医生是必要的，耳朵发炎只是想出校门吃麦当劳是非必要的；生是必要的，活是非必要的。&lt;/p>
-&lt;p>然后是一张不断延长的..必要-非必要..清单。&lt;/p></description><category domain="https://emptdrawr.github.io/categories/article/">Article</category><category domain="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category></item><item><title>看看电影-如何实现电影电视剧资源自由</title><link>https://emptdrawr.github.io/posts/how-to-find-movies/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/how-to-find-movies/</guid><pubDate>Mon, 03 Oct 2022 11:42:42 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>本文主要包括：&lt;strong>如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong>，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p>
+&lt;/ul></description><category domain="https://emptdrawr.github.io/categories/cs/">CS</category><category domain="https://emptdrawr.github.io/tags/git/">git</category></item><item><title>看看电影-如何实现电影电视剧资源自由</title><link>https://emptdrawr.github.io/posts/how-to-find-movies/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/how-to-find-movies/</guid><pubDate>Mon, 03 Oct 2022 11:42:42 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>本文主要包括：&lt;strong>如何寻找国内视频平台未收录但想看的电影（剧）资源——分为正版和盗版途径、如何通过BT/磁力的方式下载电影文件、如何加载自己想要的字幕（如果有只想看英文或其他语言字幕的需要）&lt;/strong>，以下载佐杜洛夫斯基的《圣血》为例。&lt;/p>
 &lt;p>如果你已经会这些技能，则本文对你来说是浪费时间。&lt;/p>
 &lt;h2 id="总览">总览&lt;/h2>
 &lt;h3 id="选择正版还是盗版">选择正版还是盗版？&lt;/h3>
@@ -823,22 +732,7 @@ tags:
 &lt;p>需要注意的是，&lt;strong>任何网站如果有诸如下图的界面、让你点击Allow/允许通知，&lt;em>都请不要点击&lt;/em>，直接关闭该网页再次点击下载链接即可&lt;/strong>。&lt;/p>
 &lt;img src="https://emptdrawr.github.io/电影-如何实现电影资源自由/image-20221003140450982.png" alt="image-20221003140450982" style="zoom:33%;" />
 &lt;p>可以看到成功加载了刚刚下载的英文字幕，至此大功告成！&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></description><category domain="https://emptdrawr.github.io/categories/movies/">Movies</category><category domain="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/">电影资源</category></item><item><title>决裂</title><link>https://emptdrawr.github.io/posts/story-breaks/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/story-breaks/</guid><pubDate>Tue, 19 Jul 2022 21:56:00 +0800</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>我用手触碰她睫毛时，睫毛会一片一片地扑闪。&lt;/p>
-&lt;p>像蝴蝶翅膀还是含羞草叶？流于庸碌的比喻。我贴近看时会觉得像一片弯曲的蕨类植物，扎根在毛细血管与薄薄的一层皮肤之间，然后是虹膜、晶状体、视神经，以及更多的血管。我问她是否知道关于蕨类的故事，然后未经倾听者同意便开始讲述。&lt;/p>
-&lt;p>据说位于大西洋温带地区的岛屿上长有一种蕨类，它们会弯曲自己的茎生长，缓慢地长进泥土之中，像一只埋在沙子里的鸵鸟、被割去了双脚和喙，留下的只有一弯颈项，立在地面之上。当这些蕨类被人类目睹时，常常会吓到这种脆弱的恒温动物——并非出自它们的本意，只能怪人类自己从未见过这样的植物。&lt;/p>
-&lt;p>第一次发现这种蕨类的人并非植物学家或是随船旅行的博物学家，而是从附近岛屿摆渡而来的岛屿土著居民，说着发音尖锐的语言，不过那时并没有任何人知道这是分棵生长的植物，探索新岛屿的土著们普遍认为这是某种树的藤蔓。由于这样突出地面的弯曲茎条几乎布满了整个岛屿——除去盐碱化过严重的临海土地——土著们逐渐认为所有的茎条都是一棵树的藤蔓，而那棵树伫立在岛屿的中心，守护这座尚无人烟的岛屿。于是他们整个族群都迁徙到了这个岛屿之上，出于某种古老的神灵信仰：他们认为岛屿中心那棵树是世界的中心，而它的藤蔓会埋入沙子、没入海洋、越过岩石遍及整个世界。&lt;/p>
-&lt;p>而这个世界最有趣的地方在于：人类的认知总是与现实之间存在巨大的错位。事实证明这个说着不同于世界上大部分种族的语言的族群非但不位于世界的中心，反而处于世界的边缘——语义和地理双重意义之上。他们所生活的岛屿——也就是有着奇特藤蔓的那一个——位于大陆板块的边缘之上、三块板块的交界点上。当猛烈的地震开启地面上的裂缝、带出隐没于岛屿之下的岩浆时，几乎生活在岛屿上的所有人都在神庙中祭祀他们所信仰的树神。&lt;/p>
-&lt;p>唯一逃过这场天灾的人是一组从祭祀中溜出去的孩子，他们的本意是趁着没人注意时挖掘所谓“神树”的藤蔓。一个族群中总是有这样的叛逆者、偶像破坏者，妄图发掘绝对信仰的本质。不过他们并未发现这些藤蔓的本质是蕨类，反而认为是恰时的地震将整条藤蔓破坏成了节段。在逃离地震与岩浆的慌乱之中，他们还是被埋藏于骨血之中的信仰本能驱动、带走了几条藤蔓节段——也就是蕨类棵株。而在滚烫海浪的颠簸之后，耗尽力气的孩子们把如同浮木一般支撑了他们的藤蔓全部吞下。&lt;/p>
-&lt;p>幸运的是他们被过往的船只打捞起来，船员惊讶于他们尖利的语言系统，错误地将所有孩子视为哑巴——但这并不妨碍他们在船上务工。从前海岛生活中留存下来的记忆让他们拥有出生在陆地的孩子难以拥有的技能，早上天一擦亮他们便知道今日是需要将鲜鱼切片研制还是需要帮忙清理巨大的渔网。&lt;/p>
-&lt;p>厄运驱使他们开始使用船员的语言。其中一个孩子在早上醒来之后发现自己无法再视物，与他相邻而眠的另一个孩子在看到他的眼睛之后大哭起来。迷信的船员们决定将他抛入海洋，祈求风浪与海水能够洗净不洁之物。而剩下的那几个孩子，他们在看到被扔下船的同伴的那一刻就明白，这是属于他们的诅咒：扎根长入眼球的睫毛正像是他们曾吞下的神树的藤蔓，两端都牢牢生长在血肉之中，只留一段如同弯月的睫毛长在眼皮之外。&lt;/p>
-&lt;p>他们尝试一天学更多的单词，希冀能够向船员解释清楚这诅咒。然而在他们能够说出简单的句子之前，神树的诅咒便一个接一个让这群逃离了世界中心的孩子全部失去了光明。&lt;/p>
-&lt;p>“听起来很难过。”&lt;/p>
-&lt;p>“不，这是诅咒。那条船靠岸时只剩下了一半的船员，剩下的人永远都葬于海洋的鱼腹之中。”&lt;/p>
-&lt;p>“活下来的那一半船员呢？”&lt;/p>
-&lt;p>“他们没有死在海上的福气。像鸵鸟会将头埋入沙漠当中一样，他们在睡梦之中行走到水源附近，溪流或是一片湖，然后在那里生根。”&lt;/p>
-&lt;p>“生根是什么意思？”&lt;/p>
-&lt;p>“字面意思。他们将头和脚都埋入土中，然后慢慢变成了一棵蕨类植物。”&lt;/p>
-&lt;p>我告诉她，你有很美的睫毛，恰到好处的弯曲弧度，像一片蕨类植物。&lt;/p></description><category domain="https://emptdrawr.github.io/categories/article/">Article</category><category domain="https://emptdrawr.github.io/tags/%E6%95%85%E4%BA%8B/">故事</category></item><item><title>读书笔记-娜塔莎之舞-第一章</title><link>https://emptdrawr.github.io/posts/read-dance-of-natasha/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/read-dance-of-natasha/</guid><pubDate>Wed, 06 Jul 2022 18:59:07 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
+&lt;p>&lt;img src="https://emptdrawr.github.io/%E7%94%B5%E5%BD%B1-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%E8%87%AA%E7%94%B1/image-20221003140759841.png" alt="image-20221003140759841">&lt;/p></description><category domain="https://emptdrawr.github.io/categories/movies/">Movies</category><category domain="https://emptdrawr.github.io/tags/%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90/">电影资源</category></item><item><title>读书笔记-娜塔莎之舞-第一章</title><link>https://emptdrawr.github.io/posts/read-dance-of-natasha/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/read-dance-of-natasha/</guid><pubDate>Wed, 06 Jul 2022 18:59:07 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h2 id="导读作者导言">导读+作者导言&lt;/h2>
 &lt;p>导读主要总体讲述了俄罗斯文化的基调、将“苏维埃文化”作为一个切入点向后溯洄俄罗斯的文化史。&lt;/p>
 &lt;blockquote>
 &lt;p>“苏维埃文化” 是政治型的国家文化，而非历史型的民族文化，因为“苏维埃人”“苏维埃社会” 和“苏维埃国家”本身就是政治概念，而非历史上通用的民族概念。“苏维埃文化”是较短时间形成的主观的动员型文化，非长时期渐进形成的客观的进化型文化，它是苏维埃政权自上而下的行政动员和苏联人民自下而上的主动响应与主动创造的双向作用而形成的。“苏维埃文化”是大众型文化，而非精英型文化，因为此种文化的创造者是广大的苏联人民，而非仅限于少数政治精英和知识精英。（p.vi）&lt;/p>
@@ -1042,73 +936,4 @@ $$&lt;/p>
 &lt;p>与采用大量错落鼓点制造紧张感、对峙感的前三首不同，第四首Love Ridden更加舒缓，钢琴配上Fiona拉长了的唱腔，也显得更加悲伤。“And in a little while, we'll only have to wave, No, not 'baby' anymore”，仿佛永别前的最后通牒，悲伤中带着决绝，又长舒了一口气。&lt;/p>
 &lt;p>而下一首Paper Bag从一开头就使用了更轻快的鼓点与旋律，似乎让人以为女主角已经走出了一段伤害大于温存的关系，紧接着却用“Hunger hurts, but I want him so bad, it kills”告诉你，制造出的快乐旋律只是一个纸做的假壳，因为女主角is gonna to make A Mistake，但很不凑巧，A Mistake这首歌并未惊艳到我。&lt;/p>
 &lt;p>Fast As You Can或许和首曲一样抓人，也或许是因为随着歌词推进，女主角又回到了对峙的状态、旋律又开始诡秘而紧张。“I may be soft in your palm but soon I'll grow hunger for a fight”，似乎这种拉扯的不健康关系已经成为了一个无法打破的循环。显然，女主角自己也深知这一点，Get Gone中的“How many times do I have to say to get away, get gone？”揭示了这种不断循环往复的争吵、对抗、脱离、回归、再争吵已经成为无法愈合的伤口，结痂又撕开、撕开又结痂，不断流血又不断贪恋痛苦。&lt;/p>
-&lt;p>尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p></description><category domain="https://emptdrawr.github.io/categories/music/">Music</category><category domain="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/">乐评</category><category domain="https://emptdrawr.github.io/tags/indie-music/">Indie Music</category></item><item><title>荒谬日子</title><link>https://emptdrawr.github.io/posts/story-absurd-days/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/story-absurd-days/</guid><pubDate>Sat, 26 Feb 2022 01:11:24 +0800</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>又一个荒谬日子降临在花园里。不过我很幸运，没有被这荒谬日子砸中，不因为其他的，不是因为我是一个纯正的实用主义者、反对一切虚无和无病呻吟——不是的，我没有被荒谬日子砸中的唯一原因是我没有花园，只能窝在自己的一张床上，窝在书桌下方的地板上，思考终极问题。不过我早就知晓了这个终极问题的答案：42。宇宙的终极答案是42。&lt;/p>
-&lt;p>没有荒谬日子的时候多少有些无趣，我不太愿意走出门，害怕被鬼影捕捉。这是我无法在这个世界上活得太好的最大原因之一，我对“鬼影”过敏，也就是“镜头”，我们在隐藏网络社区里把镜头叫做鬼影，有点复辟十九世纪思想的味道，面对刚刚被发明的照相机的人们惊慌失措，大喊着那个闪亮的木盒子会吸走人的灵魂。我们这些对镜头过敏的人就是这样的，有点思想腐朽，有点过于保守，但确实安全。&lt;/p>
-&lt;p>但实在是太无趣了，我的冰箱里也没有其他可以吃的东西，除了牛奶，不太行，我有乳糖不耐受症状，那瓶牛奶是某个拼命想让我过上健康生活的前任买的，她很努力想让我活成人样，但失败了。和任何一个试图靠近我建立亲密关系的人一样，她最后飞一般地跑走了，我听着她摔门、下楼，自己默不作声地继续假装睡觉。不过这还是改变不了我一点食物都没有的事实。综上所述，我得出一趟门，找点乐子，买点吃的。&lt;/p>
-&lt;p>街上的盛景和我料想的差不多。几乎每一户人都聚集在花园里看他们的荒谬日子，要我说这有点蠢。他们把“荒谬日子”叫做“新闻”，不过有点历史常识的人都知道，“新闻”已经随着人类的第一次灭绝一起灭绝了，现在的“新闻”几乎都是随机爬虫抓取的字段拼接，一些图片，一些莫名其妙的日期，但他们爱看，像观看一个私人阿莱夫。所以我更宁愿把那些东西叫做“荒谬日子”，小时候我会跟随父母一同观看，因为每一户的“荒谬日子”是定量发送的，我很难有自己私人的荒谬日子。后来——也就是现在，我几乎没法供应自己的生命运转，哪来心思去看荒谬日子。&lt;/p>
-&lt;p>荒谬日子是不被允许互相转借的，它们很神奇。占地面积极小，几乎可以永久保存，但不被允许转借。从前在学校的时候会总会有小团体在内部互相交换荒谬日子的信息，每个人说一句，每个人用一个日子换另一个日子，仿佛一出后末日时代的十日谈。我也曾经干过这种事情，不为别的，只因为这样的行为被禁止，所以干起来格外刺激。&lt;/p>
-&lt;p>人们不被允许交换新闻的日子理，彼此都过得格外安好，一旦开始交换，就发生了口角冲突——我的意思是，他们有的人看到火星人降临地球触发毁灭按钮啦，有的人看到恐龙复活啦，有的人看到火星人骑着恐龙围剿人类啦，有的人看到人类把火星人串起来烤着吃啦，云云。大家看到的东西都太不相同，每一个人都只相信自己亲眼所见的那一个阿莱夫。学生时代的团体总是年轻气盛，他们洋溢着荷尔蒙掐架，一拳一处鲜血横流。我会捂嘴，不是为了堵住失声的尖叫，而是为了掩饰自己的大笑。&lt;/p>
-&lt;p>实在是——实在是太好笑了！想想那场景，他们为了争论做火星人烤串的时候究竟应该放糖放盐还是放孜然争论不休。最好笑的一点是：他们——我们所有人都已经失去味觉，这些名词无外乎意味着颜色和颗粒大小上的差异。真有人会因为盐还是糖争论不休吗？&lt;/p>
-&lt;p>不重要，重要的是我没钱了，但我却非常需要、非常非常需要买点东西回去吃。翻遍了每一个猫粮盆的底我都没凑齐食物采购的钱——我不养猫，只是会时常幻想自己有一只猫，或是一屋子猫。实在是想得没办法的时候就会下单买几个猫粮盆，假装我会喂我那些并不存在的猫。但是很难，很难，后末日时代只有绝顶的有钱人才养得起宠物了。&lt;/p>
-&lt;p>最后我决定去造访老朋友，在她的作坊里看看有没有什么赚快钱的方式。&lt;/p>
-&lt;p>她看到我的第一眼就想把我轰出去把门锁上，但我把眼睛凑到她面前说，求求你，甜心，我真的没钱了，把我的眼睛拿去吧，换点钱，我知道这可值钱了。她说滚，没人要你那双近视过度的死鱼眼。我没有伤心，因为她说的是大实话，每一个字都证据确凿，于是我接着笑嘻嘻地问她肝脏生意还好不好做。她还是让我滚，说两条街之外的人都知道我是个酒鬼，没人想要一个酒鬼的肝脏。这也是句我没法反驳的实话。&lt;/p>
-&lt;p>最后她还是让我吃了顿霸王餐。我坐在她的工具桌上吃晚餐，或者是午晚餐，也可能是早午晚餐——我记不太清了，自从末日之后地球的白天黑夜就一直很紊乱，我也跟着紊乱。她气呼呼地让我别再来第二次，我说甜心，你上次也这么说，我知道你爱我，所以我也爱你，我们是一对在后末日时代混吃等死的贱货猫咪。&lt;/p>
-&lt;p>我走的时候她跟我说让我最近别再去老影院看书了。我说你学坏了、你忘记了我们为什么要一起建立老影院、为什么我们要把能用自己生命最大限度收集到的老书和老光碟都放在那里、你跟着那些当权者一起剥夺我阅读前末日时代书籍的权利。她说你想死就去死，我只是告诉你一声老影院在交战区，总是有轰炸和机器巡逻，他们今天开战了。&lt;/p>
-&lt;p>我的第一反应是有些好笑，即使世界末日都阻止不了他们打起来，难怪会因为放盐还是放糖吵得不可开交。第二反应是我真的很舍不得那里，虽然藏在地下，但人类掘地三尺的能力增长得过于让人瞠目结舌。第三反应是，我得去其他地方找点乐子。&lt;/p></description><category domain="https://emptdrawr.github.io/categories/article/">Article</category><category domain="https://emptdrawr.github.io/tags/%E6%95%85%E4%BA%8B/">故事</category></item><item><title>爱情和其他不可示人的眼泪</title><link>https://emptdrawr.github.io/posts/love-and-other-tears/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/love-and-other-tears/</guid><pubDate>Sat, 02 Oct 2021 04:10:43 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;p>&lt;strong>我一直有把爱转换为痛苦的能力。&lt;/strong>&lt;/p>
-&lt;p>很大程度上我对于“爱”的痛苦来自于割裂：爱的传统意味与我的切身感受之间的割裂让我感到不适。人类编织的爱的窠臼俘获了每一个个体，一代又一代的后人口耳相传，语句被风捕获，他们说：&lt;/p>
-&lt;p>爱很美好。爱是四月春风，拂面而过，滋养精神。&lt;/p>
-&lt;p>我感到自己被热爱“爱”的种族抛弃。就像动物族群里拥有白色皮毛的那一只，人类称赞其为美丽，只有动物自己知道这是自杀之道。我想我的确一直在干慢性自杀的事情，像是总是让自己被难以消化的情感折磨，像是对自己的放任自流，像是摄入酒精，我活着的每一天都在为死亡铺垫。&lt;/p>
-&lt;p>会塔罗的朋友半夜和我打电话，她说她用塔罗给我算命。我的生命里有“2”这个数字，意味着二元对立，意味着我身上总是有两种截然不同的特性在打架。我想她应当是很会塔罗牌了，所以才能如此精准优美地概括我的精神、我的命运。也算是一种安慰，让我更能接受自己总是把爱和痛苦互相转换。&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/image0%5B995%5D.jpeg" alt="image0[995].jpeg">&lt;/p>
-&lt;p>看《百年孤独》的时候就觉得，马尔克斯笔下的人物也擅长把爱与痛苦杂糅。阿玛兰妲爱法国舶来的乐师，为没有回应的爱情发烧、把自己关在浴室里一封又一封地写信，爱得给他的未婚妻、自己的姐姐丽贝卡下毒，但当她终于与法国乐师一同漫步庭院朗读十四行诗时，当皮埃特罗对她说“我们下个月就结婚时”，阿玛兰妲只是继续做自己的活计。&lt;/p>
-&lt;blockquote>
-&lt;p>“别天真了，克里斯皮，”她微笑着，“我死也不会和你结婚的。”&lt;/p>
-&lt;/blockquote>
-&lt;p>初读到这里我很困惑，并不明白阿玛兰妲为何在爱而不得、终成眷属之后会这么冷血而无情地拒绝皮埃特罗。她的无情甚至不像美人蕾梅黛丝的超脱世俗，后者是用纯然天真、剖析本质的目光看前赴后继的男人为爱她不得而痛苦自杀。但阿玛兰妲不是，她专门伤害自己爱的人和爱自己的人，用无情的拒绝树立起铜墙铁壁，像是她直到死去都没有摘下来的黑纱，阻隔了她与“健康的爱”。&lt;/p>
-&lt;p>在看完整本书后，现在想起来突然有些明白阿玛兰妲。只是因为她的痛苦从爱当中生长，内化为她懦弱、恶毒的自我的一部分，她没有那样的勇气再去进入所谓的“健康的爱情”，甚至没法好好面对自己的家人。因为爱于她而言有切肤之痛。每当她看见皮埃特罗·克里斯皮，她就会想起自己放在茶里的鸦片酊，想起小蕾梅黛丝的葬礼，想起自己为爱而作出的滔天之罪，想起家庭的痛苦、马孔多的阴郁。她的爱不是阳光雨露，甚至不是平淡之水，而是沼泽，捕获脆弱之自我，引诱灭顶之灾。&lt;/p>
-&lt;p>也就是说，&lt;strong>我的痛苦从爱当中生长，内化为我懦弱、恶毒的自我的一部分。&lt;/strong>&lt;/p>
-&lt;p>极度认同《爱情和其他魔鬼》里药剂师阿布雷农肖规劝卡耶塔那时说的：&lt;/p>
-&lt;blockquote>
-&lt;p>“爱情是一种违背天性的感情，它把两个素不相识的人带进一种自私的、不健康的依赖关系之中，感情越是强烈，就越是短暂。”&lt;/p>
-&lt;/blockquote>
-&lt;p>有一个理论是说爱并非是一种长久的情感的情感状态，而是微小瞬间喜爱的积累。像是倾听时看着你的美丽眼睛，像是抚摸一个恰到好处的纹身，像是分享甜食时嘴角的蛋糕碎屑，像是半夜在马路上漫无目的地游走爆发的笑声，像是流云又像是尘埃，弥漫在空气里足以让鼻炎患者时时刻刻惦记。于是更加合情合理：&lt;/p>
-&lt;p>&lt;strong>爱就是痛苦。&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>爱是地狱冥犬。&lt;/strong>&lt;/p>
-&lt;p>之前从菲比的采访视频里了解到“天堂猎犬”的说法，关于清修养身、侍奉上帝和信仰的人被世俗之欲猎获。我想，和hound of heaven相对应，爱就是dog from hell，垃圾派诗人布考斯基用一句love is dog from hell戳破时空，刺痛为掩埋“爱就是痛苦”这一真相的男男女女。&lt;/p>
-&lt;p>![hound from heaven](/随笔-爱情和其他不可示人的眼泪/hound from heaven.jpg)&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/fleabag.jpg" alt="/随笔-爱情和其他不可示人的眼泪/fleabag">&lt;/p>
-&lt;p>说起《伦敦生活》，爸爸对菲比的角色说，“你比我们任何人都更懂爱，所以才会觉得爱很痛苦”，看时泣不成声。&lt;/p>
-&lt;p>这是我不可示人的眼泪。&lt;/p>
-&lt;p>我记得自己时常戴耳机、面对屏幕、独自一人地蜷缩哭泣。也经常性地躺在被子之下平静地哭。黑暗之中只听得到呼吸声。&lt;/p>
-&lt;p>周四上大语课，老师问“你最讨厌或是最喜欢哪个网络流行语”。我没有回答课堂提问的习惯，但在心里默默准备好答案：最讨厌的莫过于“网抑云”。用一种调笑的方式去攻击他人的脆弱，在本该自由表达的土地上分裂割据，将情感丰盈而敏感之人驱逐出境，我想到玫瑰少年的悲剧，想到躲在隔间里哭泣的男孩。只用单单一个词语就全盘否定掉人类悲剧的丰富性，不由得感叹语言的攻击性。热情奔放的语言说“三只忧伤的老虎”，内敛衰老的语言说“三人成虎”，莫不过是使用这语言的人民的映射。&lt;/p>
-&lt;p>不过或许确实得接受事实：不是所有人都有尊重他人脆弱权利的礼貌。他们无法理解那种感觉：面对宿舍楼里的镜子刷着牙，好像这就是普通的一天，却突然面对自己忍不住失声痛哭，不得不捂住脸用水吞没眼泪，以便不让别人发现。&lt;/p>
-&lt;p>高中的时候常常半夜在网络上无病呻吟。我当然知道人类的悲欢并不相同，一个人只会觉得散发自己痛苦的另一个人吵闹。但偶然一次听从前的朋友告诉我，我们共同的一位同学常常将我的动态当作一种谈资去和她说。顿时觉得悲哀。我倒也不觉得尴尬，也不觉得愤怒，只是为他生活的乏味和我那时的愚蠢感到悲哀。&lt;/p>
-&lt;p>话是如此说，但我确信那时候我的痛苦是切肤入骨的。梦想做这片土地的骑士，捍卫每个人脆弱的权利，也捍卫过去的我脆弱的权利。此权利详述如下：&lt;/p>
-&lt;p>在半夜被捉住躲在厕所哭时，不被质问、而享有一个温暖拥抱的权利。&lt;/p>
-&lt;p>如果以后有一天人类发明出了时光机，我一定会跑回那个夜晚去拥抱她。开玩笑的，我已经记不清是哪一天了。但看了sex education的一篇影评之后，我学会想：&lt;strong>如果我是自己的小孩，我会怎样让自己过得更好；如果我是自己的父母，我会怎样让自己更加敢于爱人。&lt;/strong>&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/image0%5B996%5D.jpeg" alt="image0[996]">&lt;/p>
-&lt;p>《春日序曲》开篇第七页就用以一种凄淡漠然的语气叙述母子关系：&lt;/p>
-&lt;blockquote>
-&lt;p>真正的伤害不是她但愿没说出口而我却永远忘不了的尖刻话语，真正的伤害是我们的亲情：它失去了温馨、自发性，而成为一种刻意的、有意识的、凄惨的亲情。我们一定也都体会到，这么容易放下只不过是因为亲情变得淡薄。&lt;/p>
-&lt;/blockquote>
-&lt;p>将这本书借给我的朋友曾经边走边对我说，她觉得亲情凄惨而淡薄，血缘关系鞭笞无数人掏空心思竭尽全力去维护表面美好。或许一口咬定“血浓于水”和宣扬“爱很美好”的是同一群人。他们编造这些谎话的目的就是把我们这些苟活在现实罅隙里的人割席出“正常人类”之列。&lt;/p>
-&lt;p>而将争吵、猜疑、不信任、决裂、眼泪、伤害、痛苦与爱——爱情、友情、亲情，和任何熟悉之人展开足以称之为“爱”的情感链系——自洽入“我”当中，让我能够平静地接受这些鸡飞狗跳。&lt;/p>
-&lt;p>看完《悉达多》，觉得黑塞的确写成长小说写得深刻刺骨，不管是《悉达多》还是《德米安》都有和谐统一、二元对立又相互兼容的思想，黑塞写爱情一面是天使，一面是魔鬼，是人性和兽性、至高的善和极大的恶融为一体。我想爱就是如此。爱是安慰。爱是痛苦。&lt;/p>
-&lt;p>我把亲情与爱情揉在一起乱写一通，因为人与人之间的情感系带总是具有共通性，爱总是有共通性，就如眼泪总有共通性。几十个小时过去，我还是不明白那天早上自己为何在盥洗间面对镜子哭得如此惨烈，但我想痛苦就是爱，即使心怀溢出容器的悲痛，我也随时打算去爱。借用黑塞的话，如下。&lt;/p>
-&lt;p>&lt;img src="https://emptdrawr.github.io/%E9%9A%8F%E7%AC%94-%E7%88%B1%E6%83%85%E5%92%8C%E5%85%B6%E4%BB%96%E4%B8%8D%E5%8F%AF%E7%A4%BA%E4%BA%BA%E7%9A%84%E7%9C%BC%E6%B3%AA/IMG_1639%5B992%5D.JPG" alt="IMG_1639[992].JPG">&lt;/p></description><category domain="https://emptdrawr.github.io/categories/article/">Article</category><category domain="https://emptdrawr.github.io/tags/%E9%9A%8F%E7%AC%94/">随笔</category></item><item><title/><link>https://emptdrawr.github.io/posts/%E5%9B%BE%E4%B9%A6%E6%80%BB%E7%BB%93/</link><guid isPermaLink="true">https://emptdrawr.github.io/posts/%E5%9B%BE%E4%B9%A6%E6%80%BB%E7%BB%93/</guid><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>emptdrawr@gmail.com (EmptDrawr)</author><description>&lt;h2 id="图书总结">图书总结&lt;/h2>
-&lt;div >
-&lt;img src="C:\Users\11409\Downloads\昨日的世界.jpg" style="width:100px;" >
-&lt;font style="text-align:justify;font-size:20px;">昨日的世界：一个欧洲人的回忆&lt;/font>
-&lt;font>如何说&lt;/font>
-&lt;/div>
-&lt;div class="view-lr">
-&lt;div class="view-l">
-&lt;img src="https://i.loli.net/2021/12/01/OKzyo2WLqgUwp5m.png" width="100%" height="100%">
-&lt;/div>
-&lt;div class="view-r">
-&lt;ul class="view-r-ul">
-&lt;li> 一款开源的、用于快速上传图片并获取图片 URL 链接的图床工具&lt;/li>
-&lt;li>支持平台：&lt;a class="btn" target="_blank" rel="noopener" href="https://github.com/Molunerfinn/PicGo/releases">&lt;i class="fab fa-apple fa-lg">&lt;/i>&lt;/a> &lt;a class="btn" target="_blank" rel="noopener" href="https://github.com/Molunerfinn/PicGo/releases">&lt;i class="fab fa-windows fa-lg">&lt;/i>&lt;/a> &lt;a class="btn" target="_blank" rel="noopener" href="https://github.com/Molunerfinn/PicGo/releases">&lt;i class="fab fa-linux fa-lg">&lt;/i>&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/div>
-&lt;/div></description></item></channel></rss>
+&lt;p>尾曲I Know用非常具有爵士色彩的鼓开场，整首歌都延续了这种基调——仿佛在深夜的酒吧当中沉默地谈话，一杯永远喝不完的烈酒配一支总是燃烧得特别快的香烟，还没来得及吸一口就燃烧殆尽成为烟灰的香烟，于是又点一支，如同这段在痛苦中死亡、在分离中重生、重生为痛苦的关系不断循环。而这样的原谅和妥协成为整张专辑的结尾，让人不由得再听一遍，再听一遍整张专辑，又经历一次如此充沛丰富的愤怒与悲痛，割裂的喃喃自语，却也是生活的映像与许多情侣关系的缩影。&lt;/p></description><category domain="https://emptdrawr.github.io/categories/music/">Music</category><category domain="https://emptdrawr.github.io/tags/%E4%B9%90%E8%AF%84/">乐评</category><category domain="https://emptdrawr.github.io/tags/indie-music/">Indie Music</category></item></channel></rss>
